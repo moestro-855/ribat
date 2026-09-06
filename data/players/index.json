@@ -1,0 +1,3530 @@
+{
+ "ivanov i": {
+  "slug": "player-ivanov-i",
+  "games": 197
+ },
+ "rausis i": {
+  "slug": "player-rausis-i",
+  "games": 300
+ },
+ "moiseenko a": {
+  "slug": "player-moiseenko-a",
+  "games": 300
+ },
+ "smirnov p": {
+  "slug": "player-smirnov-p",
+  "games": 300
+ },
+ "mareco s": {
+  "slug": "player-mareco-s",
+  "games": 300
+ },
+ "krogius n": {
+  "slug": "player-krogius-n",
+  "games": 183
+ },
+ "xiu d": {
+  "slug": "player-xiu-d",
+  "games": 168
+ },
+ "tomczak j": {
+  "slug": "player-tomczak-j",
+  "games": 300
+ },
+ "milov v": {
+  "slug": "player-milov-v",
+  "games": 300
+ },
+ "galkin a": {
+  "slug": "player-galkin-a",
+  "games": 300
+ },
+ "sveshnikov e": {
+  "slug": "player-sveshnikov-e",
+  "games": 300
+ },
+ "yoo c": {
+  "slug": "player-yoo-c",
+  "games": 138
+ },
+ "wang h": {
+  "slug": "player-wang-h",
+  "games": 300
+ },
+ "polgar z": {
+  "slug": "player-polgar-z",
+  "games": 300
+ },
+ "dyachkov s": {
+  "slug": "player-dyachkov-s",
+  "games": 121
+ },
+ "sadler m": {
+  "slug": "player-sadler-m",
+  "games": 300
+ },
+ "chernin a": {
+  "slug": "player-chernin-a",
+  "games": 300
+ },
+ "milov l": {
+  "slug": "player-milov-l",
+  "games": 63
+ },
+ "taimanov m": {
+  "slug": "player-taimanov-m",
+  "games": 300
+ },
+ "sandipan c": {
+  "slug": "player-sandipan-c",
+  "games": 300
+ },
+ "frolyanov d": {
+  "slug": "player-frolyanov-d",
+  "games": 268
+ },
+ "spassky b": {
+  "slug": "player-spassky-b",
+  "games": 300
+ },
+ "kovalyov a": {
+  "slug": "player-kovalyov-a",
+  "games": 300
+ },
+ "iordachescu v": {
+  "slug": "player-iordachescu-v",
+  "games": 300
+ },
+ "stripunsky a": {
+  "slug": "player-stripunsky-a",
+  "games": 217
+ },
+ "andreikin d": {
+  "slug": "player-andreikin-d",
+  "games": 300
+ },
+ "slobodjan r": {
+  "slug": "player-slobodjan-r",
+  "games": 300
+ },
+ "schlosser p": {
+  "slug": "player-schlosser-p",
+  "games": 300
+ },
+ "kengis e": {
+  "slug": "player-kengis-e",
+  "games": 300
+ },
+ "gleizerov e": {
+  "slug": "player-gleizerov-e",
+  "games": 300
+ },
+ "malaniuk v": {
+  "slug": "player-malaniuk-v",
+  "games": 300
+ },
+ "xiong j": {
+  "slug": "player-xiong-j",
+  "games": 300
+ },
+ "kotronias v": {
+  "slug": "player-kotronias-v",
+  "games": 300
+ },
+ "lalith b": {
+  "slug": "player-lalith-b",
+  "games": 260
+ },
+ "sadzikowski d": {
+  "slug": "player-sadzikowski-d",
+  "games": 246
+ },
+ "akobian v": {
+  "slug": "player-akobian-v",
+  "games": 300
+ },
+ "guseinov g": {
+  "slug": "player-guseinov-g",
+  "games": 300
+ },
+ "popovic p": {
+  "slug": "player-popovic-p",
+  "games": 300
+ },
+ "iljushin a": {
+  "slug": "player-iljushin-a",
+  "games": 210
+ },
+ "friedel j": {
+  "slug": "player-friedel-j",
+  "games": 155
+ },
+ "savchenko s": {
+  "slug": "player-savchenko-s",
+  "games": 300
+ },
+ "marin m": {
+  "slug": "player-marin-m",
+  "games": 300
+ },
+ "lyrberg p": {
+  "slug": "player-lyrberg-p",
+  "games": 21
+ },
+ "speelman j": {
+  "slug": "player-speelman-j",
+  "games": 300
+ },
+ "demidov m": {
+  "slug": "player-demidov-m",
+  "games": 110
+ },
+ "wang y": {
+  "slug": "player-wang-y",
+  "games": 300
+ },
+ "benjamin j": {
+  "slug": "player-benjamin-j",
+  "games": 300
+ },
+ "amin b": {
+  "slug": "player-amin-b",
+  "games": 300
+ },
+ "vasiukov e": {
+  "slug": "player-vasiukov-e",
+  "games": 300
+ },
+ "mamedyarov s": {
+  "slug": "player-mamedyarov-s",
+  "games": 300
+ },
+ "erigaisi a": {
+  "slug": "player-erigaisi-a",
+  "games": 300
+ },
+ "hracek z": {
+  "slug": "player-hracek-z",
+  "games": 300
+ },
+ "georgiadis n": {
+  "slug": "player-georgiadis-n",
+  "games": 124
+ },
+ "li s": {
+  "slug": "player-li-s",
+  "games": 300
+ },
+ "perunovic m": {
+  "slug": "player-perunovic-m",
+  "games": 300
+ },
+ "mcshane l": {
+  "slug": "player-mcshane-l",
+  "games": 300
+ },
+ "boensch u": {
+  "slug": "player-boensch-u",
+  "games": 300
+ },
+ "spangenberg h": {
+  "slug": "player-spangenberg-h",
+  "games": 195
+ },
+ "dvoirys s": {
+  "slug": "player-dvoirys-s",
+  "games": 300
+ },
+ "agdestein s": {
+  "slug": "player-agdestein-s",
+  "games": 300
+ },
+ "graf a": {
+  "slug": "player-graf-a",
+  "games": 300
+ },
+ "gagunashvili m": {
+  "slug": "player-gagunashvili-m",
+  "games": 300
+ },
+ "zubov a": {
+  "slug": "player-zubov-a",
+  "games": 290
+ },
+ "inarkiev e": {
+  "slug": "player-inarkiev-e",
+  "games": 300
+ },
+ "lalic b": {
+  "slug": "player-lalic-b",
+  "games": 300
+ },
+ "harsha b": {
+  "slug": "player-harsha-b",
+  "games": 56
+ },
+ "svane f": {
+  "slug": "player-svane-f",
+  "games": 75
+ },
+ "zhang p": {
+  "slug": "player-zhang-p",
+  "games": 300
+ },
+ "robson r": {
+  "slug": "player-robson-r",
+  "games": 300
+ },
+ "tari a": {
+  "slug": "player-tari-a",
+  "games": 300
+ },
+ "vocaturo d": {
+  "slug": "player-vocaturo-d",
+  "games": 300
+ },
+ "tin j": {
+  "slug": "player-tin-j",
+  "games": 45
+ },
+ "jobava b": {
+  "slug": "player-jobava-b",
+  "games": 300
+ },
+ "gurevich m": {
+  "slug": "player-gurevich-m",
+  "games": 300
+ },
+ "kochyev a": {
+  "slug": "player-kochyev-a",
+  "games": 137
+ },
+ "ruzele d": {
+  "slug": "player-ruzele-d",
+  "games": 75
+ },
+ "hera i": {
+  "slug": "player-hera-i",
+  "games": 300
+ },
+ "stein l": {
+  "slug": "player-stein-l",
+  "games": 300
+ },
+ "kupreichik v": {
+  "slug": "player-kupreichik-v",
+  "games": 300
+ },
+ "balogh c": {
+  "slug": "player-balogh-c",
+  "games": 300
+ },
+ "cvitan o": {
+  "slug": "player-cvitan-o",
+  "games": 300
+ },
+ "dgebuadze a": {
+  "slug": "player-dgebuadze-a",
+  "games": 257
+ },
+ "grandelius n": {
+  "slug": "player-grandelius-n",
+  "games": 300
+ },
+ "zapata a": {
+  "slug": "player-zapata-a",
+  "games": 300
+ },
+ "ivanisevic i": {
+  "slug": "player-ivanisevic-i",
+  "games": 300
+ },
+ "sulava n": {
+  "slug": "player-sulava-n",
+  "games": 124
+ },
+ "lanka z": {
+  "slug": "player-lanka-z",
+  "games": 221
+ },
+ "golubev m": {
+  "slug": "player-golubev-m",
+  "games": 176
+ },
+ "kuzubov y": {
+  "slug": "player-kuzubov-y",
+  "games": 300
+ },
+ "velimirovic d": {
+  "slug": "player-velimirovic-d",
+  "games": 300
+ },
+ "winants l": {
+  "slug": "player-winants-l",
+  "games": 264
+ },
+ "maksimenko a": {
+  "slug": "player-maksimenko-a",
+  "games": 261
+ },
+ "makarov m": {
+  "slug": "player-makarov-m",
+  "games": 261
+ },
+ "hamdouchi h": {
+  "slug": "player-hamdouchi-h",
+  "games": 300
+ },
+ "azarov s": {
+  "slug": "player-azarov-s",
+  "games": 300
+ },
+ "ivic v": {
+  "slug": "player-ivic-v",
+  "games": 251
+ },
+ "sengupta d": {
+  "slug": "player-sengupta-d",
+  "games": 242
+ },
+ "al modiahki m": {
+  "slug": "player-al-modiahki-m",
+  "games": 300
+ },
+ "meskovs n": {
+  "slug": "player-meskovs-n",
+  "games": 156
+ },
+ "babula v": {
+  "slug": "player-babula-v",
+  "games": 300
+ },
+ "drasko m": {
+  "slug": "player-drasko-m",
+  "games": 300
+ },
+ "boruchovsky a": {
+  "slug": "player-boruchovsky-a",
+  "games": 145
+ },
+ "predojevic b": {
+  "slug": "player-predojevic-b",
+  "games": 300
+ },
+ "baklan v": {
+  "slug": "player-baklan-v",
+  "games": 300
+ },
+ "amonatov f": {
+  "slug": "player-amonatov-f",
+  "games": 300
+ },
+ "brkic a": {
+  "slug": "player-brkic-a",
+  "games": 300
+ },
+ "ziska h": {
+  "slug": "player-ziska-h",
+  "games": 48
+ },
+ "el debs f": {
+  "slug": "player-el-debs-f",
+  "games": 93
+ },
+ "sambuev b": {
+  "slug": "player-sambuev-b",
+  "games": 128
+ },
+ "svidler p": {
+  "slug": "player-svidler-p",
+  "games": 300
+ },
+ "vajda l": {
+  "slug": "player-vajda-l",
+  "games": 300
+ },
+ "furman s": {
+  "slug": "player-furman-s",
+  "games": 255
+ },
+ "de firmian n": {
+  "slug": "player-de-firmian-n",
+  "games": 300
+ },
+ "bai j": {
+  "slug": "player-bai-j",
+  "games": 300
+ },
+ "wolff p": {
+  "slug": "player-wolff-p",
+  "games": 236
+ },
+ "esen b": {
+  "slug": "player-esen-b",
+  "games": 232
+ },
+ "sagalchik g": {
+  "slug": "player-sagalchik-g",
+  "games": 61
+ },
+ "iuldachev s": {
+  "slug": "player-iuldachev-s",
+  "games": 174
+ },
+ "horvath c": {
+  "slug": "player-horvath-c",
+  "games": 300
+ },
+ "kavalek l": {
+  "slug": "player-kavalek-l",
+  "games": 300
+ },
+ "arbakov v": {
+  "slug": "player-arbakov-v",
+  "games": 53
+ },
+ "papin v": {
+  "slug": "player-papin-v",
+  "games": 191
+ },
+ "sutovsky e": {
+  "slug": "player-sutovsky-e",
+  "games": 300
+ },
+ "vaisser a": {
+  "slug": "player-vaisser-a",
+  "games": 300
+ },
+ "fedoseev v": {
+  "slug": "player-fedoseev-v",
+  "games": 300
+ },
+ "ragger m": {
+  "slug": "player-ragger-m",
+  "games": 300
+ },
+ "guliyev n": {
+  "slug": "player-guliyev-n",
+  "games": 282
+ },
+ "tregubov p": {
+  "slug": "player-tregubov-p",
+  "games": 300
+ },
+ "reinderman d": {
+  "slug": "player-reinderman-d",
+  "games": 300
+ },
+ "ivanov a": {
+  "slug": "player-ivanov-a",
+  "games": 300
+ },
+ "santos ruiz m": {
+  "slug": "player-santos-ruiz-m",
+  "games": 194
+ },
+ "albornoz cabrera c": {
+  "slug": "player-albornoz-cabrera-c",
+  "games": 158
+ },
+ "fedorowicz j": {
+  "slug": "player-fedorowicz-j",
+  "games": 300
+ },
+ "pridorozhni a": {
+  "slug": "player-pridorozhni-a",
+  "games": 300
+ },
+ "olszewski m": {
+  "slug": "player-olszewski-m",
+  "games": 183
+ },
+ "swiercz d": {
+  "slug": "player-swiercz-d",
+  "games": 300
+ },
+ "grigoryan k": {
+  "slug": "player-grigoryan-k",
+  "games": 300
+ },
+ "khamrakulov i": {
+  "slug": "player-khamrakulov-i",
+  "games": 115
+ },
+ "gonzalez vidal y": {
+  "slug": "player-gonzalez-vidal-y",
+  "games": 243
+ },
+ "maghsoodloo p": {
+  "slug": "player-maghsoodloo-p",
+  "games": 300
+ },
+ "kiriakov p": {
+  "slug": "player-kiriakov-p",
+  "games": 170
+ },
+ "negi p": {
+  "slug": "player-negi-p",
+  "games": 300
+ },
+ "grachev b": {
+  "slug": "player-grachev-b",
+  "games": 300
+ },
+ "perez candelario m": {
+  "slug": "player-perez-candelario-m",
+  "games": 247
+ },
+ "gharamian t": {
+  "slug": "player-gharamian-t",
+  "games": 300
+ },
+ "deviatkin a": {
+  "slug": "player-deviatkin-a",
+  "games": 170
+ },
+ "lintchevski d": {
+  "slug": "player-lintchevski-d",
+  "games": 224
+ },
+ "goryachkina a": {
+  "slug": "player-goryachkina-a",
+  "games": 300
+ },
+ "shcherbakov r": {
+  "slug": "player-shcherbakov-r",
+  "games": 300
+ },
+ "rakhmanov a": {
+  "slug": "player-rakhmanov-a",
+  "games": 300
+ },
+ "dokhoian y": {
+  "slug": "player-dokhoian-y",
+  "games": 170
+ },
+ "van der sterren p": {
+  "slug": "player-van-der-sterren-p",
+  "games": 300
+ },
+ "goganov a": {
+  "slug": "player-goganov-a",
+  "games": 300
+ },
+ "grigoriants s": {
+  "slug": "player-grigoriants-s",
+  "games": 300
+ },
+ "ivanov s": {
+  "slug": "player-ivanov-s",
+  "games": 300
+ },
+ "huzman a": {
+  "slug": "player-huzman-a",
+  "games": 300
+ },
+ "christiansen l": {
+  "slug": "player-christiansen-l",
+  "games": 300
+ },
+ "oleksienko m": {
+  "slug": "player-oleksienko-m",
+  "games": 300
+ },
+ "xu x": {
+  "slug": "player-xu-x",
+  "games": 292
+ },
+ "kosashvili y": {
+  "slug": "player-kosashvili-y",
+  "games": 70
+ },
+ "kasparov g": {
+  "slug": "player-kasparov-g",
+  "games": 300
+ },
+ "polugaevsky l": {
+  "slug": "player-polugaevsky-l",
+  "games": 300
+ },
+ "volokitin a": {
+  "slug": "player-volokitin-a",
+  "games": 300
+ },
+ "naiditsch a": {
+  "slug": "player-naiditsch-a",
+  "games": 300
+ },
+ "dzagnidze n": {
+  "slug": "player-dzagnidze-n",
+  "games": 274
+ },
+ "warmerdam m": {
+  "slug": "player-warmerdam-m",
+  "games": 176
+ },
+ "kazhgaleyev m": {
+  "slug": "player-kazhgaleyev-m",
+  "games": 300
+ },
+ "knaak r": {
+  "slug": "player-knaak-r",
+  "games": 300
+ },
+ "ni h": {
+  "slug": "player-ni-h",
+  "games": 300
+ },
+ "sadvakasov d": {
+  "slug": "player-sadvakasov-d",
+  "games": 247
+ },
+ "lupulescu c": {
+  "slug": "player-lupulescu-c",
+  "games": 300
+ },
+ "ghosh d": {
+  "slug": "player-ghosh-d",
+  "games": 74
+ },
+ "pruijssers r": {
+  "slug": "player-pruijssers-r",
+  "games": 170
+ },
+ "li r": {
+  "slug": "player-li-r",
+  "games": 125
+ },
+ "suleymanli a": {
+  "slug": "player-suleymanli-a",
+  "games": 151
+ },
+ "bogner s": {
+  "slug": "player-bogner-s",
+  "games": 300
+ },
+ "berkes f": {
+  "slug": "player-berkes-f",
+  "games": 300
+ },
+ "gdanski j": {
+  "slug": "player-gdanski-j",
+  "games": 252
+ },
+ "felgaer r": {
+  "slug": "player-felgaer-r",
+  "games": 300
+ },
+ "meier g": {
+  "slug": "player-meier-g",
+  "games": 300
+ },
+ "timoshenko g": {
+  "slug": "player-timoshenko-g",
+  "games": 300
+ },
+ "sychev k": {
+  "slug": "player-sychev-k",
+  "games": 136
+ },
+ "fedorov a": {
+  "slug": "player-fedorov-a",
+  "games": 300
+ },
+ "perez ponsa f": {
+  "slug": "player-perez-ponsa-f",
+  "games": 151
+ },
+ "shomoev a": {
+  "slug": "player-shomoev-a",
+  "games": 300
+ },
+ "stevic h": {
+  "slug": "player-stevic-h",
+  "games": 300
+ },
+ "giri a": {
+  "slug": "player-giri-a",
+  "games": 300
+ },
+ "antonio r": {
+  "slug": "player-antonio-r",
+  "games": 275
+ },
+ "panno o": {
+  "slug": "player-panno-o",
+  "games": 300
+ },
+ "chigaev m": {
+  "slug": "player-chigaev-m",
+  "games": 300
+ },
+ "hjartarson j": {
+  "slug": "player-hjartarson-j",
+  "games": 300
+ },
+ "beliavsky a": {
+  "slug": "player-beliavsky-a",
+  "games": 300
+ },
+ "nyzhnyk i": {
+  "slug": "player-nyzhnyk-i",
+  "games": 300
+ },
+ "miladinovic i": {
+  "slug": "player-miladinovic-i",
+  "games": 300
+ },
+ "shankland s": {
+  "slug": "player-shankland-s",
+  "games": 300
+ },
+ "romanov e": {
+  "slug": "player-romanov-e",
+  "games": 300
+ },
+ "le roux j": {
+  "slug": "player-le-roux-j",
+  "games": 177
+ },
+ "paragua m": {
+  "slug": "player-paragua-m",
+  "games": 211
+ },
+ "ju w": {
+  "slug": "player-ju-w",
+  "games": 300
+ },
+ "miezis n": {
+  "slug": "player-miezis-n",
+  "games": 300
+ },
+ "lagarde m": {
+  "slug": "player-lagarde-m",
+  "games": 300
+ },
+ "svetushkin d": {
+  "slug": "player-svetushkin-d",
+  "games": 300
+ },
+ "movsesian s": {
+  "slug": "player-movsesian-s",
+  "games": 300
+ },
+ "landa k": {
+  "slug": "player-landa-k",
+  "games": 300
+ },
+ "kolev a": {
+  "slug": "player-kolev-a",
+  "games": 206
+ },
+ "aravindh c": {
+  "slug": "player-aravindh-c",
+  "games": 261
+ },
+ "nihal s": {
+  "slug": "player-nihal-s",
+  "games": 300
+ },
+ "hertneck g": {
+  "slug": "player-hertneck-g",
+  "games": 300
+ },
+ "gabuzyan h": {
+  "slug": "player-gabuzyan-h",
+  "games": 300
+ },
+ "dolmatov s": {
+  "slug": "player-dolmatov-s",
+  "games": 300
+ },
+ "urkedal f": {
+  "slug": "player-urkedal-f",
+  "games": 178
+ },
+ "nielsen p": {
+  "slug": "player-nielsen-p",
+  "games": 300
+ },
+ "nakamura h": {
+  "slug": "player-nakamura-h",
+  "games": 300
+ },
+ "zhang z": {
+  "slug": "player-zhang-z",
+  "games": 300
+ },
+ "rogers i": {
+  "slug": "player-rogers-i",
+  "games": 300
+ },
+ "zubarev a": {
+  "slug": "player-zubarev-a",
+  "games": 257
+ },
+ "mecking h": {
+  "slug": "player-mecking-h",
+  "games": 300
+ },
+ "geller j": {
+  "slug": "player-geller-j",
+  "games": 155
+ },
+ "batchuluun t": {
+  "slug": "player-batchuluun-t",
+  "games": 111
+ },
+ "asadli v": {
+  "slug": "player-asadli-v",
+  "games": 96
+ },
+ "leitao r": {
+  "slug": "player-leitao-r",
+  "games": 300
+ },
+ "karjakin s": {
+  "slug": "player-karjakin-s",
+  "games": 300
+ },
+ "pigusov e": {
+  "slug": "player-pigusov-e",
+  "games": 300
+ },
+ "vitiugov n": {
+  "slug": "player-vitiugov-n",
+  "games": 300
+ },
+ "alekseenko k": {
+  "slug": "player-alekseenko-k",
+  "games": 300
+ },
+ "byrne r": {
+  "slug": "player-byrne-r",
+  "games": 300
+ },
+ "muzychuk m": {
+  "slug": "player-muzychuk-m",
+  "games": 239
+ },
+ "kollars d": {
+  "slug": "player-kollars-d",
+  "games": 262
+ },
+ "dardha d": {
+  "slug": "player-dardha-d",
+  "games": 175
+ },
+ "lie k": {
+  "slug": "player-lie-k",
+  "games": 120
+ },
+ "gipslis a": {
+  "slug": "player-gipslis-a",
+  "games": 300
+ },
+ "petursson m": {
+  "slug": "player-petursson-m",
+  "games": 300
+ },
+ "chiburdanidze m": {
+  "slug": "player-chiburdanidze-m",
+  "games": 300
+ },
+ "jumabayev r": {
+  "slug": "player-jumabayev-r",
+  "games": 300
+ },
+ "vokhidov s": {
+  "slug": "player-vokhidov-s",
+  "games": 128
+ },
+ "eliseev u": {
+  "slug": "player-eliseev-u",
+  "games": 110
+ },
+ "kobalia m": {
+  "slug": "player-kobalia-m",
+  "games": 300
+ },
+ "radulski j": {
+  "slug": "player-radulski-j",
+  "games": 192
+ },
+ "kruppa y": {
+  "slug": "player-kruppa-y",
+  "games": 200
+ },
+ "szabo k": {
+  "slug": "player-szabo-k",
+  "games": 157
+ },
+ "rozentalis e": {
+  "slug": "player-rozentalis-e",
+  "games": 300
+ },
+ "savchenko b": {
+  "slug": "player-savchenko-b",
+  "games": 300
+ },
+ "markus r": {
+  "slug": "player-markus-r",
+  "games": 300
+ },
+ "fedorchuk s": {
+  "slug": "player-fedorchuk-s",
+  "games": 300
+ },
+ "bocharov d": {
+  "slug": "player-bocharov-d",
+  "games": 300
+ },
+ "zhao z": {
+  "slug": "player-zhao-z",
+  "games": 86
+ },
+ "sadorra j": {
+  "slug": "player-sadorra-j",
+  "games": 111
+ },
+ "peralta f": {
+  "slug": "player-peralta-f",
+  "games": 300
+ },
+ "azmaiparashvili z": {
+  "slug": "player-azmaiparashvili-z",
+  "games": 300
+ },
+ "morovic fernandez i": {
+  "slug": "player-morovic-fernandez-i",
+  "games": 300
+ },
+ "hansen c": {
+  "slug": "player-hansen-c",
+  "games": 300
+ },
+ "kuzmin g": {
+  "slug": "player-kuzmin-g",
+  "games": 300
+ },
+ "van foreest l": {
+  "slug": "player-van-foreest-l",
+  "games": 243
+ },
+ "neverov v": {
+  "slug": "player-neverov-v",
+  "games": 300
+ },
+ "vavulin m": {
+  "slug": "player-vavulin-m",
+  "games": 108
+ },
+ "predke a": {
+  "slug": "player-predke-a",
+  "games": 300
+ },
+ "almeida quintana o": {
+  "slug": "player-almeida-quintana-o",
+  "games": 268
+ },
+ "so w": {
+  "slug": "player-so-w",
+  "games": 300
+ },
+ "glek i": {
+  "slug": "player-glek-i",
+  "games": 300
+ },
+ "miroshnichenko e": {
+  "slug": "player-miroshnichenko-e",
+  "games": 300
+ },
+ "milos g": {
+  "slug": "player-milos-g",
+  "games": 300
+ },
+ "kosteniuk a": {
+  "slug": "player-kosteniuk-a",
+  "games": 300
+ },
+ "stefansson h": {
+  "slug": "player-stefansson-h",
+  "games": 300
+ },
+ "zhou j": {
+  "slug": "player-zhou-j",
+  "games": 300
+ },
+ "rashkovsky n": {
+  "slug": "player-rashkovsky-n",
+  "games": 300
+ },
+ "delchev a": {
+  "slug": "player-delchev-a",
+  "games": 300
+ },
+ "duda j": {
+  "slug": "player-duda-j",
+  "games": 300
+ },
+ "ding l": {
+  "slug": "player-ding-l",
+  "games": 300
+ },
+ "naroditsky d": {
+  "slug": "player-naroditsky-d",
+  "games": 276
+ },
+ "ivanchuk v": {
+  "slug": "player-ivanchuk-v",
+  "games": 300
+ },
+ "svane r": {
+  "slug": "player-svane-r",
+  "games": 300
+ },
+ "hodgson j": {
+  "slug": "player-hodgson-j",
+  "games": 300
+ },
+ "vladimirov y": {
+  "slug": "player-vladimirov-y",
+  "games": 258
+ },
+ "ibragimov i": {
+  "slug": "player-ibragimov-i",
+  "games": 300
+ },
+ "pichot a": {
+  "slug": "player-pichot-a",
+  "games": 293
+ },
+ "illescas cordoba m": {
+  "slug": "player-illescas-cordoba-m",
+  "games": 300
+ },
+ "nogueiras santiago j": {
+  "slug": "player-nogueiras-santiago-j",
+  "games": 300
+ },
+ "cebalo m": {
+  "slug": "player-cebalo-m",
+  "games": 300
+ },
+ "eljanov p": {
+  "slug": "player-eljanov-p",
+  "games": 300
+ },
+ "romanishin o": {
+  "slug": "player-romanishin-o",
+  "games": 300
+ },
+ "van kampen r": {
+  "slug": "player-van-kampen-r",
+  "games": 253
+ },
+ "kuybokarov t": {
+  "slug": "player-kuybokarov-t",
+  "games": 71
+ },
+ "baramidze d": {
+  "slug": "player-baramidze-d",
+  "games": 300
+ },
+ "lysyj i": {
+  "slug": "player-lysyj-i",
+  "games": 300
+ },
+ "rahman z": {
+  "slug": "player-rahman-z",
+  "games": 245
+ },
+ "can e": {
+  "slug": "player-can-e",
+  "games": 300
+ },
+ "ionov s": {
+  "slug": "player-ionov-s",
+  "games": 300
+ },
+ "finegold b": {
+  "slug": "player-finegold-b",
+  "games": 112
+ },
+ "stojanovic m": {
+  "slug": "player-stojanovic-m",
+  "games": 248
+ },
+ "yilmaz m": {
+  "slug": "player-yilmaz-m",
+  "games": 300
+ },
+ "volzhin a": {
+  "slug": "player-volzhin-a",
+  "games": 151
+ },
+ "liberzon v": {
+  "slug": "player-liberzon-v",
+  "games": 250
+ },
+ "petrosyan m": {
+  "slug": "player-petrosyan-m",
+  "games": 300
+ },
+ "bruzon batista l": {
+  "slug": "player-bruzon-batista-l",
+  "games": 300
+ },
+ "nguyen a": {
+  "slug": "player-nguyen-a",
+  "games": 169
+ },
+ "yemelin v": {
+  "slug": "player-yemelin-v",
+  "games": 300
+ },
+ "adly a": {
+  "slug": "player-adly-a",
+  "games": 300
+ },
+ "nesterov a": {
+  "slug": "player-nesterov-a",
+  "games": 123
+ },
+ "adorjan a": {
+  "slug": "player-adorjan-a",
+  "games": 300
+ },
+ "stanec n": {
+  "slug": "player-stanec-n",
+  "games": 68
+ },
+ "nataf i": {
+  "slug": "player-nataf-i",
+  "games": 300
+ },
+ "riazantsev a": {
+  "slug": "player-riazantsev-a",
+  "games": 300
+ },
+ "bauer c": {
+  "slug": "player-bauer-c",
+  "games": 300
+ },
+ "zherebukh y": {
+  "slug": "player-zherebukh-y",
+  "games": 300
+ },
+ "schmid l": {
+  "slug": "player-schmid-l",
+  "games": 137
+ },
+ "martirosyan h": {
+  "slug": "player-martirosyan-h",
+  "games": 300
+ },
+ "yudasin l": {
+  "slug": "player-yudasin-l",
+  "games": 300
+ },
+ "bogdanovich s": {
+  "slug": "player-bogdanovich-s",
+  "games": 158
+ },
+ "ulybin m": {
+  "slug": "player-ulybin-m",
+  "games": 300
+ },
+ "demchenko a": {
+  "slug": "player-demchenko-a",
+  "games": 300
+ },
+ "alburt l": {
+  "slug": "player-alburt-l",
+  "games": 300
+ },
+ "sevian s": {
+  "slug": "player-sevian-s",
+  "games": 300
+ },
+ "nguyen t": {
+  "slug": "player-nguyen-t",
+  "games": 300
+ },
+ "vasquez schroder r": {
+  "slug": "player-vasquez-schroder-r",
+  "games": 186
+ },
+ "alekseev e": {
+  "slug": "player-alekseev-e",
+  "games": 300
+ },
+ "pinter j": {
+  "slug": "player-pinter-j",
+  "games": 300
+ },
+ "kharlov a": {
+  "slug": "player-kharlov-a",
+  "games": 300
+ },
+ "luther t": {
+  "slug": "player-luther-t",
+  "games": 300
+ },
+ "kritz l": {
+  "slug": "player-kritz-l",
+  "games": 261
+ },
+ "gumularz s": {
+  "slug": "player-gumularz-s",
+  "games": 135
+ },
+ "iljin a": {
+  "slug": "player-iljin-a",
+  "games": 130
+ },
+ "tabatabaei m": {
+  "slug": "player-tabatabaei-m",
+  "games": 300
+ },
+ "shirov a": {
+  "slug": "player-shirov-a",
+  "games": 300
+ },
+ "kaidanov g": {
+  "slug": "player-kaidanov-g",
+  "games": 300
+ },
+ "iskandarov m": {
+  "slug": "player-iskandarov-m",
+  "games": 109
+ },
+ "kovalev v": {
+  "slug": "player-kovalev-v",
+  "games": 300
+ },
+ "bosiocic m": {
+  "slug": "player-bosiocic-m",
+  "games": 300
+ },
+ "lesiege a": {
+  "slug": "player-lesiege-a",
+  "games": 190
+ },
+ "shtembuliak e": {
+  "slug": "player-shtembuliak-e",
+  "games": 75
+ },
+ "istratescu a": {
+  "slug": "player-istratescu-a",
+  "games": 300
+ },
+ "gupta a": {
+  "slug": "player-gupta-a",
+  "games": 300
+ },
+ "epishin v": {
+  "slug": "player-epishin-v",
+  "games": 300
+ },
+ "buhmann r": {
+  "slug": "player-buhmann-r",
+  "games": 300
+ },
+ "firman n": {
+  "slug": "player-firman-n",
+  "games": 141
+ },
+ "dubov d": {
+  "slug": "player-dubov-d",
+  "games": 300
+ },
+ "acs p": {
+  "slug": "player-acs-p",
+  "games": 300
+ },
+ "stellwagen d": {
+  "slug": "player-stellwagen-d",
+  "games": 300
+ },
+ "kosintseva n": {
+  "slug": "player-kosintseva-n",
+  "games": 98
+ },
+ "ibarra jerez j": {
+  "slug": "player-ibarra-jerez-j",
+  "games": 107
+ },
+ "sulskis s": {
+  "slug": "player-sulskis-s",
+  "games": 300
+ },
+ "vaibhav s": {
+  "slug": "player-vaibhav-s",
+  "games": 125
+ },
+ "skoberne j": {
+  "slug": "player-skoberne-j",
+  "games": 199
+ },
+ "varga z": {
+  "slug": "player-varga-z",
+  "games": 300
+ },
+ "maze s": {
+  "slug": "player-maze-s",
+  "games": 300
+ },
+ "lastin a": {
+  "slug": "player-lastin-a",
+  "games": 300
+ },
+ "kramnik v": {
+  "slug": "player-kramnik-v",
+  "games": 300
+ },
+ "korotylev a": {
+  "slug": "player-korotylev-a",
+  "games": 224
+ },
+ "pranav v": {
+  "slug": "player-pranav-v",
+  "games": 63
+ },
+ "vuckovic b": {
+  "slug": "player-vuckovic-b",
+  "games": 290
+ },
+ "tikkanen h": {
+  "slug": "player-tikkanen-h",
+  "games": 175
+ },
+ "pap g": {
+  "slug": "player-pap-g",
+  "games": 87
+ },
+ "socko b": {
+  "slug": "player-socko-b",
+  "games": 300
+ },
+ "cordova e": {
+  "slug": "player-cordova-e",
+  "games": 300
+ },
+ "macieja b": {
+  "slug": "player-macieja-b",
+  "games": 300
+ },
+ "agrest e": {
+  "slug": "player-agrest-e",
+  "games": 300
+ },
+ "sax g": {
+  "slug": "player-sax-g",
+  "games": 300
+ },
+ "malakhatko v": {
+  "slug": "player-malakhatko-v",
+  "games": 300
+ },
+ "spraggett k": {
+  "slug": "player-spraggett-k",
+  "games": 300
+ },
+ "yegiazarian a": {
+  "slug": "player-yegiazarian-a",
+  "games": 110
+ },
+ "baburin a": {
+  "slug": "player-baburin-a",
+  "games": 269
+ },
+ "zezulkin j": {
+  "slug": "player-zezulkin-j",
+  "games": 37
+ },
+ "lu s": {
+  "slug": "player-lu-s",
+  "games": 300
+ },
+ "aseev k": {
+  "slug": "player-aseev-k",
+  "games": 300
+ },
+ "dervishi e": {
+  "slug": "player-dervishi-e",
+  "games": 109
+ },
+ "fressinet l": {
+  "slug": "player-fressinet-l",
+  "games": 300
+ },
+ "vaganian r": {
+  "slug": "player-vaganian-r",
+  "games": 300
+ },
+ "tukhaev a": {
+  "slug": "player-tukhaev-a",
+  "games": 157
+ },
+ "leko p": {
+  "slug": "player-leko-p",
+  "games": 300
+ },
+ "kamsky g": {
+  "slug": "player-kamsky-g",
+  "games": 300
+ },
+ "browne w": {
+  "slug": "player-browne-w",
+  "games": 300
+ },
+ "aronian l": {
+  "slug": "player-aronian-l",
+  "games": 300
+ },
+ "sturua z": {
+  "slug": "player-sturua-z",
+  "games": 300
+ },
+ "gajewski g": {
+  "slug": "player-gajewski-g",
+  "games": 300
+ },
+ "leon hoyos m": {
+  "slug": "player-leon-hoyos-m",
+  "games": 165
+ },
+ "pelletier y": {
+  "slug": "player-pelletier-y",
+  "games": 300
+ },
+ "barbosa o": {
+  "slug": "player-barbosa-o",
+  "games": 130
+ },
+ "barua d": {
+  "slug": "player-barua-d",
+  "games": 288
+ },
+ "melkumyan h": {
+  "slug": "player-melkumyan-h",
+  "games": 300
+ },
+ "gordievsky d": {
+  "slug": "player-gordievsky-d",
+  "games": 168
+ },
+ "kobo o": {
+  "slug": "player-kobo-o",
+  "games": 47
+ },
+ "gulko b": {
+  "slug": "player-gulko-b",
+  "games": 300
+ },
+ "vyzmanavin a": {
+  "slug": "player-vyzmanavin-a",
+  "games": 300
+ },
+ "miles a": {
+  "slug": "player-miles-a",
+  "games": 300
+ },
+ "kryakvin d": {
+  "slug": "player-kryakvin-d",
+  "games": 261
+ },
+ "sethuraman s": {
+  "slug": "player-sethuraman-s",
+  "games": 300
+ },
+ "strikovic a": {
+  "slug": "player-strikovic-a",
+  "games": 275
+ },
+ "krasenkow m": {
+  "slug": "player-krasenkow-m",
+  "games": 300
+ },
+ "evans l": {
+  "slug": "player-evans-l",
+  "games": 186
+ },
+ "potkin v": {
+  "slug": "player-potkin-v",
+  "games": 300
+ },
+ "stefanova a": {
+  "slug": "player-stefanova-a",
+  "games": 300
+ },
+ "murey j": {
+  "slug": "player-murey-j",
+  "games": 202
+ },
+ "sanikidze t": {
+  "slug": "player-sanikidze-t",
+  "games": 292
+ },
+ "salov v": {
+  "slug": "player-salov-v",
+  "games": 300
+ },
+ "olafsson h": {
+  "slug": "player-olafsson-h",
+  "games": 300
+ },
+ "miton k": {
+  "slug": "player-miton-k",
+  "games": 300
+ },
+ "hess r": {
+  "slug": "player-hess-r",
+  "games": 208
+ },
+ "feygin m": {
+  "slug": "player-feygin-m",
+  "games": 137
+ },
+ "sunye neto j": {
+  "slug": "player-sunye-neto-j",
+  "games": 300
+ },
+ "petrosian t": {
+  "slug": "player-petrosian-t",
+  "games": 300
+ },
+ "hebden m": {
+  "slug": "player-hebden-m",
+  "games": 300
+ },
+ "brunello s": {
+  "slug": "player-brunello-s",
+  "games": 300
+ },
+ "gofshtein l": {
+  "slug": "player-gofshtein-l",
+  "games": 272
+ },
+ "shimanov a": {
+  "slug": "player-shimanov-a",
+  "games": 300
+ },
+ "berg e": {
+  "slug": "player-berg-e",
+  "games": 300
+ },
+ "onischuk v": {
+  "slug": "player-onischuk-v",
+  "games": 300
+ },
+ "firouzja a": {
+  "slug": "player-firouzja-a",
+  "games": 300
+ },
+ "maslak k": {
+  "slug": "player-maslak-k",
+  "games": 141
+ },
+ "hulak k": {
+  "slug": "player-hulak-k",
+  "games": 300
+ },
+ "idani p": {
+  "slug": "player-idani-p",
+  "games": 272
+ },
+ "khismatullin d": {
+  "slug": "player-khismatullin-d",
+  "games": 300
+ },
+ "ruban v": {
+  "slug": "player-ruban-v",
+  "games": 129
+ },
+ "horvath j": {
+  "slug": "player-horvath-j",
+  "games": 300
+ },
+ "jankovic a": {
+  "slug": "player-jankovic-a",
+  "games": 300
+ },
+ "suetin a": {
+  "slug": "player-suetin-a",
+  "games": 258
+ },
+ "yusupov a": {
+  "slug": "player-yusupov-a",
+  "games": 4
+ },
+ "henriquez villagra c": {
+  "slug": "player-henriquez-villagra-c",
+  "games": 110
+ },
+ "nguyen n": {
+  "slug": "player-nguyen-n",
+  "games": 300
+ },
+ "anton guijarro d": {
+  "slug": "player-anton-guijarro-d",
+  "games": 300
+ },
+ "postny e": {
+  "slug": "player-postny-e",
+  "games": 300
+ },
+ "vachier lagrave m": {
+  "slug": "player-vachier-lagrave-m",
+  "games": 300
+ },
+ "solak d": {
+  "slug": "player-solak-d",
+  "games": 300
+ },
+ "mendonca l": {
+  "slug": "player-mendonca-l",
+  "games": 118
+ },
+ "nevednichy v": {
+  "slug": "player-nevednichy-v",
+  "games": 300
+ },
+ "delgado ramirez n": {
+  "slug": "player-delgado-ramirez-n",
+  "games": 300
+ },
+ "vorobiov e": {
+  "slug": "player-vorobiov-e",
+  "games": 300
+ },
+ "dydyshko v": {
+  "slug": "player-dydyshko-v",
+  "games": 210
+ },
+ "smirnov a": {
+  "slug": "player-smirnov-a",
+  "games": 97
+ },
+ "vidit s": {
+  "slug": "player-vidit-s",
+  "games": 300
+ },
+ "fier a": {
+  "slug": "player-fier-a",
+  "games": 300
+ },
+ "zhou w": {
+  "slug": "player-zhou-w",
+  "games": 300
+ },
+ "huschenbeth n": {
+  "slug": "player-huschenbeth-n",
+  "games": 300
+ },
+ "zilberman y": {
+  "slug": "player-zilberman-y",
+  "games": 62
+ },
+ "van foreest j": {
+  "slug": "player-van-foreest-j",
+  "games": 300
+ },
+ "nyback t": {
+  "slug": "player-nyback-t",
+  "games": 300
+ },
+ "mchedlishvili m": {
+  "slug": "player-mchedlishvili-m",
+  "games": 300
+ },
+ "kempinski r": {
+  "slug": "player-kempinski-r",
+  "games": 300
+ },
+ "safarli e": {
+  "slug": "player-safarli-e",
+  "games": 300
+ },
+ "holt c": {
+  "slug": "player-holt-c",
+  "games": 105
+ },
+ "ehlvest j": {
+  "slug": "player-ehlvest-j",
+  "games": 300
+ },
+ "cornette m": {
+  "slug": "player-cornette-m",
+  "games": 300
+ },
+ "kovacevic a": {
+  "slug": "player-kovacevic-a",
+  "games": 300
+ },
+ "santos latasa j": {
+  "slug": "player-santos-latasa-j",
+  "games": 300
+ },
+ "niemann h": {
+  "slug": "player-niemann-h",
+  "games": 300
+ },
+ "andersson u": {
+  "slug": "player-andersson-u",
+  "games": 300
+ },
+ "filippov v": {
+  "slug": "player-filippov-v",
+  "games": 300
+ },
+ "dorfman j": {
+  "slug": "player-dorfman-j",
+  "games": 300
+ },
+ "ortiz suarez i": {
+  "slug": "player-ortiz-suarez-i",
+  "games": 300
+ },
+ "wen y": {
+  "slug": "player-wen-y",
+  "games": 300
+ },
+ "johannessen l": {
+  "slug": "player-johannessen-l",
+  "games": 224
+ },
+ "timofeev a": {
+  "slug": "player-timofeev-a",
+  "games": 300
+ },
+ "tkachiev v": {
+  "slug": "player-tkachiev-v",
+  "games": 300
+ },
+ "gopal g": {
+  "slug": "player-gopal-g",
+  "games": 300
+ },
+ "seirawan y": {
+  "slug": "player-seirawan-y",
+  "games": 300
+ },
+ "ponomariov r": {
+  "slug": "player-ponomariov-r",
+  "games": 300
+ },
+ "ernst t": {
+  "slug": "player-ernst-t",
+  "games": 163
+ },
+ "anastasian a": {
+  "slug": "player-anastasian-a",
+  "games": 300
+ },
+ "savon v": {
+  "slug": "player-savon-v",
+  "games": 295
+ },
+ "howell d": {
+  "slug": "player-howell-d",
+  "games": 300
+ },
+ "bok b": {
+  "slug": "player-bok-b",
+  "games": 300
+ },
+ "borovikov v": {
+  "slug": "player-borovikov-v",
+  "games": 191
+ },
+ "hernandez guerrero g": {
+  "slug": "player-hernandez-guerrero-g",
+  "games": 300
+ },
+ "puranik a": {
+  "slug": "player-puranik-a",
+  "games": 173
+ },
+ "esipenko a": {
+  "slug": "player-esipenko-a",
+  "games": 300
+ },
+ "oll l": {
+  "slug": "player-oll-l",
+  "games": 300
+ },
+ "oratovsky m": {
+  "slug": "player-oratovsky-m",
+  "games": 74
+ },
+ "maletin p": {
+  "slug": "player-maletin-p",
+  "games": 300
+ },
+ "kunte a": {
+  "slug": "player-kunte-a",
+  "games": 282
+ },
+ "psakhis l": {
+  "slug": "player-psakhis-l",
+  "games": 300
+ },
+ "damljanovic b": {
+  "slug": "player-damljanovic-b",
+  "games": 300
+ },
+ "kozak a": {
+  "slug": "player-kozak-a",
+  "games": 140
+ },
+ "neiksans a": {
+  "slug": "player-neiksans-a",
+  "games": 269
+ },
+ "geller e": {
+  "slug": "player-geller-e",
+  "games": 300
+ },
+ "popov i": {
+  "slug": "player-popov-i",
+  "games": 300
+ },
+ "loginov v": {
+  "slug": "player-loginov-v",
+  "games": 300
+ },
+ "kasimdzhanov r": {
+  "slug": "player-kasimdzhanov-r",
+  "games": 300
+ },
+ "hansen l": {
+  "slug": "player-hansen-l",
+  "games": 300
+ },
+ "vallejo pons f": {
+  "slug": "player-vallejo-pons-f",
+  "games": 300
+ },
+ "quesada perez y": {
+  "slug": "player-quesada-perez-y",
+  "games": 300
+ },
+ "bluvshtein m": {
+  "slug": "player-bluvshtein-m",
+  "games": 153
+ },
+ "haba p": {
+  "slug": "player-haba-p",
+  "games": 284
+ },
+ "hellers f": {
+  "slug": "player-hellers-f",
+  "games": 265
+ },
+ "topalov v": {
+  "slug": "player-topalov-v",
+  "games": 300
+ },
+ "asrian k": {
+  "slug": "player-asrian-k",
+  "games": 300
+ },
+ "david a": {
+  "slug": "player-david-a",
+  "games": 300
+ },
+ "wagner d": {
+  "slug": "player-wagner-d",
+  "games": 230
+ },
+ "pavasovic d": {
+  "slug": "player-pavasovic-d",
+  "games": 300
+ },
+ "schneider b": {
+  "slug": "player-schneider-b",
+  "games": 4
+ },
+ "bacrot e": {
+  "slug": "player-bacrot-e",
+  "games": 300
+ },
+ "hillarp persson t": {
+  "slug": "player-hillarp-persson-t",
+  "games": 300
+ },
+ "ter sahakyan s": {
+  "slug": "player-ter-sahakyan-s",
+  "games": 300
+ },
+ "kogan a": {
+  "slug": "player-kogan-a",
+  "games": 300
+ },
+ "dreev a": {
+  "slug": "player-dreev-a",
+  "games": 300
+ },
+ "petrov n": {
+  "slug": "player-petrov-n",
+  "games": 142
+ },
+ "lautier j": {
+  "slug": "player-lautier-j",
+  "games": 300
+ },
+ "bartel m": {
+  "slug": "player-bartel-m",
+  "games": 300
+ },
+ "hammer j": {
+  "slug": "player-hammer-j",
+  "games": 300
+ },
+ "moussard j": {
+  "slug": "player-moussard-j",
+  "games": 295
+ },
+ "dautov r": {
+  "slug": "player-dautov-r",
+  "games": 300
+ },
+ "dzhumaev m": {
+  "slug": "player-dzhumaev-m",
+  "games": 185
+ },
+ "rowson j": {
+  "slug": "player-rowson-j",
+  "games": 178
+ },
+ "khalifman a": {
+  "slug": "player-khalifman-a",
+  "games": 300
+ },
+ "nepomniachtchi i": {
+  "slug": "player-nepomniachtchi-i",
+  "games": 300
+ },
+ "abasov n": {
+  "slug": "player-abasov-n",
+  "games": 300
+ },
+ "borisek j": {
+  "slug": "player-borisek-j",
+  "games": 222
+ },
+ "tiviakov s": {
+  "slug": "player-tiviakov-s",
+  "games": 300
+ },
+ "rapport r": {
+  "slug": "player-rapport-r",
+  "games": 300
+ },
+ "kaminski m": {
+  "slug": "player-kaminski-m",
+  "games": 89
+ },
+ "chadaev n": {
+  "slug": "player-chadaev-n",
+  "games": 144
+ },
+ "antipov m": {
+  "slug": "player-antipov-m",
+  "games": 300
+ },
+ "belov v": {
+  "slug": "player-belov-v",
+  "games": 300
+ },
+ "mitkov n": {
+  "slug": "player-mitkov-n",
+  "games": 262
+ },
+ "gareyev t": {
+  "slug": "player-gareyev-t",
+  "games": 300
+ },
+ "mikhalevski v": {
+  "slug": "player-mikhalevski-v",
+  "games": 300
+ },
+ "turov m": {
+  "slug": "player-turov-m",
+  "games": 300
+ },
+ "grischuk a": {
+  "slug": "player-grischuk-a",
+  "games": 300
+ },
+ "christiansen j": {
+  "slug": "player-christiansen-j",
+  "games": 143
+ },
+ "kulaots k": {
+  "slug": "player-kulaots-k",
+  "games": 300
+ },
+ "adams m": {
+  "slug": "player-adams-m",
+  "games": 300
+ },
+ "li c": {
+  "slug": "player-li-c",
+  "games": 300
+ },
+ "salem a": {
+  "slug": "player-salem-a",
+  "games": 300
+ },
+ "kryvoruchko y": {
+  "slug": "player-kryvoruchko-y",
+  "games": 300
+ },
+ "godena m": {
+  "slug": "player-godena-m",
+  "games": 300
+ },
+ "bacallao alonso y": {
+  "slug": "player-bacallao-alonso-y",
+  "games": 166
+ },
+ "brodsky m": {
+  "slug": "player-brodsky-m",
+  "games": 300
+ },
+ "mista a": {
+  "slug": "player-mista-a",
+  "games": 300
+ },
+ "palac m": {
+  "slug": "player-palac-m",
+  "games": 300
+ },
+ "yudin s": {
+  "slug": "player-yudin-s",
+  "games": 153
+ },
+ "sokolov a": {
+  "slug": "player-sokolov-a",
+  "games": 300
+ },
+ "bindrich f": {
+  "slug": "player-bindrich-f",
+  "games": 247
+ },
+ "ipatov a": {
+  "slug": "player-ipatov-a",
+  "games": 300
+ },
+ "shchekachev a": {
+  "slug": "player-shchekachev-a",
+  "games": 300
+ },
+ "vakhidov j": {
+  "slug": "player-vakhidov-j",
+  "games": 170
+ },
+ "zelcic r": {
+  "slug": "player-zelcic-r",
+  "games": 300
+ },
+ "shipov s": {
+  "slug": "player-shipov-s",
+  "games": 263
+ },
+ "korneev o": {
+  "slug": "player-korneev-o",
+  "games": 300
+ },
+ "stangl m": {
+  "slug": "player-stangl-m",
+  "games": 133
+ },
+ "rublevsky s": {
+  "slug": "player-rublevsky-s",
+  "games": 300
+ },
+ "spoelman w": {
+  "slug": "player-spoelman-w",
+  "games": 155
+ },
+ "agzamov g": {
+  "slug": "player-agzamov-g",
+  "games": 66
+ },
+ "efimenko z": {
+  "slug": "player-efimenko-z",
+  "games": 300
+ },
+ "dlugy m": {
+  "slug": "player-dlugy-m",
+  "games": 238
+ },
+ "koneru h": {
+  "slug": "player-koneru-h",
+  "games": 300
+ },
+ "atalik s": {
+  "slug": "player-atalik-s",
+  "games": 300
+ },
+ "bischoff k": {
+  "slug": "player-bischoff-k",
+  "games": 300
+ },
+ "piorun k": {
+  "slug": "player-piorun-k",
+  "games": 300
+ },
+ "yermolinsky a": {
+  "slug": "player-yermolinsky-a",
+  "games": 300
+ },
+ "aleksandrov a": {
+  "slug": "player-aleksandrov-a",
+  "games": 300
+ },
+ "iljiushenok i": {
+  "slug": "player-iljiushenok-i",
+  "games": 188
+ },
+ "li d": {
+  "slug": "player-li-d",
+  "games": 136
+ },
+ "almasi z": {
+  "slug": "player-almasi-z",
+  "games": 300
+ },
+ "wedberg t": {
+  "slug": "player-wedberg-t",
+  "games": 177
+ },
+ "lugovoi a": {
+  "slug": "player-lugovoi-a",
+  "games": 255
+ },
+ "akopian v": {
+  "slug": "player-akopian-v",
+  "games": 300
+ },
+ "sadhwani r": {
+  "slug": "player-sadhwani-r",
+  "games": 207
+ },
+ "rodriguez vila a": {
+  "slug": "player-rodriguez-vila-a",
+  "games": 254
+ },
+ "bluebaum m": {
+  "slug": "player-bluebaum-m",
+  "games": 300
+ },
+ "fischer r": {
+  "slug": "player-fischer-r",
+  "games": 300
+ },
+ "burke j": {
+  "slug": "player-burke-j",
+  "games": 124
+ },
+ "vera gonzalez quevedo r": {
+  "slug": "player-vera-gonzalez-quevedo-r",
+  "games": 300
+ },
+ "hausrath d": {
+  "slug": "player-hausrath-d",
+  "games": 108
+ },
+ "ye j": {
+  "slug": "player-ye-j",
+  "games": 300
+ },
+ "pultinevicius p": {
+  "slug": "player-pultinevicius-p",
+  "games": 92
+ },
+ "izoria z": {
+  "slug": "player-izoria-z",
+  "games": 300
+ },
+ "kacheishvili g": {
+  "slug": "player-kacheishvili-g",
+  "games": 300
+ },
+ "cao s": {
+  "slug": "player-cao-s",
+  "games": 139
+ },
+ "galperin p": {
+  "slug": "player-galperin-p",
+  "games": 47
+ },
+ "gheorghiu f": {
+  "slug": "player-gheorghiu-f",
+  "games": 300
+ },
+ "wojtkiewicz a": {
+  "slug": "player-wojtkiewicz-a",
+  "games": 300
+ },
+ "gyimesi z": {
+  "slug": "player-gyimesi-z",
+  "games": 300
+ },
+ "cori j": {
+  "slug": "player-cori-j",
+  "games": 265
+ },
+ "le t": {
+  "slug": "player-le-t",
+  "games": 53
+ },
+ "artemiev v": {
+  "slug": "player-artemiev-v",
+  "games": 300
+ },
+ "zhigalko a": {
+  "slug": "player-zhigalko-a",
+  "games": 300
+ },
+ "magomedov m": {
+  "slug": "player-magomedov-m",
+  "games": 38
+ },
+ "nabaty t": {
+  "slug": "player-nabaty-t",
+  "games": 300
+ },
+ "novikov s": {
+  "slug": "player-novikov-s",
+  "games": 226
+ },
+ "caruana f": {
+  "slug": "player-caruana-f",
+  "games": 300
+ },
+ "wojtaszek r": {
+  "slug": "player-wojtaszek-r",
+  "games": 300
+ },
+ "lputian s": {
+  "slug": "player-lputian-s",
+  "games": 300
+ },
+ "adhiban b": {
+  "slug": "player-adhiban-b",
+  "games": 300
+ },
+ "anand v": {
+  "slug": "player-anand-v",
+  "games": 300
+ },
+ "lenderman a": {
+  "slug": "player-lenderman-a",
+  "games": 300
+ },
+ "mirzoev a": {
+  "slug": "player-mirzoev-a",
+  "games": 300
+ },
+ "popov v": {
+  "slug": "player-popov-v",
+  "games": 300
+ },
+ "papaioannou i": {
+  "slug": "player-papaioannou-i",
+  "games": 300
+ },
+ "sosonko g": {
+  "slug": "player-sosonko-g",
+  "games": 300
+ },
+ "kotsur p": {
+  "slug": "player-kotsur-p",
+  "games": 300
+ },
+ "razuvaev y": {
+  "slug": "player-razuvaev-y",
+  "games": 300
+ },
+ "smejkal j": {
+  "slug": "player-smejkal-j",
+  "games": 300
+ },
+ "lenic l": {
+  "slug": "player-lenic-l",
+  "games": 300
+ },
+ "wang z": {
+  "slug": "player-wang-z",
+  "games": 187
+ },
+ "hernandez carmenates h": {
+  "slug": "player-hernandez-carmenates-h",
+  "games": 209
+ },
+ "galliamova a": {
+  "slug": "player-galliamova-a",
+  "games": 247
+ },
+ "malisauskas v": {
+  "slug": "player-malisauskas-v",
+  "games": 158
+ },
+ "rychagov m": {
+  "slug": "player-rychagov-m",
+  "games": 92
+ },
+ "gozzoli y": {
+  "slug": "player-gozzoli-y",
+  "games": 212
+ },
+ "carlsen m": {
+  "slug": "player-carlsen-m",
+  "games": 300
+ },
+ "durarbayli v": {
+  "slug": "player-durarbayli-v",
+  "games": 300
+ },
+ "tolnai t": {
+  "slug": "player-tolnai-t",
+  "games": 107
+ },
+ "onischuk a": {
+  "slug": "player-onischuk-a",
+  "games": 300
+ },
+ "hickl j": {
+  "slug": "player-hickl-j",
+  "games": 300
+ },
+ "gustafsson j": {
+  "slug": "player-gustafsson-j",
+  "games": 300
+ },
+ "ramirez alvarez a": {
+  "slug": "player-ramirez-alvarez-a",
+  "games": 300
+ },
+ "eingorn v": {
+  "slug": "player-eingorn-v",
+  "games": 300
+ },
+ "gligoric s": {
+  "slug": "player-gligoric-s",
+  "games": 300
+ },
+ "nunn j": {
+  "slug": "player-nunn-j",
+  "games": 300
+ },
+ "flores d": {
+  "slug": "player-flores-d",
+  "games": 300
+ },
+ "nisipeanu l": {
+  "slug": "player-nisipeanu-l",
+  "games": 300
+ },
+ "georgiev k": {
+  "slug": "player-georgiev-k",
+  "games": 300
+ },
+ "salgado lopez i": {
+  "slug": "player-salgado-lopez-i",
+  "games": 300
+ },
+ "rozum i": {
+  "slug": "player-rozum-i",
+  "games": 299
+ },
+ "movsziszian k": {
+  "slug": "player-movsziszian-k",
+  "games": 188
+ },
+ "mamedov r": {
+  "slug": "player-mamedov-r",
+  "games": 300
+ },
+ "murzin v": {
+  "slug": "player-murzin-v",
+  "games": 175
+ },
+ "moranda w": {
+  "slug": "player-moranda-w",
+  "games": 179
+ },
+ "korobov a": {
+  "slug": "player-korobov-a",
+  "games": 300
+ },
+ "mons l": {
+  "slug": "player-mons-l",
+  "games": 56
+ },
+ "keymer v": {
+  "slug": "player-keymer-v",
+  "games": 300
+ },
+ "sjugirov s": {
+  "slug": "player-sjugirov-s",
+  "games": 300
+ },
+ "gurevich d": {
+  "slug": "player-gurevich-d",
+  "games": 300
+ },
+ "ganguly s": {
+  "slug": "player-ganguly-s",
+  "games": 300
+ },
+ "bjerre j": {
+  "slug": "player-bjerre-j",
+  "games": 244
+ },
+ "donchenko a": {
+  "slug": "player-donchenko-a",
+  "games": 300
+ },
+ "kozul z": {
+  "slug": "player-kozul-z",
+  "games": 300
+ },
+ "stupak k": {
+  "slug": "player-stupak-k",
+  "games": 300
+ },
+ "bachmann a": {
+  "slug": "player-bachmann-a",
+  "games": 300
+ },
+ "kravtsiv m": {
+  "slug": "player-kravtsiv-m",
+  "games": 300
+ },
+ "muzychuk a": {
+  "slug": "player-muzychuk-a",
+  "games": 300
+ },
+ "kadric d": {
+  "slug": "player-kadric-d",
+  "games": 251
+ },
+ "serper g": {
+  "slug": "player-serper-g",
+  "games": 300
+ },
+ "vovk y": {
+  "slug": "player-vovk-y",
+  "games": 274
+ },
+ "olafsson f": {
+  "slug": "player-olafsson-f",
+  "games": 300
+ },
+ "cuenca jimenez j": {
+  "slug": "player-cuenca-jimenez-j",
+  "games": 120
+ },
+ "sermek d": {
+  "slug": "player-sermek-d",
+  "games": 300
+ },
+ "michalik p": {
+  "slug": "player-michalik-p",
+  "games": 300
+ },
+ "corrales jimenez f": {
+  "slug": "player-corrales-jimenez-f",
+  "games": 208
+ },
+ "mastrovasilis d": {
+  "slug": "player-mastrovasilis-d",
+  "games": 300
+ },
+ "evdokimov a": {
+  "slug": "player-evdokimov-a",
+  "games": 144
+ },
+ "cheparinov i": {
+  "slug": "player-cheparinov-i",
+  "games": 300
+ },
+ "keres p": {
+  "slug": "player-keres-p",
+  "games": 300
+ },
+ "rustemov a": {
+  "slug": "player-rustemov-a",
+  "games": 300
+ },
+ "dziuba m": {
+  "slug": "player-dziuba-m",
+  "games": 300
+ },
+ "conquest s": {
+  "slug": "player-conquest-s",
+  "games": 300
+ },
+ "lutz c": {
+  "slug": "player-lutz-c",
+  "games": 300
+ },
+ "suttles d": {
+  "slug": "player-suttles-d",
+  "games": 195
+ },
+ "sivuk v": {
+  "slug": "player-sivuk-v",
+  "games": 223
+ },
+ "dragnev v": {
+  "slug": "player-dragnev-v",
+  "games": 203
+ },
+ "rychagov a": {
+  "slug": "player-rychagov-a",
+  "games": 300
+ },
+ "hauchard a": {
+  "slug": "player-hauchard-a",
+  "games": 200
+ },
+ "watson w": {
+  "slug": "player-watson-w",
+  "games": 178
+ },
+ "yakubboev n": {
+  "slug": "player-yakubboev-n",
+  "games": 246
+ },
+ "theodorou n": {
+  "slug": "player-theodorou-n",
+  "games": 203
+ },
+ "gurevich i": {
+  "slug": "player-gurevich-i",
+  "games": 107
+ },
+ "smeets j": {
+  "slug": "player-smeets-j",
+  "games": 300
+ },
+ "areshchenko a": {
+  "slug": "player-areshchenko-a",
+  "games": 300
+ },
+ "kudrin s": {
+  "slug": "player-kudrin-s",
+  "games": 300
+ },
+ "bezgodov a": {
+  "slug": "player-bezgodov-a",
+  "games": 180
+ },
+ "rodriguez cespedes a": {
+  "slug": "player-rodriguez-cespedes-a",
+  "games": 300
+ },
+ "liang a": {
+  "slug": "player-liang-a",
+  "games": 216
+ },
+ "piket j": {
+  "slug": "player-piket-j",
+  "games": 300
+ },
+ "dao t": {
+  "slug": "player-dao-t",
+  "games": 300
+ },
+ "gledura b": {
+  "slug": "player-gledura-b",
+  "games": 300
+ },
+ "martinez alcantara j": {
+  "slug": "player-martinez-alcantara-j",
+  "games": 110
+ },
+ "kindermann s": {
+  "slug": "player-kindermann-s",
+  "games": 300
+ },
+ "mamedov n": {
+  "slug": "player-mamedov-n",
+  "games": 300
+ },
+ "villamayor b": {
+  "slug": "player-villamayor-b",
+  "games": 27
+ },
+ "malakhov v": {
+  "slug": "player-malakhov-v",
+  "games": 300
+ },
+ "oparin g": {
+  "slug": "player-oparin-g",
+  "games": 300
+ },
+ "kholmov r": {
+  "slug": "player-kholmov-r",
+  "games": 300
+ },
+ "najer e": {
+  "slug": "player-najer-e",
+  "games": 300
+ },
+ "sorokin m": {
+  "slug": "player-sorokin-m",
+  "games": 300
+ },
+ "ribli z": {
+  "slug": "player-ribli-z",
+  "games": 300
+ },
+ "danin a": {
+  "slug": "player-danin-a",
+  "games": 219
+ },
+ "degraeve j": {
+  "slug": "player-degraeve-j",
+  "games": 300
+ },
+ "zakhartsov v": {
+  "slug": "player-zakhartsov-v",
+  "games": 253
+ },
+ "mekhitarian k": {
+  "slug": "player-mekhitarian-k",
+  "games": 231
+ },
+ "chuchelov v": {
+  "slug": "player-chuchelov-v",
+  "games": 300
+ },
+ "kovacevic v": {
+  "slug": "player-kovacevic-v",
+  "games": 300
+ },
+ "minasian a": {
+  "slug": "player-minasian-a",
+  "games": 300
+ },
+ "apicella m": {
+  "slug": "player-apicella-m",
+  "games": 300
+ },
+ "zvjaginsev v": {
+  "slug": "player-zvjaginsev-v",
+  "games": 300
+ },
+ "bortnyk o": {
+  "slug": "player-bortnyk-o",
+  "games": 103
+ },
+ "bu x": {
+  "slug": "player-bu-x",
+  "games": 300
+ },
+ "shabalov a": {
+  "slug": "player-shabalov-a",
+  "games": 300
+ },
+ "zhigalko s": {
+  "slug": "player-zhigalko-s",
+  "games": 300
+ },
+ "van wely l": {
+  "slug": "player-van-wely-l",
+  "games": 300
+ },
+ "nikolaidis i": {
+  "slug": "player-nikolaidis-i",
+  "games": 300
+ },
+ "sakaev k": {
+  "slug": "player-sakaev-k",
+  "games": 300
+ },
+ "bareev e": {
+  "slug": "player-bareev-e",
+  "games": 300
+ },
+ "greenfeld a": {
+  "slug": "player-greenfeld-a",
+  "games": 300
+ },
+ "becerra rivero j": {
+  "slug": "player-becerra-rivero-j",
+  "games": 300
+ },
+ "magerramov e": {
+  "slug": "player-magerramov-e",
+  "games": 127
+ },
+ "grigoryan a": {
+  "slug": "player-grigoryan-a",
+  "games": 232
+ },
+ "bagirov v": {
+  "slug": "player-bagirov-v",
+  "games": 250
+ },
+ "golod v": {
+  "slug": "player-golod-v",
+  "games": 300
+ },
+ "heimann a": {
+  "slug": "player-heimann-a",
+  "games": 253
+ },
+ "rabiega r": {
+  "slug": "player-rabiega-r",
+  "games": 170
+ },
+ "vescovi g": {
+  "slug": "player-vescovi-g",
+  "games": 300
+ },
+ "gashimov v": {
+  "slug": "player-gashimov-v",
+  "games": 300
+ },
+ "lagno k": {
+  "slug": "player-lagno-k",
+  "games": 300
+ },
+ "ljubojevic l": {
+  "slug": "player-ljubojevic-l",
+  "games": 300
+ },
+ "dizdar g": {
+  "slug": "player-dizdar-g",
+  "games": 300
+ },
+ "kovalev a": {
+  "slug": "player-kovalev-a",
+  "games": 293
+ },
+ "werle j": {
+  "slug": "player-werle-j",
+  "games": 300
+ },
+ "bernadskiy v": {
+  "slug": "player-bernadskiy-v",
+  "games": 300
+ },
+ "karpov a": {
+  "slug": "player-karpov-a",
+  "games": 300
+ },
+ "megaranto s": {
+  "slug": "player-megaranto-s",
+  "games": 190
+ },
+ "zarnicki p": {
+  "slug": "player-zarnicki-p",
+  "games": 183
+ },
+ "ftacnik l": {
+  "slug": "player-ftacnik-l",
+  "games": 300
+ },
+ "kotanjian t": {
+  "slug": "player-kotanjian-t",
+  "games": 191
+ },
+ "gershon a": {
+  "slug": "player-gershon-a",
+  "games": 143
+ },
+ "bunzmann d": {
+  "slug": "player-bunzmann-d",
+  "games": 116
+ },
+ "magem badals j": {
+  "slug": "player-magem-badals-j",
+  "games": 300
+ },
+ "levin f": {
+  "slug": "player-levin-f",
+  "games": 171
+ },
+ "bukavshin i": {
+  "slug": "player-bukavshin-i",
+  "games": 274
+ },
+ "torre e": {
+  "slug": "player-torre-e",
+  "games": 300
+ },
+ "jones g": {
+  "slug": "player-jones-g",
+  "games": 300
+ },
+ "praggnanandhaa r": {
+  "slug": "player-praggnanandhaa-r",
+  "games": 300
+ },
+ "yakovich y": {
+  "slug": "player-yakovich-y",
+  "games": 300
+ },
+ "rohde m": {
+  "slug": "player-rohde-m",
+  "games": 150
+ },
+ "dragun k": {
+  "slug": "player-dragun-k",
+  "games": 280
+ },
+ "adianto u": {
+  "slug": "player-adianto-u",
+  "games": 300
+ },
+ "ovetchkin r": {
+  "slug": "player-ovetchkin-r",
+  "games": 213
+ },
+ "kurajica b": {
+  "slug": "player-kurajica-b",
+  "games": 300
+ },
+ "groszpeter a": {
+  "slug": "player-groszpeter-a",
+  "games": 264
+ },
+ "komarov d": {
+  "slug": "player-komarov-d",
+  "games": 300
+ },
+ "suba m": {
+  "slug": "player-suba-m",
+  "games": 300
+ },
+ "saric i": {
+  "slug": "player-saric-i",
+  "games": 300
+ },
+ "rogozenco d": {
+  "slug": "player-rogozenco-d",
+  "games": 269
+ },
+ "granda zuniga j": {
+  "slug": "player-granda-zuniga-j",
+  "games": 300
+ },
+ "stocek j": {
+  "slug": "player-stocek-j",
+  "games": 300
+ },
+ "michiels b": {
+  "slug": "player-michiels-b",
+  "games": 107
+ },
+ "hovhannisyan r": {
+  "slug": "player-hovhannisyan-r",
+  "games": 300
+ },
+ "jakovenko d": {
+  "slug": "player-jakovenko-d",
+  "games": 300
+ },
+ "sarana a": {
+  "slug": "player-sarana-a",
+  "games": 300
+ },
+ "volkov s": {
+  "slug": "player-volkov-s",
+  "games": 300
+ },
+ "roiz m": {
+  "slug": "player-roiz-m",
+  "games": 300
+ },
+ "balashov y": {
+  "slug": "player-balashov-y",
+  "games": 300
+ },
+ "pert n": {
+  "slug": "player-pert-n",
+  "games": 135
+ },
+ "prohaszka p": {
+  "slug": "player-prohaszka-p",
+  "games": 300
+ },
+ "yurtaev l": {
+  "slug": "player-yurtaev-l",
+  "games": 161
+ },
+ "crisan a": {
+  "slug": "player-crisan-a",
+  "games": 27
+ },
+ "shanava k": {
+  "slug": "player-shanava-k",
+  "games": 231
+ },
+ "fominyh a": {
+  "slug": "player-fominyh-a",
+  "games": 251
+ },
+ "wahls m": {
+  "slug": "player-wahls-m",
+  "games": 300
+ },
+ "vysochin s": {
+  "slug": "player-vysochin-s",
+  "games": 260
+ },
+ "liang c": {
+  "slug": "player-liang-c",
+  "games": 114
+ },
+ "hansen s": {
+  "slug": "player-hansen-s",
+  "games": 300
+ },
+ "deac b": {
+  "slug": "player-deac-b",
+  "games": 300
+ },
+ "ibrahimov r": {
+  "slug": "player-ibrahimov-r",
+  "games": 119
+ },
+ "chuprov d": {
+  "slug": "player-chuprov-d",
+  "games": 114
+ },
+ "arencibia rodriguez w": {
+  "slug": "player-arencibia-rodriguez-w",
+  "games": 300
+ },
+ "narayanan s": {
+  "slug": "player-narayanan-s",
+  "games": 300
+ },
+ "huebner r": {
+  "slug": "player-huebner-r",
+  "games": 300
+ },
+ "sebenik m": {
+  "slug": "player-sebenik-m",
+  "games": 251
+ },
+ "xie j": {
+  "slug": "player-xie-j",
+  "games": 300
+ },
+ "pavlovic m": {
+  "slug": "player-pavlovic-m",
+  "games": 300
+ },
+ "bronstein d": {
+  "slug": "player-bronstein-d",
+  "games": 300
+ },
+ "tomashevsky e": {
+  "slug": "player-tomashevsky-e",
+  "games": 300
+ },
+ "morozevich a": {
+  "slug": "player-morozevich-a",
+  "games": 300
+ },
+ "smyslov v": {
+  "slug": "player-smyslov-v",
+  "games": 300
+ },
+ "sasikiran k": {
+  "slug": "player-sasikiran-k",
+  "games": 300
+ },
+ "campora d": {
+  "slug": "player-campora-d",
+  "games": 300
+ },
+ "smagin s": {
+  "slug": "player-smagin-s",
+  "games": 300
+ },
+ "palo d": {
+  "slug": "player-palo-d",
+  "games": 91
+ },
+ "kuzmin a": {
+  "slug": "player-kuzmin-a",
+  "games": 119
+ },
+ "yuffa d": {
+  "slug": "player-yuffa-d",
+  "games": 276
+ },
+ "le q": {
+  "slug": "player-le-q",
+  "games": 300
+ },
+ "aryan c": {
+  "slug": "player-aryan-c",
+  "games": 156
+ },
+ "filatov b": {
+  "slug": "player-filatov-b",
+  "games": 9
+ },
+ "halkias s": {
+  "slug": "player-halkias-s",
+  "games": 300
+ },
+ "filippov a": {
+  "slug": "player-filippov-a",
+  "games": 215
+ },
+ "motylev a": {
+  "slug": "player-motylev-a",
+  "games": 300
+ },
+ "abdusattorov n": {
+  "slug": "player-abdusattorov-n",
+  "games": 300
+ },
+ "matlakov m": {
+  "slug": "player-matlakov-m",
+  "games": 300
+ },
+ "kovalenko i": {
+  "slug": "player-kovalenko-i",
+  "games": 300
+ },
+ "kurnosov i": {
+  "slug": "player-kurnosov-i",
+  "games": 300
+ },
+ "andriasian z": {
+  "slug": "player-andriasian-z",
+  "games": 300
+ },
+ "novikov i": {
+  "slug": "player-novikov-i",
+  "games": 300
+ },
+ "gavrikov v": {
+  "slug": "player-gavrikov-v",
+  "games": 300
+ },
+ "hakobyan a": {
+  "slug": "player-hakobyan-a",
+  "games": 243
+ },
+ "beim v": {
+  "slug": "player-beim-v",
+  "games": 121
+ },
+ "annakov b": {
+  "slug": "player-annakov-b",
+  "games": 34
+ },
+ "pechac j": {
+  "slug": "player-pechac-j",
+  "games": 184
+ },
+ "uhlmann w": {
+  "slug": "player-uhlmann-w",
+  "games": 300
+ },
+ "karthikeyan m": {
+  "slug": "player-karthikeyan-m",
+  "games": 245
+ },
+ "hou y": {
+  "slug": "player-hou-y",
+  "games": 300
+ },
+ "short n": {
+  "slug": "player-short-n",
+  "games": 300
+ },
+ "san segundo carrillo p": {
+  "slug": "player-san-segundo-carrillo-p",
+  "games": 255
+ },
+ "ubilava e": {
+  "slug": "player-ubilava-e",
+  "games": 236
+ },
+ "shevchenko k": {
+  "slug": "player-shevchenko-k",
+  "games": 300
+ },
+ "xu y": {
+  "slug": "player-xu-y",
+  "games": 300
+ },
+ "sokolov i": {
+  "slug": "player-sokolov-i",
+  "games": 300
+ },
+ "zhao x": {
+  "slug": "player-zhao-x",
+  "games": 181
+ },
+ "feller s": {
+  "slug": "player-feller-s",
+  "games": 300
+ },
+ "indjic a": {
+  "slug": "player-indjic-a",
+  "games": 300
+ },
+ "baryshpolets a": {
+  "slug": "player-baryshpolets-a",
+  "games": 152
+ },
+ "stohl i": {
+  "slug": "player-stohl-i",
+  "games": 300
+ },
+ "yu y": {
+  "slug": "player-yu-y",
+  "games": 300
+ },
+ "khairullin i": {
+  "slug": "player-khairullin-i",
+  "games": 300
+ },
+ "gukesh d": {
+  "slug": "player-gukesh-d",
+  "games": 300
+ },
+ "spasov v": {
+  "slug": "player-spasov-v",
+  "games": 300
+ },
+ "peng x": {
+  "slug": "player-peng-x",
+  "games": 172
+ },
+ "georgiev v": {
+  "slug": "player-georgiev-v",
+  "games": 300
+ },
+ "lobron e": {
+  "slug": "player-lobron-e",
+  "games": 300
+ },
+ "shariyazdanov a": {
+  "slug": "player-shariyazdanov-a",
+  "games": 234
+ },
+ "pashikian a": {
+  "slug": "player-pashikian-a",
+  "games": 300
+ },
+ "arizmendi martinez j": {
+  "slug": "player-arizmendi-martinez-j",
+  "games": 240
+ },
+ "wei y": {
+  "slug": "player-wei-y",
+  "games": 300
+ },
+ "mishra a": {
+  "slug": "player-mishra-a",
+  "games": 189
+ },
+ "shulman y": {
+  "slug": "player-shulman-y",
+  "games": 300
+ },
+ "studer n": {
+  "slug": "player-studer-n",
+  "games": 105
+ },
+ "steingrimsson h": {
+  "slug": "player-steingrimsson-h",
+  "games": 196
+ },
+ "sargsyan s": {
+  "slug": "player-sargsyan-s",
+  "games": 211
+ },
+ "nijboer f": {
+  "slug": "player-nijboer-f",
+  "games": 300
+ },
+ "khenkin i": {
+  "slug": "player-khenkin-i",
+  "games": 300
+ },
+ "sargissian g": {
+  "slug": "player-sargissian-g",
+  "games": 300
+ },
+ "markowski t": {
+  "slug": "player-markowski-t",
+  "games": 300
+ },
+ "nikolic p": {
+  "slug": "player-nikolic-p",
+  "games": 300
+ },
+ "gabrielian a": {
+  "slug": "player-gabrielian-a",
+  "games": 222
+ },
+ "hort v": {
+  "slug": "player-hort-v",
+  "games": 300
+ },
+ "sindarov j": {
+  "slug": "player-sindarov-j",
+  "games": 198
+ },
+ "bologan v": {
+  "slug": "player-bologan-v",
+  "games": 300
+ },
+ "ernst s": {
+  "slug": "player-ernst-s",
+  "games": 300
+ },
+ "portisch l": {
+  "slug": "player-portisch-l",
+  "games": 300
+ },
+ "xu j": {
+  "slug": "player-xu-j",
+  "games": 300
+ },
+ "radjabov t": {
+  "slug": "player-radjabov-t",
+  "games": 300
+ },
+ "doettling f": {
+  "slug": "player-doettling-f",
+  "games": 142
+ },
+ "harikrishna p": {
+  "slug": "player-harikrishna-p",
+  "games": 300
+ },
+ "harutyunian t": {
+  "slug": "player-harutyunian-t",
+  "games": 177
+ },
+ "iturrizaga bonelli e": {
+  "slug": "player-iturrizaga-bonelli-e",
+  "games": 300
+ },
+ "edouard r": {
+  "slug": "player-edouard-r",
+  "games": 300
+ },
+ "shneider a": {
+  "slug": "player-shneider-a",
+  "games": 171
+ },
+ "tukmakov v": {
+  "slug": "player-tukmakov-v",
+  "games": 300
+ },
+ "alterman b": {
+  "slug": "player-alterman-b",
+  "games": 300
+ },
+ "pantsulaia l": {
+  "slug": "player-pantsulaia-l",
+  "games": 300
+ },
+ "tal m": {
+  "slug": "player-tal-m",
+  "games": 300
+ },
+ "parligras m": {
+  "slug": "player-parligras-m",
+  "games": 300
+ },
+ "laznicka v": {
+  "slug": "player-laznicka-v",
+  "games": 300
+ },
+ "quinteros m": {
+  "slug": "player-quinteros-m",
+  "games": 300
+ },
+ "skembris s": {
+  "slug": "player-skembris-s",
+  "games": 245
+ },
+ "korchnoi v": {
+  "slug": "player-korchnoi-v",
+  "games": 19
+ },
+ "kovchan a": {
+  "slug": "player-kovchan-a",
+  "games": 300
+ },
+ "kharitonov a": {
+  "slug": "player-kharitonov-a",
+  "games": 300
+ },
+ "hansen e": {
+  "slug": "player-hansen-e",
+  "games": 300
+ },
+ "kveinys a": {
+  "slug": "player-kveinys-a",
+  "games": 300
+ },
+ "moroni l": {
+  "slug": "player-moroni-l",
+  "games": 226
+ },
+ "vazquez igarza r": {
+  "slug": "player-vazquez-igarza-r",
+  "games": 238
+ },
+ "kokarev d": {
+  "slug": "player-kokarev-d",
+  "games": 300
+ },
+ "navara d": {
+  "slug": "player-navara-d",
+  "games": 300
+ },
+ "zhao j": {
+  "slug": "player-zhao-j",
+  "games": 300
+ },
+ "erdos v": {
+  "slug": "player-erdos-v",
+  "games": 300
+ },
+ "maiorov n": {
+  "slug": "player-maiorov-n",
+  "games": 284
+ },
+ "chandler m": {
+  "slug": "player-chandler-m",
+  "games": 300
+ },
+ "giorgadze g": {
+  "slug": "player-giorgadze-g",
+  "games": 157
+ },
+ "van der wiel j": {
+  "slug": "player-van-der-wiel-j",
+  "games": 300
+ },
+ "rodshtein m": {
+  "slug": "player-rodshtein-m",
+  "games": 300
+ },
+ "moradiabadi e": {
+  "slug": "player-moradiabadi-e",
+  "games": 300
+ },
+ "hector j": {
+  "slug": "player-hector-j",
+  "games": 300
+ },
+ "ponkratov p": {
+  "slug": "player-ponkratov-p",
+  "games": 300
+ },
+ "lei t": {
+  "slug": "player-lei-t",
+  "games": 112
+ },
+ "dzindzichashvili r": {
+  "slug": "player-dzindzichashvili-r",
+  "games": 300
+ },
+ "tseshkovsky v": {
+  "slug": "player-tseshkovsky-v",
+  "games": 300
+ },
+ "paravyan d": {
+  "slug": "player-paravyan-d",
+  "games": 300
+ },
+ "burmakin v": {
+  "slug": "player-burmakin-v",
+  "games": 300
+ },
+ "ma q": {
+  "slug": "player-ma-q",
+  "games": 257
+ },
+ "avrukh b": {
+  "slug": "player-avrukh-b",
+  "games": 300
+ },
+ "ghaem maghami e": {
+  "slug": "player-ghaem-maghami-e",
+  "games": 300
+ },
+ "lopez martinez j": {
+  "slug": "player-lopez-martinez-j",
+  "games": 300
+ },
+ "timman j": {
+  "slug": "player-timman-j",
+  "games": 300
+ },
+ "rambaldi f": {
+  "slug": "player-rambaldi-f",
+  "games": 81
+ },
+ "ricardi p": {
+  "slug": "player-ricardi-p",
+  "games": 252
+ },
+ "drozdovskij y": {
+  "slug": "player-drozdovskij-y",
+  "games": 237
+ },
+ "sanal v": {
+  "slug": "player-sanal-v",
+  "games": 300
+ },
+ "dominguez perez l": {
+  "slug": "player-dominguez-perez-l",
+  "games": 300
+ },
+ "gelfand b": {
+  "slug": "player-gelfand-b",
+  "games": 300
+ },
+ "ismagambetov a": {
+  "slug": "player-ismagambetov-a",
+  "games": 107
+ },
+ "braun a": {
+  "slug": "player-braun-a",
+  "games": 237
+ },
+ "goldin a": {
+  "slug": "player-goldin-a",
+  "games": 300
+ },
+ "belikov v": {
+  "slug": "player-belikov-v",
+  "games": 117
+ },
+ "polgar j": {
+  "slug": "player-polgar-j",
+  "games": 300
+ },
+ "fridman d": {
+  "slug": "player-fridman-d",
+  "games": 300
+ }
+}

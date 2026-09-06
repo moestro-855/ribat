@@ -1,0 +1,802 @@
+{
+ "дортмунд": {
+  "file": "дортмунд.webp",
+  "source": "Dortmund 20171012 Sonnenuntergang.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "линарес": {
+  "file": "линарес.webp",
+  "source": "Cuadro Linares S. XVII.jpg",
+  "licence": "Public domain"
+ },
+ "лондон": {
+  "file": "лондон.webp",
+  "source": "London 1883 chess tournament.jpg",
+  "licence": "Public domain"
+ },
+ "москва": {
+  "file": "москва.webp",
+  "source": "Chess Moscow 1935.jpg",
+  "licence": "Public domain"
+ },
+ "биль": {
+  "file": "биль.webp",
+  "source": "Bahnhof Biel 1864.jpg",
+  "licence": "Public domain"
+ },
+ "гавана": {
+  "file": "гавана.webp",
+  "source": "Parque de la Fraternidad, El Capitolio, and El Paseo del Prado, Havana, aerial view, 1931.jpg",
+  "licence": "Public domain"
+ },
+ "цюрих": {
+  "file": "цюрих.webp",
+  "source": "Chess zurich 1934.jpg",
+  "licence": "Public domain"
+ },
+ "ставангер": {
+  "file": "ставангер.webp",
+  "source": "Stavanger Norway 1950 - panoramio.jpg",
+  "licence": "CC BY-SA 3.0"
+ },
+ "амстердам": {
+  "file": "амстердам.webp",
+  "source": "Wereldschaaktoernooi Amsterdam eerste dag overzicht, Bestanddeelnr 904-2920.jpg",
+  "licence": "CC0"
+ },
+ "монте-карло": {
+  "file": "монте-карло.webp",
+  "source": "MonteCarlo 1901 Torneig Escacs.jpg",
+  "licence": "Public domain"
+ },
+ "сент-луис": {
+  "file": "сент-луис.webp",
+  "source": "John J. Egan - Panorama of the Monumental Grandeur of the Mississippi... - 34-1953 - Saint Louis Art Museum.jpg",
+  "licence": "Public domain"
+ },
+ "рига": {
+  "file": "рига.webp",
+  "source": "Der Markt und Börsenplatz in Riga; The market and stock exchange square in Riga (1830).jpg",
+  "licence": "Public domain"
+ },
+ "даньчжоу": {
+  "file": "даньчжоу.webp",
+  "source": "National cultural heritage stele at Danzhou Dongpo Academy (20230327163537).jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "ленинград": {
+  "file": "ленинград.webp",
+  "source": "Санкт-Петербург - St Petersburg - Площадь Победы - Victory Square - Монумент героическим защитникам Ленинграда - Monument to the Heroic Defenders of Leningrad 1975 5.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "тбилиси": {
+  "file": "тбилиси.webp",
+  "source": "Alexei Ivanitsky. View of Tbilisi. 1858.jpg",
+  "licence": "Public domain"
+ },
+ "шэньчжэнь": {
+  "file": "шэньчжэнь.webp",
+  "source": "Alcazar Castle Shenzhen China. (12022601653).jpg",
+  "licence": "CC0"
+ },
+ "баден-баден": {
+  "file": "баден-баден.webp",
+  "source": "Baden-bei-Wien,-Stadttheater (um 1900).jpg",
+  "licence": "Public domain"
+ },
+ "нью-йорк": {
+  "file": "нью-йорк.webp",
+  "source": "New York University NYU Sede Buenos Aires.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "баку": {
+  "file": "баку.webp",
+  "source": "View of Baku 3.jpg",
+  "licence": "Public domain"
+ },
+ "сараево": {
+  "file": "сараево.webp",
+  "source": "Sarajevo panorama 1930s.jpg",
+  "licence": "Public domain"
+ },
+ "кап-д-агд": {
+  "file": "кап-д-агд.webp",
+  "source": "Panorama sur la plage de La Conque au Cap d'Agde. - panoramio.jpg",
+  "licence": "CC BY-SA 3.0"
+ },
+ "мадрид": {
+  "file": "мадрид.webp",
+  "source": "1898, Panorama nacional, Vista panorámica de Madrid, Compañy.jpg",
+  "licence": "CC BY 4.0"
+ },
+ "берлин": {
+  "file": "берлин.webp",
+  "source": "Deutsches Historisches Museum, Berlin-Mitte, 170128, ako.jpg",
+  "licence": "CC BY-SA 3.0 de"
+ },
+ "бильбао": {
+  "file": "бильбао.webp",
+  "source": "Bilbao 2008 chess1.jpg",
+  "licence": "CC BY 2.0"
+ },
+ "белград": {
+  "file": "белград.webp",
+  "source": "ISS034-E-061717 Belgrade-lrg.jpg",
+  "licence": "Public domain"
+ },
+ "одесса": {
+  "file": "одесса.webp",
+  "source": "Street Parade in Odessa, Washington, c.1910s.png",
+  "licence": "CC BY-SA 4.0"
+ },
+ "блед": {
+  "file": "блед.webp",
+  "source": "Postcard of Bled view (2).jpg",
+  "licence": "Public domain"
+ },
+ "нинбо": {
+  "file": "нинбо.webp",
+  "source": "Ningbo Rivers Panorama at Night.jpg",
+  "licence": "CC BY 2.0"
+ },
+ "пекин": {
+  "file": "пекин.webp",
+  "source": "Bird's-eye view of a church in a walled compound in Beijing LCCN2011661301.jpg",
+  "licence": "Public domain"
+ },
+ "пальма-де-майорка": {
+  "file": "пальма-де-майорка.webp",
+  "source": "Panorama Palma de Mallorca (10692176125).jpg",
+  "licence": "CC BY 2.0"
+ },
+ "дос-эрманас": {
+  "file": "дос-эрманас.webp",
+  "source": "Consejo popular Dos Hermanas.jpg",
+  "licence": "CC0"
+ },
+ "новгород": {
+  "file": "новгород.webp",
+  "source": "View of Nizhny Novgorod 1911.jpg",
+  "licence": "Public domain"
+ },
+ "киев": {
+  "file": "киев.webp",
+  "source": "View-of-the-Podol-Kiev-1902.png",
+  "licence": "Public domain"
+ },
+ "буэнос-айрес": {
+  "file": "буэнос-айрес.webp",
+  "source": "Buenos Aires harbour c. 1910.jpg",
+  "licence": "Public domain"
+ },
+ "казань": {
+  "file": "казань.webp",
+  "source": "View of Kazan (Trapitsyn, 1929).jpg",
+  "licence": "Public domain"
+ },
+ "ссср": {
+  "file": "ссср.webp",
+  "source": "The Soviet Union 1963 CPA 2855-2860 se-tenant counter sheet (pane) forming a panorama (Cosmonauts' Day).jpg",
+  "licence": "Public domain"
+ },
+ "zagreb": {
+  "file": "zagreb.webp",
+  "source": "Corner of Vlaška and Branjug Street, Zagreb, 1939.jpg",
+  "licence": "Public domain"
+ },
+ "форос": {
+  "file": "форос.webp",
+  "source": "ForosChurch 1897.jpg",
+  "licence": "Public domain"
+ },
+ "сочи": {
+  "file": "сочи.webp",
+  "source": "Wide panorama of Sochi-Lazarevskoe from seaside (16213856361).jpg",
+  "licence": "CC BY 2.0"
+ },
+ "прага": {
+  "file": "прага.webp",
+  "source": "Prague. Kleinstadt and Hradschin LCCN91784410.jpg",
+  "licence": "Public domain"
+ },
+ "ницца": {
+  "file": "ницца.webp",
+  "source": "Panorama Nice (181237359).jpeg",
+  "licence": "CC BY 3.0"
+ },
+ "бастия": {
+  "file": "бастия.webp",
+  "source": "Panorama - Paysage (Bastia).jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "лас-пальмас": {
+  "file": "лас-пальмас.webp",
+  "source": "Istmo guanarteme panorama luis ojeda perez 1880 las palmas gran canaria.jpg",
+  "licence": "Public domain"
+ },
+ "реджо-эмилия": {
+  "file": "реджо-эмилия.webp",
+  "source": "Paolo Monti - Servizio fotografico (Reggio nell'Emilia, 1965) - BEIC 6328987.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "женева": {
+  "file": "женева.webp",
+  "source": "Geneve panorama 1860.JPG",
+  "licence": "Public domain"
+ },
+ "нанкин": {
+  "file": "нанкин.webp",
+  "source": "201805 Platform Panorama of L10 East Nanjing Road Station.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "бухарест": {
+  "file": "бухарест.webp",
+  "source": "1916 aerial view of Bucharest, with Bulevardul Regina Elisabeta and the Cișmigiu Park.jpg",
+  "licence": "Public domain"
+ },
+ "карлсруэ-и-баден-баден": {
+  "file": "карлсруэ-и-баден-баден.webp",
+  "source": "Panorama im Sportpavillon. - LABW - Generallandesarchiv Karlsruhe 69 Baden, Sammlung 1995 F I Nr. 1188.jpg",
+  "licence": "CC BY 4.0"
+ },
+ "мальм": {
+  "file": "мальм.webp",
+  "source": "Panorama, Malmo IP.jpg",
+  "licence": "CC BY-SA 3.0"
+ },
+ "екатеринбург": {
+  "file": "екатеринбург.webp",
+  "source": "Panorama Ekaterinburg.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "сан-луис": {
+  "file": "сан-луис.webp",
+  "source": "General view of the main south front of Mission San Luis Rey de Francia, ca.1898-1900 (CHS-2096).jpg",
+  "licence": "Public domain"
+ },
+ "торонто": {
+  "file": "торонто.webp",
+  "source": "The Royal Tour of 1939, Ontario Historical Marker, Ontario Legislative Building, Toronto, Ontario (29375661734).jpg",
+  "licence": "CC BY-SA 2.0"
+ },
+ "кюрасао": {
+  "file": "кюрасао.webp",
+  "source": "'t Eÿland Curacao, ao. 1800. LOC 99465330.jpg",
+  "licence": "Public domain"
+ },
+ "монреаль": {
+  "file": "монреаль.webp",
+  "source": "View of the Rotunda, Windsor Hotel, Montreal, QC, about 1878.jpg",
+  "licence": "Public domain"
+ },
+ "рейкьявик": {
+  "file": "рейкьявик.webp",
+  "source": "Reykjavik International Games 16th - 18th of January 2009 (3216691632).jpg",
+  "licence": "CC BY-SA 2.0"
+ },
+ "гамбург": {
+  "file": "гамбург.webp",
+  "source": "Hamburg Notgeld 50 Pfennig 1921.jpg",
+  "licence": "Public domain"
+ },
+ "гронинген": {
+  "file": "гронинген.webp",
+  "source": "ChessGroningen1946-2.jpg",
+  "licence": "CC0"
+ },
+ "карловы-вары": {
+  "file": "карловы-вары.webp",
+  "source": "Karlovy Vary lesní toaleta (04).jpg",
+  "licence": "CC BY 4.0"
+ },
+ "ереван": {
+  "file": "ереван.webp",
+  "source": "Yerevan, Pushkin st. 25, House, arch. Thamanyan A., 1927 - panoramio.jpg",
+  "licence": "CC BY-SA 3.0"
+ },
+ "вильнюс": {
+  "file": "вильнюс.webp",
+  "source": "Painting by Juozas Kamarauskas of the ruins of the Vilnius Upper Castle with Vytis (Waykimas) and the Columns of Gediminas, 1937.jpg",
+  "licence": "CC BY 4.0"
+ },
+ "ташкент": {
+  "file": "ташкент.webp",
+  "source": "View of building of Government of UzSSR and Tashkent's Museum of Lenin.jpg",
+  "licence": "CC BY-SA 3.0"
+ },
+ "львов": {
+  "file": "львов.webp",
+  "source": "Lvov Court Panorama.jpg",
+  "licence": "CC BY-SA 3.0"
+ },
+ "франкфурт": {
+  "file": "франкфурт.webp",
+  "source": "William henry fox talbot zeil katharinenkirche hauptwache frankfurt am main 1846.jpg",
+  "licence": "Public domain"
+ },
+ "поляница-здруй": {
+  "file": "поляница-здруй.webp",
+  "source": "2024 Polanica-Zdrój, panorama (2).jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "париж": {
+  "file": "париж.webp",
+  "source": "Chess Paris 1938.jpg",
+  "licence": "Public domain"
+ },
+ "осло": {
+  "file": "осло.webp",
+  "source": "Hans Rosenørn Grüner - Panorama, Karl Johans gate - 1855 - Oslo Museum - OB.01431.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "астана": {
+  "file": "астана.webp",
+  "source": "Astana - 190217 DSC 3582.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "нью-дели": {
+  "file": "нью-дели.webp",
+  "source": "Panorama of people of New Delhi in new normal days during COVID-19 pandemic in Delhi 20210411 181147.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "памплона": {
+  "file": "памплона.webp",
+  "source": "Palace of Goyeneche in Pamplona (2).jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "люблин": {
+  "file": "люблин.webp",
+  "source": "Lublin - Panorama Starego Miasta z Czwartku (1964, T. Chrzanowski).jpg",
+  "licence": "Public domain"
+ },
+ "санкт-петербург": {
+  "file": "санкт-петербург.webp",
+  "source": "Sankt-Peterburg oldfoto 13711.jpg",
+  "licence": "Public domain"
+ },
+ "мерано": {
+  "file": "мерано.webp",
+  "source": "Merano MKL Bd. 11 1890 (128501333).jpg",
+  "licence": "Public domain"
+ },
+ "волвега": {
+  "file": "волвега.webp",
+  "source": "Zicht op Schipsloot en Haulerweg in Wolvega, 1915, ca. archiefnr 119.jpg",
+  "licence": "Public domain"
+ },
+ "иерусалим": {
+  "file": "иерусалим.webp",
+  "source": "Jerusalem view from south 1912.jpg",
+  "licence": "Public domain"
+ },
+ "стокгольм": {
+  "file": "стокгольм.webp",
+  "source": "View of Stockholm, 1702, from his work on geometry.jpg",
+  "licence": "Public domain"
+ },
+ "тромс": {
+  "file": "тромс.webp",
+  "source": "696 (96). People of the frigid North - Lapp home and family, in the Tromsdal, near Tromsoe, N. Norway (8089365284).jpg",
+  "licence": "CC BY 2.0"
+ },
+ "оберхаузен": {
+  "file": "оберхаузен.webp",
+  "source": "Gasometer Oberhausen - Panorama Unterscheibe.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "капфенберг": {
+  "file": "капфенберг.webp",
+  "source": "Gertrude Wagner 1976 Kapfenberg.jpg",
+  "licence": "CC BY-SA 3.0"
+ },
+ "бат": {
+  "file": "бат.webp",
+  "source": "BATH GUIDE - historical and new (1823).jpg",
+  "licence": "Public domain"
+ },
+ "анталья": {
+  "file": "анталья.webp",
+  "source": "1973-4-17 Antalya - Panorama haven.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "земмеринг": {
+  "file": "земмеринг.webp",
+  "source": "Chess Semmering Baden 1937.jpg",
+  "licence": "Public domain"
+ },
+ "манила": {
+  "file": "манила.webp",
+  "source": "Chess Olympiad Hall 1992 Manila.jpg",
+  "licence": "CC BY 3.0"
+ },
+ "кемери": {
+  "file": "кемери.webp",
+  "source": "Panorama pris d'un minaret de la Süleymaniye Camii (\"mosquée du Sultan Soliman le Magnifique\") vers l'ouest avec à gauche, Bozdogan Kemeri (l'aqueduc de Valens en français) et, à droite, la... - A70348XS.jpg",
+  "licence": "CC0"
+ },
+ "триполи": {
+  "file": "триполи.webp",
+  "source": "Algasriyya Panorama - Tripoli Libya.jpg",
+  "licence": "Public domain"
+ },
+ "таллин": {
+  "file": "таллин.webp",
+  "source": "Tallinn Panorama (29986163480).jpg",
+  "licence": "CC BY 2.0"
+ },
+ "сан-антонио": {
+  "file": "сан-антонио.webp",
+  "source": "Commerce Street Bridge, San Antonio, Texas Historical Marker (50194277572).jpg",
+  "licence": "CC BY 2.0"
+ },
+ "марианске-лазне": {
+  "file": "марианске-лазне.webp",
+  "source": "Pohled z Hameliky na Marianske Lazne 1880.jpg",
+  "licence": "Public domain"
+ },
+ "сан-ремо": {
+  "file": "сан-ремо.webp",
+  "source": "San Remo 1930 Chess Turnier.jpg",
+  "licence": "Public domain"
+ },
+ "ноттингем": {
+  "file": "ноттингем.webp",
+  "source": "Chess Nottingham 1936.jpg",
+  "licence": "Public domain"
+ },
+ "джермук": {
+  "file": "джермук.webp",
+  "source": "Landscape from Jermuk 04.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "астрахань": {
+  "file": "астрахань.webp",
+  "source": "Astrakhan in XVII engraving from book 1682.jpg",
+  "licence": "Public domain"
+ },
+ "санта-моника": {
+  "file": "санта-моника.webp",
+  "source": "Ocean Park and Santa Monica Beach view, ca.1905 (CHS-1237).jpg",
+  "licence": "Public domain"
+ },
+ "нетания": {
+  "file": "нетания.webp",
+  "source": "George II of Greece visits Greek soldiers in Netanya, Palestine, 1944.jpg",
+  "licence": "Public domain"
+ },
+ "ростов-на-дону": {
+  "file": "ростов-на-дону.webp",
+  "source": "Iconic view of Rostov-on-Don, panorama of Rostov-on-Don city centre as seen from Gorky Park, Rostov-on-Don, Russia.jpg",
+  "licence": "CC BY 4.0"
+ },
+ "батуми": {
+  "file": "батуми.webp",
+  "source": "Postcard. Batumi Bridge near Tamara, Railroad Train, Georgia. 1910.jpg",
+  "licence": "Public domain"
+ },
+ "майами": {
+  "file": "майами.webp",
+  "source": "Downtown Miami skyline 20100305.jpg",
+  "licence": "CC BY-SA 3.0"
+ },
+ "милан": {
+  "file": "милан.webp",
+  "source": "Flickr - …trialsanderrors - Piazza del Duomo (Cathedral Square), Milan, Italy, ca. 1895.jpg",
+  "licence": "CC BY 2.0"
+ },
+ "бад-киссинген": {
+  "file": "бад-киссинген.webp",
+  "source": "An der Fränkischen Saale südlich der Südbrücke in Bad Kissingen (Panorama).jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "зандворт": {
+  "file": "зандворт.webp",
+  "source": "Gezicht op Zandvoort vanaf de watertoren. NL-HlmNHA 54016933.JPG",
+  "licence": "CC0"
+ },
+ "вроцлав": {
+  "file": "вроцлав.webp",
+  "source": "E-Locomotive E5042 Linke-Hofmann-Werke AG Breslau 1926 - Panorama.jpg",
+  "licence": "CC0"
+ },
+ "саратов": {
+  "file": "саратов.webp",
+  "source": "Alexei Bogoliubov - A View of Saratov.jpg",
+  "licence": "Public domain"
+ },
+ "салоники": {
+  "file": "салоники.webp",
+  "source": "Thessaloniki1688.jpg",
+  "licence": "Public domain"
+ },
+ "хорген": {
+  "file": "хорген.webp",
+  "source": "Horgen - 'Oberrieden und Hirzel der Gemeinde Horgen zur 1000 Jahrfeier 1952' 2014-05-23 17-51-44.JPG",
+  "licence": "CC BY-SA 3.0"
+ },
+ "новосибирск": {
+  "file": "новосибирск.webp",
+  "source": "Lake in the Novosibirsk region (panorama) (7619144146).jpg",
+  "licence": "CC BY 2.0"
+ },
+ "вена": {
+  "file": "вена.webp",
+  "source": "View of Vienna from Josephstadt 1690.jpg",
+  "licence": "CC BY-SA 3.0"
+ },
+ "сан-себастьян": {
+  "file": "сан-себастьян.webp",
+  "source": "San Sebastian Donostia Panoramic 1190583.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "нордвейк": {
+  "file": "нордвейк.webp",
+  "source": "King David, genomen vanaf de Grent in Noordwijk, stranding net ten zuiden van het Palace Hotel, 11 november 1970.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "степанакерт": {
+  "file": "степанакерт.webp",
+  "source": "Panorama of Exhibit - Museum of Fallen Soldiers - Stepanakert - Nagorno-Karabakh (18499082463).jpg",
+  "licence": "CC BY-SA 2.0"
+ },
+ "канны": {
+  "file": "канны.webp",
+  "source": "Vieux Port Cannes en1922.JPG",
+  "licence": "Public domain"
+ },
+ "нидерланды": {
+  "file": "нидерланды.webp",
+  "source": "Plate N from 'An Historical Account of the Campaign in the Netherlands' by William Mudford (1817).jpg",
+  "licence": "Public domain"
+ },
+ "бермуды": {
+  "file": "бермуды.webp",
+  "source": "38th Battalion (Ottawa), CEF on Queen Street, City of Hamilton, Bermuda in 1915.jpg",
+  "licence": "Public domain"
+ },
+ "витория-гастейс": {
+  "file": "витория-гастейс.webp",
+  "source": "Fountain at Plaza de Sta Maria in Vitoria-Gasteiz (1).jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "базна": {
+  "file": "базна.webp",
+  "source": "Panorama din satul Bazna.jpg",
+  "licence": "CC BY-SA 3.0 ro"
+ },
+ "пакш": {
+  "file": "пакш.webp",
+  "source": "Templom részlet és angyal szobor (László Péterfy, 1990), Paks - panoramio (1).jpg",
+  "licence": "CC BY-SA 3.0"
+ },
+ "бургас": {
+  "file": "бургас.webp",
+  "source": "Colton, G.W. Turkey In Asia And The Caucasian Provinces Of Russia. 1856 (E) Bay of Burgas.jpg",
+  "licence": "Public domain"
+ },
+ "монтекатини-терме": {
+  "file": "монтекатини-терме.webp",
+  "source": "Montecatini Terme with Montecatini Alto 01.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "цзиньчжоу": {
+  "file": "цзиньчжоу.webp",
+  "source": "View around Mausoleum in Jinzhou, Dalian 1894.png",
+  "licence": "Public domain"
+ },
+ "дюссельдорф": {
+  "file": "дюссельдорф.webp",
+  "source": "Dusseldorf bridge – Panorama (Greg Zaal via Poly Haven).jpg",
+  "licence": "CC0"
+ },
+ "будва": {
+  "file": "будва.webp",
+  "source": "Budva, noční panorama města.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "бриссаго": {
+  "file": "бриссаго.webp",
+  "source": "Panorama sur le lac Majeur en direction de Brissago - A47702.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "томск": {
+  "file": "томск.webp",
+  "source": "Cityscape view of Tomsk, 1885, stitched.jpg",
+  "licence": "Public domain"
+ },
+ "бергамо": {
+  "file": "бергамо.webp",
+  "source": "Bergamo, Porta Nuova, 1890-1900.jpg",
+  "licence": "Public domain"
+ },
+ "лодзь": {
+  "file": "лодзь.webp",
+  "source": "Lodz panorama-srodmiescie.jpg",
+  "licence": "CC BY 3.0"
+ },
+ "хайфа": {
+  "file": "хайфа.webp",
+  "source": "Haifa Panorama NW to SE (1346416627).jpg",
+  "licence": "CC BY 2.0"
+ },
+ "хайдарабад": {
+  "file": "хайдарабад.webp",
+  "source": "Vivekananda Guest House, Hyderabad , IndiaFB IMG 1624590159682.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "виландри": {
+  "file": "виландри.webp",
+  "source": "Panorama Jardins Château de Villandry.jpg",
+  "licence": "CC BY-SA 3.0"
+ },
+ "нанси": {
+  "file": "нанси.webp",
+  "source": "Arc de Triomphe te Nancy Arc de triomphe (titel op object) Nancy (serietitel op object), RP-F-F19855.jpg",
+  "licence": "CC0"
+ },
+ "ле-пор-марли": {
+  "file": "ле-пор-марли.webp",
+  "source": "Alfred sisley, l'inondazione di port-marly, 1876.JPG",
+  "licence": "CC BY 3.0"
+ },
+ "шэньян": {
+  "file": "шэньян.webp",
+  "source": "Mao Zedong Statue at Shenyang Zhongshan Square at night 20260330211911.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "варшава": {
+  "file": "варшава.webp",
+  "source": "Warsaw 2023 214 Krasinski Palace Valerius Statue.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "абано-терме": {
+  "file": "абано-терме.webp",
+  "source": "Panorama del colle di San Daniele da piazza Sacro Cuore (Abano Terme). Cartolina del 1957. Edizioni A.B.A. (Abano Terme).jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "бонн": {
+  "file": "бонн.webp",
+  "source": "Bonn Panorama Rheinufer vor 1896.jpg",
+  "licence": "Public domain"
+ },
+ "куала-лумпур": {
+  "file": "куала-лумпур.webp",
+  "source": "Panorama of Kuala Lumpur ca. 1884.jpg",
+  "licence": "Public domain"
+ },
+ "шарджа": {
+  "file": "шарджа.webp",
+  "source": "Sharjah Panorama.jpg",
+  "licence": "CC BY 2.5"
+ },
+ "минск": {
+  "file": "минск.webp",
+  "source": "Historical view of Karl Marx street, Minsk.jpg",
+  "licence": "Public domain"
+ },
+ "денвер": {
+  "file": "денвер.webp",
+  "source": "Street in Denver in 1859.jpg",
+  "licence": "Public domain"
+ },
+ "ханчжоу": {
+  "file": "ханчжоу.webp",
+  "source": "A panoramic view of the Hangzhou West Lake Exposition venue.jpg",
+  "licence": "Public domain"
+ },
+ "ашдод": {
+  "file": "ашдод.webp",
+  "source": "Construction of the Port of Ashdod, 1961.jpg",
+  "licence": "Public domain"
+ },
+ "цахкадзор": {
+  "file": "цахкадзор.webp",
+  "source": "Tsaghkadzor panorama, Armenia.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "ханты-мансийск": {
+  "file": "ханты-мансийск.webp",
+  "source": "Khanty-Mansiysk Cathedral.jpg",
+  "licence": "Public domain"
+ },
+ "шамкир": {
+  "file": "шамкир.webp",
+  "source": "Montage of Şəmkir 2019.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "элиста": {
+  "file": "элиста.webp",
+  "source": "Chess Set in Elista.jpg",
+  "licence": "Public domain"
+ },
+ "мехико": {
+  "file": "мехико.webp",
+  "source": "Museo Soumaya, Ciudad de México, México, 2015-07-18, DD 12.JPG",
+  "licence": "CC BY-SA 4.0"
+ },
+ "нижний-новгород": {
+  "file": "нижний-новгород.webp",
+  "source": "Нижний Новгород - panoramio (36).jpg",
+  "licence": "CC BY 3.0"
+ },
+ "нальчик": {
+  "file": "нальчик.webp",
+  "source": "Street at Nalchik.jpg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "петрополис": {
+  "file": "петрополис.webp",
+  "source": "Panorama de Nova Petrópolis, São Bernardo do Campo - panoramio.jpg",
+  "licence": "CC BY 3.0"
+ },
+ "апатиты": {
+  "file": "апатиты.webp",
+  "source": "Apatity, view to city mall and mointains.jpg",
+  "licence": "CC0"
+ },
+ "пярну": {
+  "file": "пярну.webp",
+  "source": "MapParnu-1937-2424.jpg",
+  "licence": "CC0"
+ },
+ "лаббок": {
+  "file": "лаббок.webp",
+  "source": "1970 Lubbock Tornado damage.jpg",
+  "licence": "Public domain"
+ },
+ "юрмала": {
+  "file": "юрмала.webp",
+  "source": "Beach in the Latvian city Jūrmala in 1935.jpg",
+  "licence": "CC BY 4.0"
+ },
+ "ясная-поляна": {
+  "file": "ясная-поляна.webp",
+  "source": "Russia. Ясная Поляна. Лев Толстой с внуками Ваней и Таней около дома. 1908 К.Булла 6ewcqch3c.jpg",
+  "licence": "Public domain"
+ },
+ "морелия-и-линарес": {
+  "file": "морелия-и-линарес.webp",
+  "source": "Morelia panorama DSC 0400 ed AD.jpg",
+  "licence": "CC BY-SA 3.0"
+ },
+ "медиаш": {
+  "file": "медиаш.webp",
+  "source": "Landscape in Romania (FL45801341).jpg",
+  "licence": "CC BY 4.0"
+ },
+ "сан-паулу-и-бильбао": {
+  "file": "сан-паулу-и-бильбао.webp",
+  "source": "(PANORAMA) Sao Paulo (5842816006).jpg",
+  "licence": "CC BY 2.0"
+ },
+ "будапешт": {
+  "file": "будапешт.webp",
+  "source": "Budapest cityscape glass plate.jpg",
+  "licence": "Public domain"
+ },
+ "тилбург": {
+  "file": "тилбург.webp",
+  "source": "Interpolis schaaktoernooi in Tilburg, J. Timman, Bestanddeelnr 931-0358.jpg",
+  "licence": "CC0"
+ },
+ "ченнаи": {
+  "file": "ченнаи.webp",
+  "source": "Parrys Corner, Chennai, India.jpg",
+  "licence": "CC BY-SA 3.0"
+ },
+ "дубай": {
+  "file": "дубай.webp",
+  "source": "Olympiade 1986 Wueste Dubai.jpg",
+  "licence": "CC BY 3.0"
+ },
+ "софия": {
+  "file": "софия.webp",
+  "source": "BASA-3K-7-328-47(2)-Views from New and Old Sofia.jpg",
+  "licence": "Public domain"
+ },
+ "вейк-ан-зее": {
+  "file": "вейк-ан-зее.webp",
+  "source": "Wijk aan Zee - Zeecroft - Panorama of Dorpsweide.jpg",
+  "licence": "CC BY-SA 4.0"
+ }
+}

@@ -1,0 +1,3434 @@
+{
+ "steinitz": {
+  "article": "Стейниц, Вильгельм",
+  "file": "Wilhelm Steinitz2.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "chigorin": {
+  "article": "",
+  "file": "Chigorin, Mikhail Ivanovich - DPLA - 9c37ad8b0a499dd5d59881f56d7a6976.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "gunsberg": {
+  "article": "Гунсберг, Исидор",
+  "file": "Isidor_Arthur_Gunsberg.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "tarrasch": {
+  "article": "Тарраш, Зигберт",
+  "file": "Tarrasch,_Siegbert-2_-_DPLA_-_224f35dc323734bf355cc7c94d0ded68_(cropped).jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "janowski": {
+  "article": "",
+  "file": "Dawid Janowski.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "capablanca": {
+  "article": "Капабланка, Хосе Рауль",
+  "file": "José_Raúl_Capablanca_1931.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "bogoljubow": {
+  "article": "Боголюбов, Ефим Дмитриевич",
+  "file": "Efim_Bogoljubov.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "euwe": {
+  "article": "Эйве, Макс",
+  "file": "Max_Euwe_(1945).jpg",
+  "licence": "CC BY-SA 3.0 nl",
+  "checked": true
+ },
+ "smyslov": {
+  "article": "",
+  "file": "Eerste ronde landentoernooiwereldkampioenschap Schaken V Smyslov (Rusland), Bestanddeelnr 907-6619.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "bronstein": {
+  "article": "",
+  "file": "David Bronstein in 1954.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "petrosian": {
+  "article": "Петросян, Тигран Вартанович",
+  "file": "Tigran_Petrosian_1962.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "spassky": {
+  "article": "",
+  "file": "Dhr. Boris Spassky, Bestanddeelnr 932-7320.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "karpov": {
+  "article": "Карпов, Анатолий Евгеньевич",
+  "file": "4e Ronde, Anatoli Karpov achter het schaakbord, Bestanddeelnr 930-5266.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "kramnik": {
+  "article": "Крамник, Владимир Борисович",
+  "file": "Candidates_Tournament_2018,_Vladimir_Kramnik.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "anand": {
+  "article": "",
+  "file": "Viswanathan Anand (2016).jpeg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "ding": {
+  "article": "Дин Лижэнь",
+  "file": "Ding Liren (30201145173).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "gukesh": {
+  "article": "Доммараджу, Гукеш",
+  "file": "Gukesh_in_2025_(cropped).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "aronian": {
+  "article": "Аронян, Левон Григорьевич",
+  "file": "Levon Aronian grandmaster.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "nakamura": {
+  "article": "Накамура, Хикару",
+  "file": "Hikaru_Nakamura_(2016)_crop.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "reshevsky": {
+  "article": "Решевский, Самуэль",
+  "file": "Beslissingswedstrijd_schaken_begonnen_in_GAK,_Reshevsky_(kop),_Bestanddeelnr_916-5871.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "timman": {
+  "article": "Тимман, Ян",
+  "file": "Dhr._Jan_Timman,_Bestanddeelnr_932-7316.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "short": {
+  "article": "",
+  "file": "Nigel Short 2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "polugaevsky": {
+  "article": "",
+  "file": "Lev Polugaevsky 1972 (cropped).jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "yusupov": {
+  "article": "",
+  "file": "Artur Jussupow 2012.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "portisch": {
+  "article": "Портиш, Лайош",
+  "file": "Ohra-schaaktoernooi_Portisch_in_actie,_kop,_Bestanddeelnr_933-0385.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "ivanchuk": {
+  "article": "Иванчук, Василий Михайлович",
+  "file": "Vasyl_Ivanchuk,_January_2018.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "shirov": {
+  "article": "Широв, Алексей Дмитриевич",
+  "file": "Alexei Shirov-2007.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "svidler": {
+  "article": "Свидлер, Пётр Вениаминович",
+  "file": "Svidler_in_2019_(2).jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "karjakin": {
+  "article": "Карякин, Сергей Александрович",
+  "file": "Karjakin Torino2006.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "so": {
+  "article": "Со, Уэсли",
+  "file": "Wesley_So_in_2023.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "giri": {
+  "article": "Гири, Аниш",
+  "file": "Anish_Giri_in_2025.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "rubinstein": {
+  "article": "Рубинштейн, Акиба Кивелевич",
+  "file": "Akiba-Rubinstein.png",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "nimzowitsch": {
+  "article": "Нимцович, Арон Исаевич",
+  "file": "Aron_Nimzowitsch.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "reti": {
+  "article": "",
+  "file": "Richard Reti.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "najdorf": {
+  "article": "Найдорф, Мигель",
+  "file": "Miguel_Najdorf_(1973).jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "kosteniuk": {
+  "article": "Костенюк, Александра Константиновна",
+  "file": "Kostenjuk alexandra 20081119 olympiade dresden.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "goryachkina": {
+  "article": "Горячкина, Александра Юрьевна",
+  "file": "Aleksandra_Goryachkina_-_Tan_Zhongyi,_Women's_Candidates_Tournament_2024_01_(cropped).jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "lagno": {
+  "article": "",
+  "file": "Kateryna Lagno in 2019 - 02 (cropped).jpg",
+  "licence": "CC BY 4.0",
+  "checked": true
+ },
+ "boleslavsky": {
+  "article": "Болеславский, Исаак Ефремович",
+  "file": "IsaacBoleslavsky_1960.jpg",
+  "licence": "CC BY-SA 2.5",
+  "checked": true
+ },
+ "averbakh": {
+  "article": "",
+  "file": "Yuriy Averbakh 1963.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "kotov": {
+  "article": "Котов, Александр Александрович (шахматист)",
+  "file": "Zevende_IBM_Schaaktoernooi_geopend._De_officiele_loting_A._Kotov_USSR,_Bestanddeelnr_920-5097.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "leko": {
+  "article": "Леко, Петер",
+  "file": "Peter Leko 2025 (cropped).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "adams": {
+  "article": "Адамс, Майкл (шахматист)",
+  "file": "Michael_Adams_Dortmunder_Schachtage_2023.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "morozevich": {
+  "article": "",
+  "file": "Alexander Morozevich 2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "duda": {
+  "article": "Дуда, Ян-Кшиштоф",
+  "file": "Jan-Krzysztof_Duda_2021_(cropped).jpg",
+  "licence": "CC BY 3.0 pl",
+  "checked": true
+ },
+ "abdusattorov": {
+  "article": "Абдусатторов, Нодирбек",
+  "file": "Nodirbek Abdusattorov chess player.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "alekhine": {
+  "article": "Алехин, Александр Александрович",
+  "file": "Alexandre_Alekhine_Color.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "almasi": {
+  "article": "",
+  "file": "Almasi,Zoltan 2004-08-08 Mainz.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "andersson": {
+  "article": "Андерссон, Ульф",
+  "file": "Dhr._Ulf_Andersson,_Bestanddeelnr_932-7379.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "bacrot": {
+  "article": "Бакро, Этьен",
+  "file": "Etienne_Bacrot_2013(2).jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "bareev": {
+  "article": "",
+  "file": "Bareev Evgeny (30219958676).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "benko": {
+  "article": "",
+  "file": "Pal Benko 1964.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "bilek": {
+  "article": "Билек, Иштван",
+  "file": "Istvan_Bilek_1966.jpg",
+  "licence": "CC BY-SA 3.0 nl",
+  "checked": true
+ },
+ "bischoff": {
+  "article": "Бишофф, Клаус",
+  "file": "Bischoff_Klaus_20090424.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "blackburne": {
+  "article": "Блэкберн, Джозеф Генри",
+  "file": "Blackburne.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "botvinnik": {
+  "article": "",
+  "file": "Mikhail Botvinnik 1962.jpg",
+  "licence": "CC BY-SA 3.0 nl",
+  "checked": true
+ },
+ "browne": {
+  "article": "Браун, Уолтер Шон",
+  "file": "Walter_Browne_1975.jpg",
+  "licence": "CC BY-SA 3.0 nl",
+  "checked": true
+ },
+ "bruzonbatista": {
+  "article": "",
+  "file": "Bruzon lazaro 20081119 olympiade dresden.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "byrne": {
+  "article": "",
+  "file": "Robert Byrne 1969.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "carlsen": {
+  "article": "",
+  "file": "FIDE World FR Chess Championship 2019 - Magnus Carlsen.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "caruana": {
+  "article": "",
+  "file": "Fabiano Caruana in 2025.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "cheparinov": {
+  "article": "Чепаринов, Иван",
+  "file": "Ivan_Cheparinov_2011.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "dominguezperez": {
+  "article": "",
+  "file": "Dominguez perez leinier 20081119 olympiade dresden.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "duras": {
+  "article": "Дурас, Олдржих",
+  "file": "Oldřich_Duras.JPG",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "ehlvest": {
+  "article": "Эльвест, Яан Юханович",
+  "file": "Ehlvest_Jaan.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "fine": {
+  "article": "Файн, Ройбен",
+  "file": "Reuben_Fine_(1961).jpg",
+  "licence": "CC BY-SA 3.0 nl",
+  "checked": true
+ },
+ "firouzja": {
+  "article": "Фирузджа, Алиреза",
+  "file": "Alireza_Firouzja_in_2024_(cropped).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "fischer": {
+  "article": "Фишер, Роберт Джеймс",
+  "file": "Bobby_Fischer_1972.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "flohr": {
+  "article": "Флор, Саломон Михайлович",
+  "file": "De GAK-zeskamp te Amsterdam Salo Flohr, Bestanddeelnr 915-8362.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "fressinet": {
+  "article": "Фрессине, Лоран",
+  "file": "Laurent_Fressinet_2013.JPG",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "ftacnik": {
+  "article": "",
+  "file": "Lubomir Ftacnik (Schacholympiade Luzern 1982)-2.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "gelfand": {
+  "article": "",
+  "file": "Boris Gelfand.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "geller": {
+  "article": "Геллер, Ефим Петрович",
+  "file": "Efim_Geller_1977b.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "gligoric": {
+  "article": "Глигорич, Светозар",
+  "file": "Svetozar_Gligoric_at_chess_olympiad_Luzern,_Switzerland,_1982.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "golombek": {
+  "article": "",
+  "file": "Harry Golombek (1949).jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "grischuk": {
+  "article": "Грищук, Александр Игоревич",
+  "file": "Alexander_Grischuk_3,_Candidates_Tournament_2018.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "gurevich": {
+  "article": "Гуревич, Михаил Наумович",
+  "file": "Michail Gurevich.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "kamsky": {
+  "article": "Камский, Гата Рустемович",
+  "file": "GataKamsky24.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "kasparov": {
+  "article": "Каспаров, Гарри Кимович",
+  "file": "Garry Kasparov, New York City, 2003.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "keres": {
+  "article": "Керес, Пауль Петрович",
+  "file": "Hoogoven_Schaaktoernooi_Keres,_Bestanddeelnr_922-0145.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "korchnoi": {
+  "article": "",
+  "file": "Schaker Viktor Kortsjnoi te Westzaan, thuis bij de heer Mooij achter schaakbord, Bestanddeelnr 928-7303.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "larsen": {
+  "article": "Ларсен, Бент",
+  "file": "Interpolis_schaaktoernooi_1e_ronde_Larsen,_Bestanddeelnr_929-8817.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "lautier": {
+  "article": "Лотье, Жоэль",
+  "file": "Lautier,_Joel.JPG",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "ljubojevic": {
+  "article": "Любоевич, Любомир",
+  "file": "LjubomirLjubojevic10.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "lobron": {
+  "article": "Лоброн, Эрик",
+  "file": "Lobron,Eric 2018 Karlsruhe b.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "lutikov": {
+  "article": "Лутиков, Анатолий Степанович",
+  "file": "Anatoly_Lutikov_1967.jpg",
+  "licence": "CC BY-SA 3.0 nl",
+  "checked": true
+ },
+ "mamedyarov": {
+  "article": "Мамедьяров, Шахрияр Гамид оглы",
+  "file": "Mamedyarov Shakhriyar (29863355512).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "marshall": {
+  "article": "Маршалл, Фрэнк Джеймс",
+  "file": "Frank_Marshall_(chess_player).jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "matanovic": {
+  "article": "Матанович, Александр",
+  "file": "Aleksandar_Matanović_1961.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "mecking": {
+  "article": "Мекинг, Энрике",
+  "file": "Henrique_Mecking_1978.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "naiditsch": {
+  "article": "Найдич, Аркадий Михайлович",
+  "file": "Naiditsch,Arkadij 2016 Karlsruhe.jpeg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "navara": {
+  "article": "Навара, Давид",
+  "file": "David Navara 2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "nepomniachtchi": {
+  "article": "Непомнящий, Ян Александрович",
+  "file": "Ian Nepomniachtchi chess player (cropped).jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "nogueirassantiago": {
+  "article": "Ногейрас, Хесус",
+  "file": "NogueirasSantiago_Jesus1.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "panno": {
+  "article": "Панно, Оскар",
+  "file": "Oscar_Panno_1977.jpg",
+  "licence": "CC BY-SA 3.0 nl",
+  "checked": true
+ },
+ "polgar": {
+  "article": "",
+  "file": "Sofia, Judit, Susan Polgar sisters.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "pomarsalamanca": {
+  "article": "Помар, Артуро",
+  "file": "Arturo_Pomar_1972.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "radjabov": {
+  "article": "Раджабов, Теймур Борисович",
+  "file": "Teimour Radjabov 2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "rapport": {
+  "article": "Раппорт, Рихард",
+  "file": "Richard_Rapport.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "rogers": {
+  "article": "Роджерс, Ян",
+  "file": "Ian_Rogers_2010_Dortmund.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "saemisch": {
+  "article": "",
+  "file": "Friedrich Saemisch (chess player).jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "schlechter": {
+  "article": "Шлехтер, Карл",
+  "file": "Schlechter,_Carl_1896_-_DPLA_-_832da5245429c37f5e2ffcdf1fa3b902_(cropped).jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "schmidt": {
+  "article": "Шмидт, Влодзимеж",
+  "file": "2021-Schmidt-Wlodzimierz.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "seirawan": {
+  "article": "",
+  "file": "Yasser Seirawan, Chess Olympiad Luzern, Switzerland, 1982.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "sokolov": {
+  "article": "Соколов, Иван",
+  "file": "IvanSokolov2012.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "stahlberg": {
+  "article": "",
+  "file": "Wereldschaaktoernooi eerste dag Gideon Stahlberg tegen Cenek Kottnauer, Bestanddeelnr 904-2914.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "stein": {
+  "article": "Штейн, Леонид Захарович",
+  "file": "Interfide_schaaktoernooi_in_GAK_gebouw,_Stein,_Bestanddeelnr_916-4589.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "taimanov": {
+  "article": "",
+  "file": "Mark Taimanov.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "tartakower": {
+  "article": "",
+  "file": "Ksawery Tartakower.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "teichmann": {
+  "article": "Тейхман, Рихард",
+  "file": "Richard_Teichmann_(circa_1900-1910).jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "thomas": {
+  "article": "Томас, Джордж Алан",
+  "file": "Ethel_Thompson_GA_Thomas.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "topalov": {
+  "article": "",
+  "file": "Topalov Veselin (30651645392).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "torre": {
+  "article": "Торре, Эугенио",
+  "file": "Torre_Eugenio_(30134826816).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "uhlmann": {
+  "article": "Ульман, Вольфганг",
+  "file": "Uhlmann,Wolfgang 1998 Grieskirchen.jpeg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "unzicker": {
+  "article": "Унцикер, Вольфганг",
+  "file": "Wolfgang Unzicker 1961 Oberhausen.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "vachierlagrave": {
+  "article": "Вашье-Лаграв, Максим",
+  "file": "Maxime Vachier-Lagrave au tournoi des candidats (cropped).jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "vallejopons": {
+  "article": "Вальехо Понс, Франсиско",
+  "file": "Francisco_Vallejo_Pons_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "vasiukov": {
+  "article": "",
+  "file": "Vasiukov,Evgeni 2016 Marienbad.jpeg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "wang": {
+  "article": "Ван Юэ (шахматист)",
+  "file": "Wang_Yue_(chess).jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "wolf": {
+  "article": "Вольф, Генрих (шахматист)",
+  "file": "Heinrich_Wolf.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "yates": {
+  "article": "Ейтс, Фредерик",
+  "file": "Frederick_Dewhurst_Yates.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "zukertort": {
+  "article": "Цукерторт, Иоганн Герман",
+  "file": "Zukertort,_Johannes_Hermann_\"-1\"_-_DPLA_-_178f6bd2074f2347becb2e4ebeabd45b_(cropped).jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "tal": {
+  "article": "",
+  "file": "Mikhail Tal Leipzig 1960.jpg",
+  "licence": "CC BY-SA 3.0 de",
+  "checked": true
+ },
+ "lasker": {
+  "article": "Ласкер, Эмануил",
+  "file": "Bundesarchiv_Bild_102-00457,_Emanuel_Lasker.jpg",
+  "licence": "CC BY-SA 3.0 de",
+  "checked": true
+ },
+ "vanwely": {
+  "article": "Ван Вели, Люк",
+  "file": "Loek van Wely 2022 (52157330498) (cropped).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "defirmian": {
+  "article": "Де Фирмиан, Ник",
+  "file": "Nick de Firmian 1986 Dubai.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "ponomariov": {
+  "article": "Пономарёв, Руслан Олегович",
+  "file": "Ponomariov 2010 Dortmund.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "spielmann": {
+  "article": "Шпильман, Рудольф",
+  "file": "Rudolf_Spielmann.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "piket": {
+  "article": "Пикет, Йерун",
+  "file": "Hoogovensschaaktoernooi_Jeroen_Piket,_Bestanddeelnr_934-1684.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "maroczy": {
+  "article": "",
+  "file": "Geza, Maroczy -2 - DPLA - 238983858edad66c9deafeda43e70145.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "ivkov": {
+  "article": "Ивков, Борислав",
+  "file": "Borislav_Ivkov_1972.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "beliavsky": {
+  "article": "Белявский, Александр Генрихович",
+  "file": "Beliavsky_Alexander_(30169046695)_(cropped).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "hort": {
+  "article": "Горт, Властимил",
+  "file": "1e_ronde,_Vlastimil_Hort,_Bestanddeelnr_930-3098.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "szabo": {
+  "article": "",
+  "file": "IBM schaaktoernooi, L. Szabo (Hongarije), Bestanddeelnr 917-9985.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "erigaisi": {
+  "article": "Эригайси, Арджун",
+  "file": "Arjun_Erigaisi_Uzchess_cup_3_masters_(cropped).jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "nikolic": {
+  "article": "Николич, Предраг",
+  "file": "PredragNikolic13.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "jakovenko": {
+  "article": "",
+  "file": "Jakovenko,Dmitry 2016 Baden-Baden.jpeg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "mieses": {
+  "article": "Мизес, Жак",
+  "file": "Jacques_Mieses_(c._1900).jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "huebner": {
+  "article": "",
+  "file": "Huebner Robert.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "filip": {
+  "article": "Филип, Мирослав",
+  "file": "IBM_schaaktoernooi,_M._Filip_(Tsjechoslowakije),_Bestanddeelnr_917-9984.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "vidmar": {
+  "article": "Видмар, Милан",
+  "file": "Milan_Vidmar_1930s.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "gheorghiu": {
+  "article": "Георгиу, Флорин",
+  "file": "Gheorghiu,Florin_1987_Altensteig.jpeg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "pachman": {
+  "article": "Пахман, Людек",
+  "file": "PachmanLudek.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "dreev": {
+  "article": "Дреев, Алексей Сергеевич",
+  "file": "Alexey_Dreev_2012.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "bologan": {
+  "article": "Бологан, Виорел Антонович",
+  "file": "ViktorBologan13.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "eljanov": {
+  "article": "Эльянов, Павел Владимирович",
+  "file": "Pavel_Eljanov_at_Dortmunder_Schachtage_2023_(cropped2).jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "vaganian": {
+  "article": "Ваганян, Рафаэль Артёмович",
+  "file": "Dhr. Rafael Vaganian, Bestanddeelnr 932-7378.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "ribli": {
+  "article": "Рибли, Золтан",
+  "file": "Zoltán_Ribli_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "praggnanandhaa": {
+  "article": "Рамешбабу Прагнанандха",
+  "file": "Praggnanandhaa_in_2025.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "marco": {
+  "article": "Марко, Георг",
+  "file": "Georg_Marco.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "kasimdzhanov": {
+  "article": "Касымджанов, Рустам Машрукович",
+  "file": "Rustam_Kasimdzhanov_08_19_2007.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "onischuk": {
+  "article": "Онищук, Александр Васильевич",
+  "file": "Alex_Onischuk.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "balashov": {
+  "article": "Балашов, Юрий Сергеевич (шахматист)",
+  "file": "Hoogovenschaaktoernooi,_de_Rus_Balasjof,_Bestanddeelnr_926-1801.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "donner": {
+  "article": "Доннер, Иоганнес Хендрикус",
+  "file": "Jan_Hein_Donner_1978.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "rublevsky": {
+  "article": "Рублевский, Сергей Владимирович",
+  "file": "Sergey_Rublevsky.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "pillsbury": {
+  "article": "Пильсбери, Гарри",
+  "file": "Pillsbury,_Harry_Nelson,_as_a_Young_Man_-_DPLA_-_bcd01a18c987fea609e21f290ce181be_(cropped).jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "miles": {
+  "article": "Майлс, Энтони",
+  "file": "Anthony_Miles_1976.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "burn": {
+  "article": "Берн, Амос",
+  "file": "Amos_Burn.JPG",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "nunn": {
+  "article": "Нанн, Джон",
+  "file": "Hoogovens Schaaktoernooi vierde ronde. Nunn (koploper) in aktie, Bestanddeelnr 931-9184.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "speelman": {
+  "article": "Спилмен, Джонатан",
+  "file": "JonSpeelman24.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "georgiev": {
+  "article": "Георгиев, Кирил",
+  "file": "Kiril_georgiev_2011.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "tukmakov": {
+  "article": "Тукмаков, Владимир Борисович",
+  "file": "Vladimir_Tukmakov_2009.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "gufeld": {
+  "article": "Гуфельд, Эдуард Ефимович",
+  "file": "Gufeldweb.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "gruenfeld": {
+  "article": "",
+  "file": "Ernst Gruenfeld.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "leonhardt": {
+  "article": "Леонгардт, Пауль Саладин",
+  "file": "Paul_Saladin_Leonhardt.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "gashimov": {
+  "article": "Гашимов, Вугар Гасым оглы",
+  "file": "VugarGashimov10.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "gulko": {
+  "article": "Гулько, Борис Францевич",
+  "file": "Grandmaster Boris Gulko.jpg",
+  "licence": "CC BY 4.0",
+  "checked": true
+ },
+ "parma": {
+  "article": "Парма, Бруно",
+  "file": "Bruno_Parma.jpg",
+  "licence": "CC BY 2.5",
+  "checked": true
+ },
+ "salov": {
+  "article": "Салов, Валерий Борисович",
+  "file": "Valery_Salov_1989.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "padevsky": {
+  "article": "Падевский, Никола",
+  "file": "Nikola_Padevsky_1972.jpg",
+  "licence": "CC BY-SA 3.0 nl",
+  "checked": true
+ },
+ "romanishin": {
+  "article": "",
+  "file": "2019-Oleg-Romanishin.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "zapata": {
+  "article": "Сапата, Алонсо",
+  "file": "Zapata_Alonso.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "khalifman": {
+  "article": "Халифман, Александр Валерьевич",
+  "file": "AKhalifman09.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "suetin": {
+  "article": "",
+  "file": "Suetin 1995 Bad Liebenzell.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "trifunovic": {
+  "article": "Трифунович, Петар",
+  "file": "Petar_Trifunović_1962.jpg",
+  "licence": "CC BY-SA 3.0 nl",
+  "checked": true
+ },
+ "mikenas": {
+  "article": "",
+  "file": "Vladas-Mikenas-1931.png",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "smejkal": {
+  "article": "Смейкал, Ян",
+  "file": "Jan_Smejkal_(Tsjech),_Bestanddeelnr_928-0394.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "inarkiev": {
+  "article": "Инаркиев, Эрнесто Казбекович",
+  "file": "ErnestoInarkiev.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "olafsson": {
+  "article": "",
+  "file": "Fridrik Olafsson.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "hjartarson": {
+  "article": "Йохан Хьяртарсон",
+  "file": "Hjartarson_johan_20100521_berlin_4.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "motylev": {
+  "article": "Мотылёв, Александр Анатольевич",
+  "file": "AlexanderMotylev23.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "matulovic": {
+  "article": "Матулович, Милан",
+  "file": "Milan_Matulović_1974.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "savon": {
+  "article": "Савон, Владимир Андреевич",
+  "file": "Vladimir_Savon_1972.jpg",
+  "licence": "CC BY-SA 3.0 nl",
+  "checked": true
+ },
+ "bouaziz": {
+  "article": "Буазиз, Слим",
+  "file": "Bouaziz,Slim_1979_Dortmund.JPG",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "tiviakov": {
+  "article": "Тивяков, Сергей Николаевич",
+  "file": "Sergei_Tiviakov_vienna_(cropped).jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "lilienthal": {
+  "article": "Лилиенталь, Андрэ Арнольдович",
+  "file": "Andor_Lilienthal.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "tomashevsky": {
+  "article": "Томашевский, Евгений Юрьевич",
+  "file": "Evgeny_Tomashevsky_Satka_2018.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "vanderwiel": {
+  "article": "Ван дер Вил, Джон",
+  "file": "Dhr._John_van_der_Wiel,_Bestanddeelnr_932-7319.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "vitiugov": {
+  "article": "Витюгов, Никита Кириллович",
+  "file": "Nikita_Vitiugov,_Gibraltar_(2019).jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "kindermann": {
+  "article": "Киндерман, Штефан",
+  "file": "Stefan_Kindermann,_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "westerinen": {
+  "article": "Вестеринен, Хейкки",
+  "file": "Westerinen,Heikki_1987_Altensteig.jpeg",
+  "licence": "CC BY 4.0",
+  "checked": true
+ },
+ "andreikin": {
+  "article": "Андрейкин, Дмитрий Владимирович",
+  "file": "Dmitry_Andreikin_Satka_2018.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "suba": {
+  "article": "",
+  "file": "Suba Mihai.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "tringov": {
+  "article": "Трингов, Георгий",
+  "file": "Georgi_Tringov_aan_het_schaakbord,_Bestanddeelnr_919-5573_(cropped).jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "kavalek": {
+  "article": "Кавалек, Любомир",
+  "file": "Hoogovenschaaktoernooi_Kavalek,_Bestanddeelnr_927-6951.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "movsesian": {
+  "article": "Мовсесян, Сергей Мушегович",
+  "file": "Sergei_Movsesian_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "wei": {
+  "article": "Вэй И",
+  "file": "Wei_Yi_in_2025_(cropped).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "najer": {
+  "article": "Наер, Евгений Юрьевич",
+  "file": "Evgeni_Najer.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "wojtaszek": {
+  "article": "Войташек, Радослав",
+  "file": "2022-Radoslaw-Wojtaszek.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "malakhov": {
+  "article": "Малахов, Владимир Наильевич",
+  "file": "Vladimir_Malakhov_2012.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "sutovsky": {
+  "article": "Сутовский, Эмиль Давидович",
+  "file": "EmilSutovsky23.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "dolmatov": {
+  "article": "Долматов, Сергей Викторович",
+  "file": "SergeyDolmatov1991-2.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "psakhis": {
+  "article": "Псахис, Лев Борисович",
+  "file": "Psakhis_Lev.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "adorjan": {
+  "article": "Адорьян, Андраш (шахматист)",
+  "file": "Andras_Adorjan_1978.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "sax": {
+  "article": "Сакс, Дьюла",
+  "file": "Gyula_Sax_1979b.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "lputian": {
+  "article": "Лпутян, Смбат Гарегинович",
+  "file": "Lputian_Smbat.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "edouard": {
+  "article": "",
+  "file": "Romain Edouard 2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "meier": {
+  "article": "Майер, Георг",
+  "file": "Georg_Meier_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "quinteros": {
+  "article": "Кинтерос, Мигель",
+  "file": "Miguel_Quinteros.JPG",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "rossolimo": {
+  "article": "Россолимо, Николас",
+  "file": "Nicolas_Rossolimo_1950_(cropped).jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "christiansen": {
+  "article": "Кристиансен, Ларри",
+  "file": "Christiansen0201_075.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "shabalov": {
+  "article": "Шабалов, Александр Анатольевич",
+  "file": "Shabalov0201_057.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "alburt": {
+  "article": "",
+  "file": "Lev Alburt 1980 Malta.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "ju": {
+  "article": "Цзюй Вэньцзюнь",
+  "file": "Ju_Wenjun_in_2024_(cropped).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "hou": {
+  "article": "Хоу Ифань",
+  "file": "Hou_Yifan_(29762728494)_(cropped).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "muzychuk": {
+  "article": "Музычук, Анна Олеговна",
+  "file": "AnnaMuzychuk09.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "stefanova": {
+  "article": "Стефанова, Антоанета",
+  "file": "2022-Antoaneta-Stefanova.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "cramling": {
+  "article": "Крамлинг, Пиа",
+  "file": "Pia-Cramling.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "jobava": {
+  "article": "Джобава, Баадур Александрович",
+  "file": "Jobava_Baadur_(30304194976)_(cropped).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "akopian": {
+  "article": "",
+  "file": "",
+  "licence": "",
+  "checked": true
+ },
+ "granda": {
+  "article": "",
+  "file": "",
+  "licence": "",
+  "checked": true
+ },
+ "illescascordoba": {
+  "article": "",
+  "file": "",
+  "licence": "",
+  "checked": true
+ },
+ "harikrishna": {
+  "article": "Пентала, Харикришна",
+  "file": "2021-Pentala-Harikrishna.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "artemiev": {
+  "article": "Артемьев, Владислав Михайлович",
+  "file": "Vladislav_Artemiev,_Kazan,_13_Oct_2023.jpg",
+  "licence": "CC BY 4.0",
+  "checked": true
+ },
+ "maghsoodloo": {
+  "article": "Магсудлу, Пархам",
+  "file": "ParhamMaghsoodloo23.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "matlakov": {
+  "article": "Матлаков, Максим Сергеевич",
+  "file": "MaximMatlakov23.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "shankland": {
+  "article": "Шенкленд, Сэм",
+  "file": "SamShankland23c.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "dubov": {
+  "article": "Дубов, Даниил Дмитриевич",
+  "file": "Daniil Dubov Satka 2018.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "areshchenko": {
+  "article": "Арещенко, Александр Валентинович",
+  "file": "2021-Alexander-Areshchenko_(cropped).JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "korobov": {
+  "article": "Коробов, Антон Сергеевич",
+  "file": "Anton_Korobov_in_2024.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "riazantsev": {
+  "article": "Рязанцев, Александр Владимирович (шахматист)",
+  "file": "Alexander Riazantsev 2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "sjugirov": {
+  "article": "Сюгиров, Санан Вячеславович",
+  "file": "SananSjugirov24.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "kryvoruchko": {
+  "article": "Криворучко, Юрий Григорьевич",
+  "file": "2022-Yurij-Kryvoruchko.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "mamedov": {
+  "article": "Мамедов, Рауф (шахматист)",
+  "file": "Rauf_Mamedov_2023_(cropped).jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "efimenko": {
+  "article": "Ефименко, Захар Александрович",
+  "file": "Zahar_Efimenko_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "mcshane": {
+  "article": "Макшейн, Люк",
+  "file": "Luke_McShane_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "robson": {
+  "article": "Робсон, Рэй",
+  "file": "RRobson10.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "alekseenko": {
+  "article": "Алексеенко, Кирилл Алексеевич",
+  "file": "KirillAlekseenko19.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "esipenko": {
+  "article": "Есипенко, Андрей Евгеньевич",
+  "file": "AndreyEsipenko23.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "vanforeest": {
+  "article": "Ван Форест, Йорден",
+  "file": "Jorden_van_Foreest_in_2024_(cropped).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "keymer": {
+  "article": "Каймер, Винсент",
+  "file": "Vincent_Keymer_2026_Norway_Chess.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "deac": {
+  "article": "Дяк, Богдан-Даньел",
+  "file": "2022-Bogdan-Daniel-Deac.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "sasikiran": {
+  "article": "Кришнан Сашикиран",
+  "file": "Krishnan-Sasikiran.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "amin": {
+  "article": "Амин, Бассем",
+  "file": "Bassem Amin at the 2013 Chess World Cup.png",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "rodshtein": {
+  "article": "Родштейн, Максим Эдуардович",
+  "file": "Rodshtein_Maxim_Barcelona_2010.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "sargissian": {
+  "article": "Саркисян, Габриэл Эдуардович",
+  "file": "Sargissian_Gabriel.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "berkes": {
+  "article": "Беркеш, Ференц (шахматист)",
+  "file": "2021-Ferenc-Berkes.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "nisipeanu": {
+  "article": "Нисипяну, Ливиу-Дитер",
+  "file": "Liviu-Dieter_Nisipeanu,_2015.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "nielsen": {
+  "article": "Нильсен, Петер Хейне",
+  "file": "PeterHeineNielsen14.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "sadler": {
+  "article": "Садлер, Мэттью",
+  "file": "MatthewSadler17.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "ragger": {
+  "article": "Раггер, Маркус",
+  "file": "Ragger,Markus_2016_Karlsruhe.jpeg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "laznicka": {
+  "article": "",
+  "file": "Viktor Laznicka.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "howell": {
+  "article": "Хауэлл, Дэвид (шахматист)",
+  "file": "David_Howell_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "azmaiparashvili": {
+  "article": "Азмайпарашвили, Зураб Алексеевич",
+  "file": "Zurab_Azmaiparashvili.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "milov": {
+  "article": "Милов, Вадим Маркович",
+  "file": "Vadim_Milov.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "antonguijarro": {
+  "article": "",
+  "file": "David Anton (2019).jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "grandelius": {
+  "article": "Гранделиус, Нильс",
+  "file": "2021-Nils-Grandelius.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "jones": {
+  "article": "Джонс, Гавейн",
+  "file": "Jones_Gawain_(30251269071)_(cropped).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "saric": {
+  "article": "",
+  "file": "Saric,Ivan 2016 Karlsruhe.jpeg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "krasenkow": {
+  "article": "Красенков, Михаил Владимирович",
+  "file": "2021-Michal-Krasenkow.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "miroshnichenko": {
+  "article": "Мирошниченко, Евгений Витальевич",
+  "file": "Evgeny_Miroshnichenko.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "nihal": {
+  "article": "Нихал Сарин",
+  "file": "NihalSarin23.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "tabatabaei": {
+  "article": "Табатабаи, Мохаммад Амин",
+  "file": "AminTabatabaei23.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "khismatullin": {
+  "article": "Хисматуллин, Денис Римович",
+  "file": "Denis_Khismatullin_Satka_2018.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "lysyj": {
+  "article": "Лысый, Игорь Ильич",
+  "file": "Igor Lysyj Rilton Cup 2009.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "salem": {
+  "article": "Салем, Салех",
+  "file": "Salem_Saleh_in_2024_(cropped).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "nabaty": {
+  "article": "Набати, Тамир",
+  "file": "Bansko-tamir-nabaty-1-22172.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "sarana": {
+  "article": "Сарана, Алексей Васильевич",
+  "file": "AlexeiSarana23.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "zhigalko": {
+  "article": "Жигалко, Сергей Александрович",
+  "file": "Sergei_Zhigalko_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "cori": {
+  "article": "Кори Тельо, Хорхе",
+  "file": "Jorge-Cori-Olot-2016_(cropped).jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "niemann": {
+  "article": "Ниманн, Ханс Моке",
+  "file": "Hans_Niemann_Uzchess_cup_3_masters_(cropped).jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "timofeev": {
+  "article": "Тимофеев, Артём Валерьевич",
+  "file": "Artyom_Timofeev_(chess_player).jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "bauer": {
+  "article": "Бауэр, Кристиан (шахматист)",
+  "file": "Christian_Bauer.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "grandazuniga": {
+  "article": "Гранда Суньига, Хулио",
+  "file": "Julio Granda Zuniga.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "kobalia": {
+  "article": "Кобалия, Михаил Робертович",
+  "file": "Mikhail_Kobalia_Satka_2018.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "potkin": {
+  "article": "Поткин, Владимир Алексеевич",
+  "file": "Vladimir_Potkin_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "roiz": {
+  "article": "Ройз, Михаил",
+  "file": "Michael_Roiz_Dec_2008.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "kurnosov": {
+  "article": "Курносов, Игорь Дмитриевич",
+  "file": "IgorKurnosov13a.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "adhiban": {
+  "article": "Башкаран Адхибан",
+  "file": "BAdhiban19.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "hammer": {
+  "article": "Хаммер, Йон Людвиг",
+  "file": "JLHammer11.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "santoslatasa": {
+  "article": "Сантос Латаса, Хайме",
+  "file": "JaimeSantosLatasa23.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "kovalev": {
+  "article": "Ковалёв, Владислав Владимирович",
+  "file": "Vladislav_Kovalev_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "kuzubov": {
+  "article": "Кузубов, Юрий Александрович",
+  "file": "YuriyKuzubov23.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "aleksandrov": {
+  "article": "Александров, Алексей Геннадьевич",
+  "file": "Aleksej_Aleksandrov_2009.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "bluebaum": {
+  "article": "",
+  "file": "2021-Matthias-Bluebaum.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "guseinov": {
+  "article": "Гусейнов, Гадир",
+  "file": "Gadir_Guseinov_(29598593811).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "iturrizagabonelli": {
+  "article": "Итуррисага, Эдуардо",
+  "file": "Iturrizaga_Bonelli,Eduardo_Pat_2016_Dresden.jpeg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "melkumyan": {
+  "article": "Мелкумян, Грант Славович",
+  "file": "HrantMelkumyan11.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "tkachiev": {
+  "article": "Ткачёв, Владислав Иванович",
+  "file": "Vladislav_Tkachiev_2012.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "ganguly": {
+  "article": "Гангули, Сурья Шехар",
+  "file": "SGanguly11.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "moussard": {
+  "article": "Муссар, Жюль",
+  "file": "Jules_Moussard.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "fridman": {
+  "article": "Фридман, Даниэль Григорьевич",
+  "file": "Daniel_Fridman_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "ipatov": {
+  "article": "Ипатов, Александр Владимирович",
+  "file": "Ipatov_Qatar_2015.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "swiercz": {
+  "article": "",
+  "file": "Swiercz Dariusz (29079958724).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "fedorchuk": {
+  "article": "Федорчук, Сергей Анатольевич",
+  "file": "SFedorchuk.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "smeets": {
+  "article": "Сметс, Ян",
+  "file": "Jan_Smeets_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "ivanisevic": {
+  "article": "Иванишевич, Иван (шахматист)",
+  "file": "Ivanisevic,Ivan_2016_Karlsruhe.jpeg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "vankampen": {
+  "article": "Ван Кампен, Робин",
+  "file": "Robin_van_Kampen_2012.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "fedorov": {
+  "article": "Фёдоров, Алексей Дмитриевич",
+  "file": "2019-Alexei-Fedorov.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "tari": {
+  "article": "Тари, Арьян",
+  "file": "Tari,Aryan 2015 Wien.JPG",
+  "licence": "CC BY 4.0",
+  "checked": true
+ },
+ "khairullin": {
+  "article": "Хайруллин, Ильдар Амирович",
+  "file": "Ildar_Khairullin_2009.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "rausis": {
+  "article": "",
+  "file": "Igors Rausis.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "jumabayev": {
+  "article": "Джумабаев, Ринат Атогалиевич",
+  "file": "Rinat_Jumabayev_3rd_Uzchess_cup_(cropped).jpg",
+  "licence": "CC BY 4.0",
+  "checked": true
+ },
+ "postny": {
+  "article": "Постный, Евгений Михайлович",
+  "file": "Evgeny_Postny_at_2018_Andorra_open_(cropped).jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "korneev": {
+  "article": "Корнеев, Олег Анатольевич",
+  "file": "Oleg_Korneev_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "abasov": {
+  "article": "Абасов, Ниджат Азад оглы",
+  "file": "Nijat_Abasov_at_the_Candidates_2024_tournament_14_(cropped).jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "bartel": {
+  "article": "Бартель, Матеуш",
+  "file": "2022-Mateusz-Bartel.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "nguyen": {
+  "article": "",
+  "file": "Nguyen Ngoc Truong Son in HDBank 2016.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "lupulescu": {
+  "article": "Лупулеску, Константин",
+  "file": "2021-Constantin-Lupulescu.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "predojevic": {
+  "article": "Предоевич, Борки",
+  "file": "BorkiPredojevic17_(cropped).jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "landa": {
+  "article": "Ланда, Константин Юрьевич",
+  "file": "Konstantin Landa.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "akobian": {
+  "article": "Акопян, Варужан Эдуардович",
+  "file": "VAkobian10.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "socko": {
+  "article": "",
+  "file": "2021-Bartosz-Socko.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "baklan": {
+  "article": "Баклан, Владимир Олегович",
+  "file": "Wolodymyr_Baklan_at_the_XIII_Torneo_Internacional_Ciudad_de_Pontevedra,_Galicia,_Spain_5.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "gajewski": {
+  "article": "Гаевский, Гжегож",
+  "file": "2021-Grzegorz-Gajewski.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "avrukh": {
+  "article": "Аврух, Борис Леонидович",
+  "file": "London_Chess_Classic_2010_Avrukh_02.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "turov": {
+  "article": "Туров, Максим Владимирович",
+  "file": "Maxim Turov 2012.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "shimanov": {
+  "article": "Шиманов, Александр Александрович",
+  "file": "Aleksandr_Shimanov_2012.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "graf": {
+  "article": "Граф, Александр (шахматист)",
+  "file": "Graf_alexander2_20081024_berlin_lichtenrader_herbst.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "volkov": {
+  "article": "Волков, Сергей Викторович",
+  "file": "Volkov,Sergey_2017_Karlsruhe_a.jpeg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "hausrath": {
+  "article": "Daniel Hausrath",
+  "file": "DanielHausrath13.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "mareco": {
+  "article": "Мареко, Сандро",
+  "file": "Sandro_Mareco_(28783328944).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "lutz": {
+  "article": "Луц, Кристофер",
+  "file": "Lutz_Christopher.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "erdos": {
+  "article": "",
+  "file": "Viktor Erdos.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "kaidanov": {
+  "article": "Кайданов, Григорий Зиновьевич",
+  "file": "Kaidanov0201_051.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "miton": {
+  "article": "",
+  "file": "Kamil Miton Bydgoszcz 2009.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "romanov": {
+  "article": "Романов, Евгений Анатольевич",
+  "file": "Evgeny_Romanov_2012_(cropped).jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "papaioannou": {
+  "article": "Папаиоанну, Иоаннис",
+  "file": "Ioannis_Papaioannou_2011.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "yermolinsky": {
+  "article": "Ермолинский, Алексей Владиславович",
+  "file": "Yermolinsky_Alexander.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "leitao": {
+  "article": "",
+  "file": "RafaelLeitao12.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "tregubov": {
+  "article": "Трегубов, Павел Владимирович",
+  "file": "PavelTregubov13.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "asrian": {
+  "article": "Асрян, Карен Араратович",
+  "file": "Karen_Asrian_2007.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "hovhannisyan": {
+  "article": "Оганесян, Роберт Араратович",
+  "file": "RobertHovhannisyan16.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "salgadolopez": {
+  "article": "Сальгадо Лопес, Иван",
+  "file": "Iván_Salgado_López_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "ibragimov": {
+  "article": "Ибрагимов, Ильдар Рифкатович",
+  "file": "Ibragimov_Ildar.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "hracek": {
+  "article": "",
+  "file": "ZbynekHracek13.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "nyback": {
+  "article": "",
+  "file": "TomiNyback12.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "zherebukh": {
+  "article": "Жеребух, Ярослав Владимирович",
+  "file": "Yaroslav_Zherebukh_2012.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "parligras": {
+  "article": "",
+  "file": "Parligras Mircea Barcelona 2010.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "shulman": {
+  "article": "Шульман, Юрий Маркович",
+  "file": "GM_Yury_Shulman_(cropped).jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "solak": {
+  "article": "",
+  "file": "Solak Dragan (30169314045).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "buhmann": {
+  "article": "Буман, Райнер",
+  "file": "Buhmann,Rainer_2015_Wien.JPG",
+  "licence": "CC BY 4.0",
+  "checked": true
+ },
+ "chernin": {
+  "article": "Чернин, Александр Михайлович",
+  "file": "Alexander_Chernin_1987.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "macieja": {
+  "article": "Мачея, Бартломей",
+  "file": "GM_Bartlomiej_Macieja.JPG",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "yilmaz": {
+  "article": "",
+  "file": "Mustafa Yilmaz 2010.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "hansen": {
+  "article": "Хансен, Курт",
+  "file": "Hansen_curt_20061029_berlin_bundesliga.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "kozul": {
+  "article": "",
+  "file": "Kozul,Zdenko 2016 Karlsruhe.jpeg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "popov": {
+  "article": "Попов, Иван Владимирович (шахматист)",
+  "file": "Ivan_Popov.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "durarbayli": {
+  "article": "Дурарбейли, Васиф",
+  "file": "Vasif Durarbayli 2010.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "kollars": {
+  "article": "Колларс, Дмитрий",
+  "file": "2021-Dmitrij-Kollars.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "kempinski": {
+  "article": "Кемпиньский, Роберт",
+  "file": "2021-Robert-Kempinski.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "dautov": {
+  "article": "Даутов, Рустем Хазитович",
+  "file": "Dautov_Rustem.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "markowski": {
+  "article": "Марковский, Томаш",
+  "file": "2021-Tomasz-Markowski.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "kazhgaleyev": {
+  "article": "Кажгалеев, Муртас Муратович",
+  "file": "MKazhgaleyev11.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "perezcandelario": {
+  "article": "",
+  "file": "Manuel Perez Candelario 2009.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "vocaturo": {
+  "article": "Вокатуро, Даниеле",
+  "file": "Vocaturo_RE_2010.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "hamdouchi": {
+  "article": "Хамдуши, Хишам",
+  "file": "Hicham_Hamdouchi_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "miladinovic": {
+  "article": "Миладинович, Игор",
+  "file": "Miladinovic.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "mikhalevski": {
+  "article": "Михалевский, Виктор Маркович",
+  "file": "Victor_Mikhalevski.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "fier": {
+  "article": "Фиер, Александр",
+  "file": "Alexandr_Fier_4363.jpg",
+  "licence": "CC BY-SA 3.0 at",
+  "checked": true
+ },
+ "zubov": {
+  "article": "Oleksandr Zubov",
+  "file": "Alexander_Zubov_2014.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "peralta": {
+  "article": "Перальта, Фернандо",
+  "file": "FernandoPeralta13_(cropped).jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "shipov": {
+  "article": "Шипов, Сергей Юрьевич",
+  "file": "Sergey_Shipov_Satka_2018.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "zhang": {
+  "article": "Чжан Пэнсян",
+  "file": "Zhang_Pengxiang.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "aravindh": {
+  "article": "Аравинд Читамбарам",
+  "file": "AravindhChitambaram23a.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "bachmann": {
+  "article": "Бахманн, Аксель",
+  "file": "Axel_Bachmann_Figueres_2015.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "dorfman": {
+  "article": "Дорфман, Иосиф Давидович",
+  "file": "Iossif_Dorfman_-_Albi_2022_1R.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "gurgenidze": {
+  "article": "Гургенидзе, Бухути Иванович",
+  "file": "Gurgenidze_1995_Bad_Liebenzell.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "bobotsov": {
+  "article": "Бобоцов, Милко",
+  "file": "Milko_Bobotsov_1966.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "pilnik": {
+  "article": "Пильник, Герман",
+  "file": "Herman_Pilnik_1963.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "nijboer": {
+  "article": "Нейбур, Фрисо",
+  "file": "Nijboer_Friso_Barcelona_2010.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "bolbochan": {
+  "article": "Болбочан, Хулио",
+  "file": "Panno_Bolbochan.JPG",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "sznapik": {
+  "article": "Шнапик, Александр",
+  "file": "Aleksander_Sznapik_2009.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "skembris": {
+  "article": "Скембрис, Спиридон",
+  "file": "Spyridon_Skembris.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "mikhalchishin": {
+  "article": "Михальчишин, Адриан Богданович",
+  "file": "Adrian_Mikhalchishin_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "schmittdiel": {
+  "article": "Шмиттдиль, Экхард",
+  "file": "EckhardSchmittdiel11a.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "hernandezguerrero": {
+  "article": "",
+  "file": "HernandezGuerrero Gilberto.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "arakhamiagrant": {
+  "article": "Арахамия-Грант, Кетеван Ревазовна",
+  "file": "KetevanArakhamiaGrant23.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "levenfish": {
+  "article": "Левенфиш, Григорий Яковлевич",
+  "file": "Botwinnik-Levenfish 1937.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "gunina": {
+  "article": "Гунина, Валентина Евгеньевна",
+  "file": "ValentinaGunina23a.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "radulov": {
+  "article": "Радулов, Иван",
+  "file": "IBM-schaaktoernooi,_afgebroken_partij_Spasski_(links)_tegen_Radulov,_Bestanddeelnr_926-5732.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "vanriemsdijk": {
+  "article": "Ван Римсдейк, Херман Клаудиус",
+  "file": "Van_Riemsdijk,Herman_2016_Marienbad.jpeg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "kozlovskaya": {
+  "article": "Козловская, Валентина Яковлевна",
+  "file": "Hoogovenschaaktoernooi,_de_dames_van_start,_mejuffrouw_Kozlowskaja_uit_Rusland,_Bestanddeelnr_920-9882.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "kushnir": {
+  "article": "Кушнир, Алла Шулимовна",
+  "file": "Alla_Kushnir1973.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "izoria": {
+  "article": "Изория, Звиад",
+  "file": "Izoria_zviad_20081120_olympiade_dresden.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "bukavshin": {
+  "article": "Букавшин, Иван Александрович",
+  "file": "Ivan_Bukavshin_2011.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "pashikian": {
+  "article": "Пашикян, Арман Владимирович",
+  "file": "Arman_Pashikian_ARM_Ch_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "iordachescu": {
+  "article": "Иордэкеску, Виорел Ильич",
+  "file": "Iordachescu_Viorel.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "bokbenjamin": {
+  "article": "",
+  "file": "Bok,Benjamin 2012 Deizisau.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "tersahakyan": {
+  "article": "Тер-Саакян, Самвел Рубенович",
+  "file": "Samvel_Ter-Sahakyan_(cropped).jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "lushanglei": {
+  "article": "Лу Шанлэй",
+  "file": "LuShanglei17.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "zhao": {
+  "article": "Чжао Цзюнь",
+  "file": "Zhao_Jun.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "lami": {
+  "article": "",
+  "file": "Lami erwin 20081119 olympiade dresden.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "adly": {
+  "article": "Адли, Ахмед",
+  "file": "Ahmed_Adly.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "vuckovic": {
+  "article": "",
+  "file": "Vuckovic bojan 20081120 olympiade dresden.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "galkin": {
+  "article": "Галкин, Александр Александрович (шахматист)",
+  "file": "AlexanderGalkin.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "atalik": {
+  "article": "Аталык, Екатерина Львовна",
+  "file": "Atalik_Ekaterina.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "drozdovskij": {
+  "article": "Дроздовский, Юрий Анатольевич",
+  "file": "Drozdovskij_Yuri.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "bosiocic": {
+  "article": "Босиочич, Марин",
+  "file": "Bosiocic,Marin_2016_Karlsruhe.jpeg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "aryan": {
+  "article": "Чопра, Арьян",
+  "file": "Aryan_Chopra_2025_French_League_(cropped).jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "agrest": {
+  "article": "Агрест, Евгений Романович",
+  "file": "Agrest_jewgenij_20081119_olympiade_dresden.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "burmakin": {
+  "article": "Бурмакин, Владимир Анатольевич",
+  "file": "Vladimir_Burmakin_2010-03-09.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "goldin": {
+  "article": "Гольдин, Александр Владиленович",
+  "file": "Goldin2.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "baijinshi": {
+  "article": "Бай Цзиньши",
+  "file": "Bai Jinshi WTRBCC2026 R11.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "kritz": {
+  "article": "Криц, Леонид",
+  "file": "Kritz_leonid_20070616_juedischesmuseum.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "malaniuk": {
+  "article": "Маланюк, Владимир Павлович",
+  "file": "Malaniuk_Vladimir.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "flores": {
+  "article": "Флорес, Диего (шахматист)",
+  "file": "Flores_diego_20081119_olympiade_dresden.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "vajda": {
+  "article": "Вайда, Левенте",
+  "file": "Vajda_levente_20081119_olympiade_dresden.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "saxgyula": {
+  "article": "",
+  "file": "Sax Gyula (1981).jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "chandler": {
+  "article": "Чандлер, Марри",
+  "file": "Chandler_murray_20081120_olympiade_dresden.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "ciocaltea": {
+  "article": "",
+  "file": "Victor Ciocaltea (Schacholympiade Luzern 1982).jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "juwenjun": {
+  "article": "Цзюй Вэньцзюнь",
+  "file": "Ju_Wenjun_in_2024_(cropped).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "bjerre": {
+  "article": "Бьерре, Йонас Буль",
+  "file": "JonasBjerre2019.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "wenyang": {
+  "article": "Вэнь Ян",
+  "file": "Wen_Yang.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "delgadoramirez": {
+  "article": "Дельгадо Рамирес, Неурис",
+  "file": "Neuris_Delgado.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "hera": {
+  "article": "",
+  "file": "Hera Imre jr.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "malakhatko": {
+  "article": "Малахатько, Вадим Владимирович",
+  "file": "Vadim_Malakhatko_2009_(cropped).jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "novikov": {
+  "article": "Новиков, Игорь Александрович (шахматист)",
+  "file": "Igor_Novikov.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "koneru": {
+  "article": "Конеру, Хампи",
+  "file": "HumpyKoneru.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "david": {
+  "article": "Давид, Альберто",
+  "file": "David_rd6_4thEUIO.JPG",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "prohaszka": {
+  "article": "",
+  "file": "Peter Prohaszka.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "pantsulaia": {
+  "article": "Панцулая, Леван",
+  "file": "Levan_Pantsulaia.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "rakhmanov": {
+  "article": "",
+  "file": "Rakhmanov Aleksandr.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "bondarevsky": {
+  "article": "Бондаревский, Игорь Захарович",
+  "file": "Igor_Bondarevsky_Prijsuitreiking_schaakolympiade_Amsterdam,_Bestanddeelnr_906-7460.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "maric": {
+  "article": "",
+  "file": "Alisa Maric 1988 Thessaloniki.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "bernstein": {
+  "article": "Бернштейн, Осип Самойлович",
+  "file": "Ossip_Bernstein_(1961).jpg",
+  "licence": "CC BY-SA 3.0 nl",
+  "checked": true
+ },
+ "sosonko": {
+  "article": "Сосонко, Геннадий Борисович",
+  "file": "Sosonko.jpg",
+  "licence": "CC BY-SA 2.5",
+  "checked": true
+ },
+ "liberzon": {
+  "article": "Либерзон, Владимир Михайлович",
+  "file": "Vladimir_Liberzon_1977.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "lazarevic": {
+  "article": "Лазаревич, Милунка",
+  "file": "Milunka_Lazarevic_1982_Luzern.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "lengyel": {
+  "article": "Лендьел, Левенте",
+  "file": "Levente_Lengyel.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "cohn": {
+  "article": "Кон, Эрих",
+  "file": "Cohn_Erich.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "levitina": {
+  "article": "Левитина, Ирина Соломоновна",
+  "file": "Irina_Levitina_Saloniki_1984.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "kostic": {
+  "article": "Костич, Бора",
+  "file": "Boris_Kostić_2020_stamp_of_Serbia.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "okellydegalway": {
+  "article": "О’Келли, Альберик",
+  "file": "Albéric_O'Kelly_de_Galway_1961b.jpg",
+  "licence": "CC BY-SA 3.0 nl",
+  "checked": true
+ },
+ "lein": {
+  "article": "Лейн, Анатолий Яковлевич",
+  "file": "Lein,Anatoly - Lieb,Harald 1998 Grieskirchen.jpeg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "adianto": {
+  "article": "Адианто, Утут",
+  "file": "Utut_Adianto_Wahyuwidayat.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "agdestein": {
+  "article": "Агдестейн, Симен",
+  "file": "Simen_Agdestein_NM_Bergen_2009.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "alterman": {
+  "article": "Альтерман, Борис Валерьевич",
+  "file": "Alterman,Boris_1998_Recklinghausen.jpeg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "andriasian": {
+  "article": "Андриасян, Завен Робертович",
+  "file": "Zaven_Andriasian_2012.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "antipov": {
+  "article": "",
+  "file": "Mikhail Antipov 2012.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "bagirov": {
+  "article": "Багиров, Владимир Константинович",
+  "file": "Vladimir_Bagirov_(1965).jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "balogh": {
+  "article": "Балог, Чаба",
+  "file": "Balogh_Csaba_(Stekovics).jpg",
+  "licence": "CC BY 4.0",
+  "checked": true
+ },
+ "baramidze": {
+  "article": "Барамидзе, Давид",
+  "file": "David_Baramidze_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "bellonlopez": {
+  "article": "",
+  "file": "Juan Manuel Bellon López, schackspelare 2.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "benjamin": {
+  "article": "Бенджамин, Джоэль",
+  "file": "Benjamin_Joel.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "bernadskiy": {
+  "article": "Бернадский, Виталий Олегович",
+  "file": "2022-Vitaliy-Bernadskiy.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "bindrich": {
+  "article": "Биндрих, Фалько",
+  "file": "Bindrich,Falko_2016_Karlsruhe.jpeg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "bogner": {
+  "article": "Богнер, Себастьян",
+  "file": "SebastianBogner13.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "braun": {
+  "article": "",
+  "file": "Braun,Vitali 2012 Halle.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "brkic": {
+  "article": "",
+  "file": "Ante Brkic.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "buxiangzhi": {
+  "article": "",
+  "file": "Bu Xiangzhi Mtel Masters.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "chiburdanidze": {
+  "article": "Чибурданидзе, Майя Григорьевна",
+  "file": "Chiburdanidze Maia.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "chigaev": {
+  "article": "Чигаев, Максим Константинович",
+  "file": "MaximChigaev24a.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "cordova": {
+  "article": "",
+  "file": "Emilio Cordova (29317402512).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "corralesjimenez": {
+  "article": "Корралес Хименес, Фидель",
+  "file": "Fidel_Corrales_Jimenez.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "csom": {
+  "article": "Чом, Иштван",
+  "file": "Istvan_Csom_1974.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "damljanovic": {
+  "article": "Дамлянович, Бранко",
+  "file": "Branko_Damljanović_2011_(cropped).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "dardha": {
+  "article": "Дарда, Даниэль",
+  "file": "DanielDardha23a.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "demchenko": {
+  "article": "Демченко, Антон Александрович",
+  "file": "Anton_Demchenko_2024_09_20_45_Chess_Olympiad_Budapest_photo_by_Luka_Rifelj_(97_of_155)_(cropped).jpg",
+  "licence": "CC BY 4.0",
+  "checked": true
+ },
+ "dragun": {
+  "article": "Драгун, Камиль",
+  "file": "2019-Kamil-Dragun.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "dvoirys": {
+  "article": "Двойрис, Семён Исаакович",
+  "file": "DVOIRYS_Semen_(cropped).jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "epishin": {
+  "article": "Епишин, Владимир Викторович",
+  "file": "Epishin_Vladimir.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "evans": {
+  "article": "Эванс, Ларри",
+  "file": "Larry_Evans_(1964).jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "felgaer": {
+  "article": "Фельгаер, Рубен",
+  "file": "Ruben_Felgaer_2013.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "feller": {
+  "article": "Феллер, Себастьян",
+  "file": "Sebastien_Feller.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "gagunashvili": {
+  "article": "Гагунашвили, Мераб",
+  "file": "Merab_Gagunashvili_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "gareyev": {
+  "article": "Гареев, Тимур Фаридович",
+  "file": "TimurGareyev_(cropped).jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "ghaemmaghami": {
+  "article": "Гаем Магами, Эхсан",
+  "file": "Ehsan Ghaem-Maghami at the Khazar Cup 2016.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "gharamian": {
+  "article": "Гарамян, Тигран Александрович",
+  "file": "Gharamian,Tigran_2016_Baden-Baden.jpeg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "giorgadze": {
+  "article": "Георгадзе, Георгий Гелаевич",
+  "file": "Giorgi_Giorgadze_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "gledura": {
+  "article": "Гледура, Беньямин",
+  "file": "BenjaminGledura23.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "glek": {
+  "article": "Глек, Игорь Владимирович",
+  "file": "Igor_Glek.JPG",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "goganov": {
+  "article": "Гоганов, Алексей Константинович",
+  "file": "Aleksey_Goganov_2019_Karlsruhe_(cropped).JPEG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "gordievsky": {
+  "article": "Гордиевский, Дмитрий Сергеевич",
+  "file": "Gordievsky,Dmitry 2018 Karlsruhe.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "gozzoli": {
+  "article": "Yannick Gozzoli",
+  "file": "Yannick_Gozzoli_2014.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "greenfeld": {
+  "article": "Гринфельд, Алон",
+  "file": "Greenfeld,Alon_2011_Deizisau.JPG",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "grigoryan": {
+  "article": "Григорян, Карен Акопович",
+  "file": "Karen_Grigoryan_2012.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "guimard": {
+  "article": "Гимар, Карлос",
+  "file": "Carlos_Guimard_(1961).jpg",
+  "licence": "CC BY-SA 3.0 nl",
+  "checked": true
+ },
+ "gupta": {
+  "article": "Гупта, Абхиджит",
+  "file": "Abhijeet Gupta.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "gustafsson": {
+  "article": "Густафссон, Ян",
+  "file": "Gustafsson,Jan_2011_Sontheim.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "gyimesi": {
+  "article": "Дьимеши, Золтан",
+  "file": "Zoltan_Gyimesi.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "hakobyan": {
+  "article": "Акопян, Арам Ашотович",
+  "file": "20260215_3rd_Al-Beruniy_Tashkent_2026_Hakobyan_Aram.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "hecht": {
+  "article": "Хехт, Ханс",
+  "file": "Hecht,Hans-Joachim_1980_Malta.JPG",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "heimann": {
+  "article": "Хайманн, Андреас",
+  "file": "Andreas_Heimann_2012.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "henriquezvillagra": {
+  "article": "",
+  "file": "CristobalHenriquezVillagra23.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "hertneck": {
+  "article": "Хертнек, Геральд",
+  "file": "GM_Gerald_Hertneck_4397.jpg",
+  "licence": "CC BY-SA 3.0 at",
+  "checked": true
+ },
+ "hess": {
+  "article": "Хесс, Роберт (шахматист)",
+  "file": "Robert_hess_commentary.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "hickl": {
+  "article": "Хикль, Йёрг",
+  "file": "Jörg_Hickl_2005_Porz.JPG",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "hodgson": {
+  "article": "Атака Левитского",
+  "file": "Julian_Hodgson_2001_Solingen.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "houyifan": {
+  "article": "Хоу Ифань",
+  "file": "Hou_Yifan_(29762728494)_(cropped).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "huschenbeth": {
+  "article": "Хушенбет, Никлас",
+  "file": "2021-Niclas-Huschenbeth.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "idani": {
+  "article": "Pouya Idani",
+  "file": "Iranian Chess GM Pouya Idani.jpg",
+  "licence": "CC BY 4.0",
+  "checked": true
+ },
+ "indjic": {
+  "article": "",
+  "file": "Aleksandar Indjic 2012.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "ioseliani": {
+  "article": "Иоселиани, Нана Михайловна",
+  "file": "Ioseliani,Nana_1980_Malta.JPG",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "istratescu": {
+  "article": "",
+  "file": "Andrei Istratescu.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "kaminski": {
+  "article": "",
+  "file": "Marcin Kaminski 2009.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "karthikeyan": {
+  "article": "Мурали Картикеян",
+  "file": "MuraliKarthikeyan23.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "khenkin": {
+  "article": "Хенкин, Игорь Борисович",
+  "file": "Igor_Khenkin.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "klovans": {
+  "article": "",
+  "file": "Klovans,Janis 1998 Grieskirchen.jpeg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "komarov": {
+  "article": "Dimitri Komarov",
+  "file": "Komarov_Dimitri_TDC_46.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "kotronias": {
+  "article": "Котрониас, Василиос",
+  "file": "Kotronias_GM.JPG",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "kovalenko": {
+  "article": "Коваленко, Игорь Викторович",
+  "file": "Igor_Kovalenko_2013.JPG",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "kovalyov": {
+  "article": "Ковалёв, Антон (шахматист)",
+  "file": "Kovalyov_2009-12.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "kravtsiv": {
+  "article": "Кравцив, Мартын Романович",
+  "file": "Martyn_Kravtsiv.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "kurajica": {
+  "article": "Кураица, Боян",
+  "file": "BojanKurajica.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "lagarde": {
+  "article": "Лагард, Максим",
+  "file": "2021-Maxime-Lagarde.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "lenderman": {
+  "article": "Лендерман, Александр",
+  "file": "Lenderman_Aleksandr.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "lenic": {
+  "article": "",
+  "file": "Luka Lenic.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "liang": {
+  "article": "Лян, Эвондер",
+  "file": "Awonder_Liang.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "martirosyan": {
+  "article": "Мартиросян, Айк Микаелович",
+  "file": "HaikMartirosyan23.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "mason": {
+  "article": "Мэзон, Джеймс",
+  "file": "James Mason (Schach).JPG",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "mastrovasilis": {
+  "article": "Мастровасилис, Димитриос",
+  "file": "2021-Dimitrios-Mastrovasilis.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "milos": {
+  "article": "Милош, Жилберто",
+  "file": "Gilberto_Milos.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "minasian": {
+  "article": "Минасян, Арташес Навасардович",
+  "file": "GM_Artashes_Minasian.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "mista": {
+  "article": "",
+  "file": "Mista Aleksander.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "moranda": {
+  "article": "Моранда, Войцех",
+  "file": "2022-Wojciech-Moranda.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "morovicfernandez": {
+  "article": "Морович, Иван",
+  "file": "Ivan_Morovic_1980_Dortmund.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "narayanan": {
+  "article": "Нараянан, Сунилдут Лина",
+  "file": "SLNarayanan23.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "naroditsky": {
+  "article": "Народицкий, Дэниэл",
+  "file": "DanielNaroditsky16_(cropped).jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "negi": {
+  "article": "Неги, Паримарджан",
+  "file": "Parimarjan-Negi.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "neiksans": {
+  "article": "",
+  "file": "Arturs Neiksans 2012.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "nyzhnyk": {
+  "article": "Нижник, Илья Игоревич",
+  "file": "INyzhnyk12.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "oleksienko": {
+  "article": "Олексиенко, Михаил Владимирович",
+  "file": "Oleksienko_M.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "oparin": {
+  "article": "Опарин, Григорий Алексеевич",
+  "file": "Grigoriy_Oparin_Satka_2018.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "ortizsuarez": {
+  "article": "Ортис Суарес, Исан Рейнальдо",
+  "file": "OrtizSuarez_IsanReynaldo.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "paravyan": {
+  "article": "Паравян, Давид Артурович",
+  "file": "David_Paravyan.png",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "pechac": {
+  "article": "",
+  "file": "2022-Jergus-Pechac.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "pelletier": {
+  "article": "Пеллетье, Янник",
+  "file": "Yannick_Pelletier_2013.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "perlis": {
+  "article": "Перлис, Юлиус",
+  "file": "Julius_Perlis.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "petrosyan": {
+  "article": "Петросян, Мануэль Суренович",
+  "file": "ManuelPetrosyan23.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "pichot": {
+  "article": "Пичот, Алан",
+  "file": "AlanPichot23.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "piorun": {
+  "article": "Пёрун, Кацпер",
+  "file": "2021-Kacper-Piorun.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "pirc": {
+  "article": "Пирц, Вася",
+  "file": "Vasja_Pirc.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "ponkratov": {
+  "article": "Понкратов, Павел Андреевич",
+  "file": "Pavel_Ponkratov_Rilton_Cup_2009.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "predke": {
+  "article": "Предке, Александр Александрович",
+  "file": "AlexandrPredke23.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "prins": {
+  "article": "Принс, Лодевейк",
+  "file": "Lodewijk_Prins_1965.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "reinderman": {
+  "article": "Рейндерман, Димитри",
+  "file": "DimitriReinderman12.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "rozentalis": {
+  "article": "Розенталис, Эдуардас",
+  "file": "Rozentalis_Eduardas.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "rubinetti": {
+  "article": "Рубинетти, Хорхе",
+  "file": "Jorge_Rubinetti_(Schacholympiade_Luzern_1982).jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "rustemov": {
+  "article": "Рустемов, Александр Кожанович",
+  "file": "AlexanderRustemov13.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "safarli": {
+  "article": "Сафарли, Эльтадж",
+  "file": "Eltaj_Safarli_2018.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "salwe": {
+  "article": "Сальве, Георг Хенрик",
+  "file": "Gersz_Salwe.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "sandipan": {
+  "article": "Сандипан, Чанда",
+  "file": "Sandipan,Chanda_2016_Karlsruhe.jpeg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "sargsyan": {
+  "article": "Саргсян, Шант Мурадович",
+  "file": "ShantSargsyan23.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "schmid": {
+  "article": "Шмид, Лотар",
+  "file": "Portrait_Lothar_Schmid.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "sethuraman": {
+  "article": "Панаяппан Сетхураман",
+  "file": "Sethuraman_Panayappan_Sethuraman_3rd_Uzchess_cup_(cropped).jpg",
+  "licence": "CC BY 4.0",
+  "checked": true
+ },
+ "sevian": {
+  "article": "Севян, Самуэль",
+  "file": "Sam_Sevian_2016.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "shevchenko": {
+  "article": "Шевченко, Кирилл Сергеевич",
+  "file": "2022-Kirill-Shevchenko.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "sindarov": {
+  "article": "Синдаров, Жавохир Санжарбекович",
+  "file": "Javokhir_Sindarov_(cropped).jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "smagin": {
+  "article": "Смагин, Сергей Борисович",
+  "file": "SergeySmagin.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "smirin": {
+  "article": "Смирин, Илья Юльевич",
+  "file": "Smirin_Ilia.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "svetushkin": {
+  "article": "Светушкин, Дмитрий Сергеевич",
+  "file": "Dmitry_Svetushkin_2011.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "tomczak": {
+  "article": "Томчак, Яцек",
+  "file": "2022-Jacek-Tomczak.JPG",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "vandersterren": {
+  "article": "Ван дер Стеррен, Паул",
+  "file": "Nederlandse_kampioenschappen_Schaken_in_Amsterdam._P._van_der_Sterren_in_aktie,_Bestanddeelnr_932-0422.jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "vidit": {
+  "article": "Гуджрати, Видит Сантош",
+  "file": "Vidit_Gujrathi_Uzchess_cup_3_(cropped).jpg",
+  "licence": "CC0",
+  "checked": true
+ },
+ "volokitin": {
+  "article": "Волокитин, Андрей Александрович",
+  "file": "Volokitin_Andrei_(29957897030)_(cropped).jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "vovk": {
+  "article": "Вовк, Юрий Богданович",
+  "file": "Vovk_Yuri.JPG",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "warmerdam": {
+  "article": "Вармердам, Макс",
+  "file": "Max_Warmerdam_in_2025.jpg",
+  "licence": "CC BY-SA 2.0",
+  "checked": true
+ },
+ "yakubboev": {
+  "article": "Якуббоев, Нодирбек",
+  "file": "Nodirbek_Yakubbaev.jpg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "zhou": {
+  "article": "Чжоу Цзяньчао",
+  "file": "Zhou_Jianchao1.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "alexandria": {
+  "article": "Александрия, Нана Георгиевна",
+  "file": "Nana_Alexandria_1970.jpg",
+  "licence": "CC BY-SA 3.0 nl",
+  "checked": true
+ },
+ "pinter": {
+  "article": "",
+  "file": "Joszef-Pinter.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "barcza": {
+  "article": "Барца, Гедеон",
+  "file": "Barcza_1961_Oberhausen.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "krogius": {
+  "article": "Крогиус, Николай Владимирович",
+  "file": "Krogius_1995_Bad_Liebenzell.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "darga": {
+  "article": "Дарга, Клаус",
+  "file": "Klaus_Darga_1963.jpg",
+  "licence": "CC BY-SA 3.0 nl",
+  "checked": true
+ },
+ "bisguier": {
+  "article": "Бисгайер, Артур",
+  "file": "Arthur_Bisguier_2009.jpg",
+  "licence": "CC BY 2.0",
+  "checked": true
+ },
+ "alapin": {
+  "article": "Алапин, Семён Зиновьевич",
+  "file": "Alapin.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "shamkovich": {
+  "article": "Шамкович, Леонид Александрович",
+  "file": "Leonid_Shamkovich_1980_Malta.jpg",
+  "licence": "CC BY 3.0",
+  "checked": true
+ },
+ "jansa": {
+  "article": "Янса, Властимил",
+  "file": "Vlastimil_Jansa.jpg",
+  "licence": "CC BY-SA 3.0",
+  "checked": true
+ },
+ "arencibiarodriguez": {
+  "article": "Аренсибия, Вальтер",
+  "file": "Arencibia,Walter_1998_Recklinghausen.jpeg",
+  "licence": "CC BY-SA 4.0",
+  "checked": true
+ },
+ "showalter": {
+  "article": "Шовальтер, Джексон Уиппс",
+  "file": "Jackson_Whipps_Showalter.jpg",
+  "licence": "Public domain",
+  "checked": true
+ },
+ "velimirovic": {
+  "article": "Велимирович, Драголюб",
+  "file": "Dragoljub_Velimirović_1966.jpg",
+  "licence": "CC BY-SA 3.0 nl",
+  "checked": true
+ }
+}

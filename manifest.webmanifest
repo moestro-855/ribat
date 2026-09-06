@@ -1,0 +1,32 @@
+{
+  "name": "Рибат — шахматный инструмент тренера",
+  "short_name": "Рибат",
+  "description": "Шахматный инструмент тренера: задачи по темам и сложности, разборы партий, наборы и домашние задания",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070b17",
+  "theme_color": "#070b17",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
