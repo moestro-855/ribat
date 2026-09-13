@@ -1,53 +1,45 @@
-/**
- * Офлайн через runtime-кеш: после первого открытия приложение работает без сети —
- * это важно в зале и в школе, где интернет ловит через раз.
- */
-const CACHE = 'trainer-v1'
+/* Cache only this application's scope; never remove another site's data. */
+const SCOPE = new URL('./', self.location.href).href
+const PREFIX = 'ribat:' + SCOPE + ':'
+const CACHE = PREFIX + '2026-09-09'
+const INDEX = new URL('index.html', SCOPE).href
 
 self.addEventListener('install', (event) => {
-  self.skipWaiting()
-  event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(['./', './index.html'])).catch(() => {}))
+  // Wait until existing clients close: no mixed bundle versions.
+  event.waitUntil(caches.open(CACHE).then(cache => cache.add(INDEX)))
 })
 
 self.addEventListener('activate', (event) => {
-  event.waitUntil(
-    caches
-      .keys()
-      .then((keys) => Promise.all(keys.filter((key) => key !== CACHE).map((key) => caches.delete(key))))
-      .then(() => self.clients.claim()),
-  )
+  event.waitUntil(caches.keys()
+    .then(keys => Promise.all(keys.filter(key => key.startsWith(PREFIX) && key !== CACHE).map(key => caches.delete(key))))
+    .then(() => self.clients.claim()))
 })
 
 self.addEventListener('fetch', (event) => {
   const { request } = event
-  if (request.method !== 'GET' || new URL(request.url).origin !== self.location.origin) return
-
-  // Навигация: сначала сеть, чтобы обновления приезжали сразу, кеш — как запасной вариант.
-  if (request.mode === 'navigate') {
-    event.respondWith(
-      fetch(request)
-        .then((response) => {
-          const copy = response.clone()
-          caches.open(CACHE).then((cache) => cache.put('./index.html', copy))
-          return response
-        })
-        .catch(() => caches.match('./index.html').then((cached) => cached ?? Response.error())),
-    )
-    return
-  }
-
-  event.respondWith(
-    caches.match(request).then((cached) => {
-      const network = fetch(request)
-        .then((response) => {
-          if (response.ok) {
-            const copy = response.clone()
-            caches.open(CACHE).then((cache) => cache.put(request, copy))
-          }
-          return response
-        })
-        .catch(() => cached ?? Response.error())
-      return cached ?? network
-    }),
-  )
+  if (request.method !== 'GET' || !request.url.startsWith(SCOPE)) return
+  const navigation = request.mode === 'navigate'
+  const key = navigation ? INDEX : request
+  const task = (async () => {
+    const cache = await caches.open(CACHE)
+    const cached = await cache.match(key)
+    const network = fetch(request).then(async response => {
+      if (response.ok) {
+        try { await cache.put(key, response.clone()) } catch { /* Storage full: keep online response. */ }
+      }
+      return response.ok ? response : cached ?? response
+    }).catch(() => cached ?? Response.error())
+    // Data changes without hashed filenames: prefer fresh JSON. Artwork and
+    // bundles can render immediately while refreshing in the background.
+    const fresh = navigation || /\.json(?:\.gz)?$/.test(new URL(request.url).pathname)
+    if (cached && !fresh) return { response: cached, network }
+    if (!cached) return { response: await network, network }
+    let timer
+    const fallback = new Promise(resolve => { timer = setTimeout(() => resolve(cached), 4000) })
+    const response = await Promise.race([network, fallback])
+    clearTimeout(timer)
+    return { response, network }
+  })()
+  event.respondWith(task.then(result => result.response))
+  event.waitUntil(task.then(result => result.network).then(() => undefined))
 })
