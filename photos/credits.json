@@ -530,7 +530,10 @@
   "licence": "Public domain",
   "checked": true,
   "localFile": "alekhine.webp",
-  "sha256": "6553ce7f3d939d57f02f3526c9f294d385c2cbbdbfde5674c0d6a8e57ae9c227"
+  "sha256": "005e4fe2abfd8cee2dc050d016b1f7fdebb0642b0ef4cd9ca7bd18df480226d4",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexandre_Alekhine_Color.jpg",
+  "author": "George Grantham Bain Collection; colourisation JesusAngelRey",
+  "description": "Alexander Alekhine; source portrait verified visually 2026-10-03"
  },
  "almasi": {
   "article": "",
