@@ -1,0 +1,8 @@
+Stockfish.js 19.0.0 (Stockfish 19 Lite, single-threaded WebAssembly)
+Author: Nathan Rugg and the Stockfish contributors
+License: GPL-3.0; included in Copying.txt
+Exact package: https://registry.npmjs.org/stockfish/-/stockfish-19.0.0.tgz
+Corresponding source and build instructions: https://github.com/nmrugg/stockfish.js/tree/v19.0.0
+Upstream: https://github.com/official-stockfish/Stockfish/tree/sf_19
+JS SHA256: d3344124ab067fb0b90ee77873bb8e9fbf5fc01bc525fe714b0f942581e889e6
+WASM SHA256: 57ac2d72312aba346760e3f173f687a8c211208e97a87268436f7f0e10bb5387

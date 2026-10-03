@@ -97,6 +97,21 @@
   document.addEventListener('visibilitychange', wake)
   window.addEventListener('pageshow', wake)
   window.addEventListener('focus', wake)
+  // A new-window link is not reliable inside a Telegram WebView.
+  document.addEventListener('click', function (event) {
+    var anchor = event.target && event.target.closest && event.target.closest('a[href]')
+    if (!anchor || !bridge.openTelegramLink) return
+    if (!/^https:\/\/t\.me\//.test(anchor.href)) return
+    try { bridge.openTelegramLink(anchor.href); event.preventDefault() } catch { /* ordinary link remains available */ }
+  })
+  // Telegram activation is independent of browser visibility on some clients.
+  safely(function () {
+    bridge.onEvent('deactivated', function () { window.dispatchEvent(new Event('ribat:deactivated')) })
+    bridge.onEvent('activated', function () {
+      wake()
+      window.dispatchEvent(new Event('ribat:activated'))
+    })
+  })
   safely(function () {
     if (bridge.onEvent) {
       bridge.onEvent('viewportChanged', function () {
