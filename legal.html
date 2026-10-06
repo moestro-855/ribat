@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="ru"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Фикр — правовая информация</title>
+<style>body{margin:0;background:#22221f;color:#eeece4;font:16px/1.7 system-ui,sans-serif}main{max-width:780px;margin:auto;padding:32px 20px}a{color:#e6c797}h1{font-size:28px}article{padding:16px 0;border-bottom:1px solid #444}small{display:block}a{overflow-wrap:anywhere}</style>
+<main><h1>Правовая информация</h1><p>Фигуры — проект lichess (cburnett, merida, alpha и другие), лицензии GPL, CC BY-SA и CC BY-NC-SA. Авторство и условия каждого набора сохранены в описаниях приложения. <a href="https://github.com/lichess-org/lila/tree/master/public/piece">Исходные наборы</a></p><p>Движок — Stockfish 19 Lite, GPL. <a href="https://github.com/nmrugg/stockfish.js/tree/v19.0.0">Исходный код и лицензия движка</a></p><h2>Авторы фотографий</h2><p>Авторские права остаются у владельцев снимков. Условия и сведения об оригиналах приведены ниже и в <a href="photos/credits.json">файле атрибуции</a></p><div id="credits" aria-live="polite">Загрузка сведений…</div></main>
+<script type="module">
+const host=document.getElementById('credits');
+try{
+ const response=await fetch('photos/credits.json');if(!response.ok)throw new Error('load');
+ const unique=new Map();for(const row of Object.values(await response.json()))if(row&&row.file)unique.set(row.file,row);
+ host.replaceChildren();for(const row of unique.values()){
+  const article=document.createElement('article');const name=document.createElement('b');name.textContent=row.name||row.article||row.file;article.append(name);
+  if(row.author){const author=document.createElement('small');author.textContent='Автор: '+row.author;article.append(author)}
+  const source=document.createElement('a');const sourceUrl=row.sourceUrl||'https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(row.file);
+  if(/^https?:\/\//i.test(sourceUrl)){source.href=sourceUrl;source.textContent='Оригинал и сведения об авторстве';article.append(source)}
+  const licence=document.createElement('small');licence.textContent=row.licence||'Условия — на странице оригинала';article.append(licence);
+  if(row.licenseUrl&&/^https?:\/\//i.test(row.licenseUrl)){const link=document.createElement('a');link.href=row.licenseUrl;link.textContent='Условия лицензии';article.append(link)}
+  if(row.changes){const changes=document.createElement('small');changes.textContent=row.changes;article.append(changes)}
+  host.append(article);
+ }
+}catch{host.textContent='Сведения не загрузились. Откройте файл атрибуции по ссылке выше или повторите загрузку страницы.'}
+</script></html>
