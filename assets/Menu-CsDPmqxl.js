@@ -1,0 +1,1 @@
+import{i as e,o as t,r as n}from"./dialogFocus-5tq9Bo2k.js";import{t as r}from"./router-D2pAlKLU.js";import"./Sheet-C_F6tUz-.js";t();var i=e();function a({onBack:e,inline:t}){return(0,i.jsx)(`button`,{className:[`backbtn`,t&&`backbtn--inline`].filter(Boolean).join(` `),onClick:e??r,"aria-label":`Назад`,children:(0,i.jsx)(n,{name:`back`,size:20})})}export{a as t};
