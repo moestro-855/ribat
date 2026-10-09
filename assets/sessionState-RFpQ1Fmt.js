@@ -1,0 +1,1 @@
+import{f as e}from"./Sheet-Cl1dt-bh.js";var t=e();function n(e,n){let[r,i]=(0,t.useState)(()=>{try{let t=sessionStorage.getItem(e);return t?JSON.parse(t):n}catch{return n}});return[r,(0,t.useCallback)(t=>i(n=>{let r=typeof t==`function`?t(n):t;try{sessionStorage.setItem(e,JSON.stringify(r))}catch{}return r}),[e])]}export{n as t};
