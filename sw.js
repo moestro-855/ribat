@@ -1,7 +1,10 @@
 /* Cache only this application's scope; never remove another site's data. */
 const SCOPE = new URL('./', self.location.href).href
 const PREFIX = 'ribat:' + SCOPE + ':'
-const BUILD_VERSION="d816718ecfbcc9b5"; const BUILD_SHELL=["index.html","legal.html","theme.js","telegram.js","startup.js","manifest.webmanifest","favicon.svg","assets/Book-XEJJeIy-.js","assets/Clock-BaLevYsX.js","assets/CompactChoice-DdZURGKf.js","assets/Drill-CoOEWIai.js","assets/Duo-CnaVuAZM.js","assets/Editor-IrtgeAct.js","assets/GameSearch-efQ-RhVB.js","assets/Homework-PjasPQeC.js","assets/Lab-BAZ7F8W1.js","assets/Loading-7E3wtNwg.css","assets/Loading-CfH8r2hl.js","assets/Play-1-jkDjZJ.js","assets/PositionDatabase-gm-fi1HN.js","assets/Profile-CQv5iJcP.js","assets/Profile-PQU_8MAc.css","assets/Race-CjqSyHZw.js","assets/San-DKpCC7tB.js","assets/Sets-CoTYTqXN.js","assets/Sheet-BGfcqyqx.js","assets/Studies-BP3dPj9x.js","assets/Studies-INVfkwWp.css","assets/Team-Ddjwt8e_.js","assets/Tourney-C5DeO-5F.js","assets/annotationAlignment-sNV6MHcS.js","assets/archiveDiscovery-8WYdOmoi.js","assets/browser-DVTTPdyi.js","assets/clock-_antc8e_.js","assets/drills-WBcyW9oM.js","assets/index-BRlrn8Eh.css","assets/index-DEsXyYCu.js","assets/jsonDecode.worker-GvfOo3Q0.js","assets/literata-cyrillic-ext-wght-normal-CGKlZYBf.woff2","assets/literata-cyrillic-wght-normal-DLqwHbi6.woff2","assets/literata-greek-ext-wght-normal-e3e57Shi.woff2","assets/literata-greek-wght-normal-CO1l-giJ.woff2","assets/literata-latin-ext-wght-normal-BnEbWgdZ.woff2","assets/literata-latin-wght-normal-DLxlUchJ.woff2","assets/literata-vietnamese-wght-normal-LcSrhZ7T.woff2","assets/onest-cyrillic-wght-normal-DXI_y_WF.woff2","assets/onest-latin-ext-wght-normal-CnNj8hVb.woff2","assets/onest-latin-wght-normal-CUIqqgP9.woff2","assets/openLessonPosition-CKyiBWjH.js","assets/photos-BCs9kzGa.js","assets/reviewedCommentIndex-CY85Ckqo.json","assets/settings-Za8XBSw4.js","assets/sound-BsTfrQaQ.js","assets/squares-DWCXVeDr.js","assets/stockfish-4PzBybGH.js","assets/strength-D-zbeDK2.js","assets/taxonomy-BRZgduuU.js"];
+// Explicitly withdrawn generated-human covers: never revive them from older caches.
+const WITHDRAWN_COVERS = ["dubai-2021-duel-editorial-v5.webp","astana-2023-duel-editorial-v5.webp","singapore-2024-duel-editorial-v3.webp","london-2018-duel-editorial-v3.webp","new-york-2016-duel-editorial-v4.webp","sochi-2014-duel-editorial-v3.webp","chennai-2013-duel-editorial-v3.webp","moscow-2012-duel-editorial-v3.webp","london-classical-2000-duel-editorial-v3.webp","brissago-2004-duel-editorial-v3.webp","elista-2006-duel-editorial-v3.webp","bonn-2008-duel-editorial-v3.webp","sofia-2010-duel-editorial-v3.webp"]
+const withdrawnCover = url => new URL(url).pathname.startsWith(new URL('tourcovers/',SCOPE).pathname) && WITHDRAWN_COVERS.includes(new URL(url).pathname.split('/').pop())
+const BUILD_VERSION="53a0f206c6d452b9"; const BUILD_SHELL=["index.html","legal.html","theme.js","telegram.js","startup.js","manifest.webmanifest","favicon.svg","assets/Book-DmmsYwfZ.js","assets/Clock-BS8NsFTZ.js","assets/CompactChoice-DdZURGKf.js","assets/Drill-lDfCURQA.js","assets/Duo-CkmDSSI6.js","assets/Editor-Cy77spCI.js","assets/GameSearch-aeHV39xX.js","assets/Homework-Bdc2BhKJ.js","assets/Lab-Bw13KB_Q.js","assets/Loading-7E3wtNwg.css","assets/Loading-CfH8r2hl.js","assets/Play-KbZBHmVz.js","assets/PositionDatabase-7nD2C7tU.js","assets/Profile-PQU_8MAc.css","assets/Profile-kB9gxg2L.js","assets/Race-q6PnLrux.js","assets/San-DKpCC7tB.js","assets/Sets-DAv1gysI.js","assets/Sheet-BGfcqyqx.js","assets/Studies-DJsxT_o5.js","assets/Studies-INVfkwWp.css","assets/Team-Cpy9gPlz.js","assets/Tourney-BxM-5BOM.js","assets/annotationAlignment-sNV6MHcS.js","assets/archiveDiscovery-BxTOE_9C.js","assets/browser-DVTTPdyi.js","assets/clock-_antc8e_.js","assets/drills-WBcyW9oM.js","assets/index-B7ZgYJRC.js","assets/index-CIxv9poa.css","assets/jsonDecode.worker-GvfOo3Q0.js","assets/literata-cyrillic-ext-wght-normal-CGKlZYBf.woff2","assets/literata-cyrillic-wght-normal-DLqwHbi6.woff2","assets/literata-greek-ext-wght-normal-e3e57Shi.woff2","assets/literata-greek-wght-normal-CO1l-giJ.woff2","assets/literata-latin-ext-wght-normal-BnEbWgdZ.woff2","assets/literata-latin-wght-normal-DLxlUchJ.woff2","assets/literata-vietnamese-wght-normal-LcSrhZ7T.woff2","assets/onest-cyrillic-wght-normal-DXI_y_WF.woff2","assets/onest-latin-ext-wght-normal-CnNj8hVb.woff2","assets/onest-latin-wght-normal-CUIqqgP9.woff2","assets/openLessonPosition-CKyiBWjH.js","assets/photos-uovd71E4.js","assets/reviewedCommentIndex-CY85Ckqo.json","assets/settings-Za8XBSw4.js","assets/sound-BsTfrQaQ.js","assets/squares-DWCXVeDr.js","assets/stockfish-4PzBybGH.js","assets/strength-D-zbeDK2.js","assets/taxonomy-BRZgduuU.js"];
 const CACHE = PREFIX + (typeof BUILD_VERSION==='string' ? BUILD_VERSION : 'development')
 const INDEX = new URL('index.html', SCOPE).href
 const SHELL = (typeof BUILD_SHELL!=='undefined' ? BUILD_SHELL : ['index.html']).map(file=>new URL(file,SCOPE).href)
@@ -16,13 +19,21 @@ self.addEventListener('message',event=>{if(event.data?.type==='APPLY_UPDATE')sel
 self.addEventListener('activate', (event) => {
   event.waitUntil(caches.keys()
     // Keep two previous shells for other open tabs that still use old hashed chunks.
-    .then(keys => Promise.all(keys.filter(key => key.startsWith(PREFIX) && key !== CACHE).slice(0,-2).map(key => caches.delete(key))))
+    .then(async keys => {
+      const scoped=keys.filter(key=>key.startsWith(PREFIX))
+      await Promise.all(scoped.map(async key=>{
+        const cache=await caches.open(key)
+        await Promise.all(WITHDRAWN_COVERS.map(name=>cache.delete(new URL('tourcovers/'+name,SCOPE).href,{ignoreSearch:true})))
+      }))
+      await Promise.all(scoped.filter(key=>key!==CACHE).slice(0,-2).map(key=>caches.delete(key)))
+    })
     .then(() => self.clients.claim()))
 })
 
 self.addEventListener('fetch', (event) => {
   const { request } = event
   if (request.method !== 'GET' || !request.url.startsWith(SCOPE)) return
+  if(withdrawnCover(request.url)){event.respondWith(Promise.resolve(new Response('',{status:410,headers:{'Cache-Control':'no-store'}})));return}
   if(new URL(request.url).searchParams.has('ribat-recover')){event.respondWith(fetch(request));return}
   const navigation = request.mode === 'navigate'
   // Standalone documents are not SPA routes: preserve their own cached content.
