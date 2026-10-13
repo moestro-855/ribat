@@ -30,7 +30,7 @@
 
   safely(function () {
     bridge.ready()
-    bridge.expand()
+    if (bridge.isExpanded !== true) bridge.expand()
     // Свайп вниз внутри приложения закрывал окно на середине партии.
     if (bridge.disableVerticalSwipes) bridge.disableVerticalSwipes()
     if (bridge.setHeaderColor) bridge.setHeaderColor('#070b17')
@@ -82,28 +82,41 @@
   /*
    * Возвращение из сна.
    *
-   * После блокировки экрана приложение зависало: Телеграм сворачивает окно
-   * в половину высоты, размеры пересчитаны для старого окна, и доска
-   * оказывается за краем — со стороны это выглядит как «повисло». Просим
-   * окно обратно и заставляем разметку пересчитаться.
+   * Возвращение может сопровождаться несколькими событиями сразу. Нельзя
+   * безусловно просить нативное окно развернуться на каждом focus: ответ
+   * хоста сам может принести новый focus. Размеры восстанавливаем без
+   * повторного входа; уже развёрнутое окно вообще не трогаем.
    */
+  var waking=false, lastExpand=-Infinity
   function wake(activated) {
+    if (waking) return
     if (activated !== true && document.visibilityState !== 'visible') return
-    safely(function () {
-      bridge.expand()
-      if (bridge.disableVerticalSwipes) bridge.disableVerticalSwipes()
-    })
-    // Пересчёт размеров: без события многие блоки остаются с прежними.
-    window.dispatchEvent(new Event('resize'))
+    waking=true
+    try {
+      safely(function () {
+        var now=Date.now(), elapsed=now-lastExpand
+        if (bridge.isExpanded !== true && (elapsed>=1000 || elapsed<0)) {
+          // Record BEFORE crossing the native bridge, including synchronous
+          // or delayed focus feedback while isExpanded still reports false.
+          lastExpand=now
+          bridge.expand()
+        }
+      })
+      window.dispatchEvent(new Event('resize'))
+    } finally { waking=false }
   }
 
   // A real hide is stronger than SDK isActive: locking the phone does not
   // necessarily minimise the Mini App. Only a subsequent host activation may
   // temporarily override stale hidden visibility for newly opened resources.
   function sleep() { window.__ribatTelegramAwake=false }
-  document.addEventListener('visibilitychange', function () { sleep(); wake() })
-  document.addEventListener('freeze', sleep)
-  window.addEventListener('pagehide', sleep)
+  function suspendWindow() { sleep(); lastExpand=-Infinity }
+  document.addEventListener('visibilitychange', function () {
+    if (document.visibilityState === 'hidden') suspendWindow()
+    else { sleep(); wake() }
+  })
+  document.addEventListener('freeze', suspendWindow)
+  window.addEventListener('pagehide', suspendWindow)
   window.addEventListener('blur', sleep)
   window.addEventListener('pageshow', wake)
   window.addEventListener('focus', wake)
@@ -116,7 +129,7 @@
   })
   // Telegram activation is independent of browser visibility on some clients.
   safely(function () {
-    bridge.onEvent('deactivated', function () { sleep(); window.dispatchEvent(new Event('ribat:deactivated')) })
+    bridge.onEvent('deactivated', function () { suspendWindow(); window.dispatchEvent(new Event('ribat:deactivated')) })
     bridge.onEvent('activated', function () {
       window.__ribatTelegramAwake=true
       wake(true)
