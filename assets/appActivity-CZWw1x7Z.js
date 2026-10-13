@@ -1,0 +1,1 @@
+function e(){return typeof document>`u`||document.visibilityState!==`hidden`||typeof window<`u`&&window.__ribatTelegramAwake===!0}export{e as t};

@@ -97,7 +97,14 @@
     window.dispatchEvent(new Event('resize'))
   }
 
-  document.addEventListener('visibilitychange', wake)
+  // A real hide is stronger than SDK isActive: locking the phone does not
+  // necessarily minimise the Mini App. Only a subsequent host activation may
+  // temporarily override stale hidden visibility for newly opened resources.
+  function sleep() { window.__ribatTelegramAwake=false }
+  document.addEventListener('visibilitychange', function () { sleep(); wake() })
+  document.addEventListener('freeze', sleep)
+  window.addEventListener('pagehide', sleep)
+  window.addEventListener('blur', sleep)
   window.addEventListener('pageshow', wake)
   window.addEventListener('focus', wake)
   // A new-window link is not reliable inside a Telegram WebView.
@@ -109,8 +116,9 @@
   })
   // Telegram activation is independent of browser visibility on some clients.
   safely(function () {
-    bridge.onEvent('deactivated', function () { window.dispatchEvent(new Event('ribat:deactivated')) })
+    bridge.onEvent('deactivated', function () { sleep(); window.dispatchEvent(new Event('ribat:deactivated')) })
     bridge.onEvent('activated', function () {
+      window.__ribatTelegramAwake=true
       wake(true)
       window.dispatchEvent(new Event('ribat:activated'))
     })
