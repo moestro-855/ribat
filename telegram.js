@@ -12,8 +12,11 @@
  * делает.
  */
 ;(function () {
+  var initialized=false
+  function initialize() {
   var bridge = window.Telegram && window.Telegram.WebApp
-  if (!bridge) return
+  if (!bridge||initialized) return
+  initialized=true
 
   document.documentElement.classList.add('в-телеграме')
 
@@ -119,4 +122,9 @@
       })
     }
   })
+  window.dispatchEvent(new Event('ribat:bridge-ready'))
+  }
+  var sdk=document.getElementById('telegram-sdk')
+  if(sdk)sdk.addEventListener('load',initialize,{once:true})
+  initialize()
 })()

@@ -18,24 +18,29 @@
     <meta name="apple-mobile-web-app-title" content="Фикр" />
     <meta name="mobile-web-app-capable" content="yes" />
     <script src="./theme.js"></script>
+    <link rel="stylesheet" href="./boot.css" />
     <!-- Мостик Телеграма: есть только когда приложение открыто кнопкой бота. -->
-    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <script id="telegram-sdk" async src="https://telegram.org/js/telegram-web-app.js"></script>
     <script src="./telegram.js"></script>
-    <script type="module" crossorigin src="./assets/index-D-DEqKci.js"></script>
-    <link rel="modulepreload" crossorigin href="./assets/Sheet-BGfcqyqx.js">
-    <link rel="modulepreload" crossorigin href="./assets/squares-DWCXVeDr.js">
+    <script type="module" crossorigin src="./assets/index-CHyqk3D2.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/Sheet-BniO4WaU.js">
+    <link rel="modulepreload" crossorigin href="./assets/squares-DNuNqKpP.js">
     <link rel="modulepreload" crossorigin href="./assets/taxonomy-BRZgduuU.js">
-    <link rel="modulepreload" crossorigin href="./assets/Loading-DyUHVc7L.js">
-    <link rel="modulepreload" crossorigin href="./assets/CompactChoice-DdZURGKf.js">
-    <link rel="modulepreload" crossorigin href="./assets/settings-Za8XBSw4.js">
-    <link rel="modulepreload" crossorigin href="./assets/sound-BsTfrQaQ.js">
-    <link rel="modulepreload" crossorigin href="./assets/San-DKpCC7tB.js">
+    <link rel="modulepreload" crossorigin href="./assets/Loading-C-DJqRmH.js">
+    <link rel="modulepreload" crossorigin href="./assets/CompactChoice-elhijksu.js">
+    <link rel="modulepreload" crossorigin href="./assets/settings-BDDZ14tg.js">
+    <link rel="modulepreload" crossorigin href="./assets/sound-S3d-b2zd.js">
+    <link rel="modulepreload" crossorigin href="./assets/San-e-FUftit.js">
     <link rel="modulepreload" crossorigin href="./assets/stockfish-dJJH8898.js">
-    <link rel="stylesheet" crossorigin href="./assets/Loading-EFxhKAOd.css">
-    <link rel="stylesheet" crossorigin href="./assets/index-DbaTub_7.css">
+    <link rel="stylesheet" crossorigin href="./assets/Loading-B7ifAtHu.css">
+    <link rel="stylesheet" crossorigin href="./assets/index-CMCYWNyM.css">
   </head>
   <body>
     <div id="root"></div>
+    <div id="boot-splash" class="boot-splash" role="status" aria-live="polite">
+      <span class="boot-splash__art" aria-hidden="true"><span class="boot-splash__orbit"></span><span class="boot-splash__emblem"></span></span>
+      <span>Открываем Фикр</span>
+    </div>
     <script src="./startup.js"></script>
   </body>
 </html>

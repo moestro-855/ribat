@@ -2,6 +2,14 @@
 ;(function () {
   var key = 'ribat:entry-recovery'
   var waited = false
+  function dismissSplash() {
+    var splash=document.getElementById('boot-splash')
+    if(!splash)return
+    splash.setAttribute('aria-hidden','true')
+    splash.classList.add('boot-splash--closing')
+    splash.addEventListener('transitionend',function(){splash.remove()},{once:true})
+  }
+  document.addEventListener('ribat:mounted',dismissSplash,{once:true})
   function empty() { var root=document.getElementById('root');return root && !root.hasChildNodes() }
   async function recover() {
     if (!empty() || document.visibilityState === 'hidden') return
@@ -25,7 +33,7 @@
     panel.style.cssText='padding:24px;color:inherit;font:16px system-ui;text-align:center'
     text.textContent='Не удалось открыть приложение. Твои сохранения не удалены.'
     button.textContent='Повторить загрузку';button.onclick=function(){destination.searchParams.delete('ribat-entry-retry');location.replace(destination.href)}
-    panel.append(text,button);root.append(panel)
+    dismissSplash();panel.append(text,button);root.append(panel)
   }
   setTimeout(function(){waited=true;void recover()},12000)
   document.addEventListener('visibilitychange',function(){if(waited&&document.visibilityState==='visible')void recover()})

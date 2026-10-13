@@ -10,7 +10,7 @@ const WITHDRAWN_BOOK_PATHS = ['covers/ботвинник-таль-матч-на-
 WITHDRAWN_BOOK_PATHS.push('covers/book-c4c58b4fe8d7-thematic-v3.webp','covers/book-d772023a0fad-thematic-v3.webp')
 WITHDRAWN_BOOK_PATHS.push('covers/kotov-thinking-branches-book-v2.webp','covers/book-09febe79f8e3-thematic-v3.webp')
 const withdrawnBook = url => WITHDRAWN_BOOK_PATHS.some(path => new URL(url).pathname === new URL(path,SCOPE).pathname)
-const BUILD_VERSION="970b1c24162c4af6"; const BUILD_SHELL=["index.html","legal.html","theme.js","telegram.js","startup.js","manifest.webmanifest","favicon.svg","assets/Book-DFGjQ4mV.js","assets/Clock-BEXDfiPs.js","assets/CompactChoice-DdZURGKf.js","assets/Drill-CGNKe9iD.js","assets/Duo-CUiEWkqR.js","assets/Editor-otughB_p.js","assets/GameSearch-ADKZs2pE.js","assets/Homework-C9FkI7dL.js","assets/Lab-CLbRP7kT.js","assets/Loading-DyUHVc7L.js","assets/Loading-EFxhKAOd.css","assets/Play-Y6Pc_MOp.js","assets/PositionDatabase-BoO8eAsC.js","assets/Profile-BhS6s-Mh.js","assets/Profile-PQU_8MAc.css","assets/Race-BDJwMofI.js","assets/San-DKpCC7tB.js","assets/Sets-COx0Ur_U.js","assets/Sheet-BGfcqyqx.js","assets/Studies-DUJ88RSl.js","assets/Studies-INVfkwWp.css","assets/Team-DrqyCoqA.js","assets/Tourney-WnExvwQ4.js","assets/annotationAlignment-sNV6MHcS.js","assets/archiveDiscovery-1mrnTtdK.js","assets/browser-DVTTPdyi.js","assets/clock-_antc8e_.js","assets/drills-WBcyW9oM.js","assets/index-D-DEqKci.js","assets/index-DbaTub_7.css","assets/jsonDecode.worker-GvfOo3Q0.js","assets/literata-cyrillic-ext-wght-normal-CGKlZYBf.woff2","assets/literata-cyrillic-wght-normal-DLqwHbi6.woff2","assets/literata-greek-ext-wght-normal-e3e57Shi.woff2","assets/literata-greek-wght-normal-CO1l-giJ.woff2","assets/literata-latin-ext-wght-normal-BnEbWgdZ.woff2","assets/literata-latin-wght-normal-DLxlUchJ.woff2","assets/literata-vietnamese-wght-normal-LcSrhZ7T.woff2","assets/onest-cyrillic-wght-normal-DXI_y_WF.woff2","assets/onest-latin-ext-wght-normal-CnNj8hVb.woff2","assets/onest-latin-wght-normal-CUIqqgP9.woff2","assets/openLessonPosition-CKyiBWjH.js","assets/photos-ithMQdAL.js","assets/reviewedCommentIndex-qBf_BkPY.json","assets/settings-Za8XBSw4.js","assets/sound-BsTfrQaQ.js","assets/squares-DWCXVeDr.js","assets/stockfish-dJJH8898.js","assets/strength-D-zbeDK2.js","assets/taxonomy-BRZgduuU.js"];
+const BUILD_VERSION="94afc72f3a178732"; const BUILD_SHELL=["index.html","legal.html","theme.js","telegram.js","startup.js","boot.css","art/interface/fikr-emblem-mask-256.png","manifest.webmanifest","favicon.svg","assets/Book-B6q3c_H3.js","assets/Clock-DZ2WeULP.js","assets/CompactChoice-elhijksu.js","assets/Drill-C4eOCiEU.js","assets/Duo-DWdJMDKZ.js","assets/Editor-D1ZNs3gq.js","assets/GameSearch-xtjJ3KoS.js","assets/Homework-Bl7fNNni.js","assets/Lab-Cdds6DwP.js","assets/Loading-B7ifAtHu.css","assets/Loading-C-DJqRmH.js","assets/Play-DY4mGMyD.js","assets/PositionDatabase-hZGEELVF.js","assets/Profile-Hnwi6vXx.js","assets/Profile-PQU_8MAc.css","assets/Race-B7rRkzVj.js","assets/San-e-FUftit.js","assets/Sets-B3QzKwq9.js","assets/Sheet-BniO4WaU.js","assets/Studies-EmTARIsd.js","assets/Studies-INVfkwWp.css","assets/Team-DpVieZWT.js","assets/Tourney-mX22_l6k.js","assets/annotationAlignment-sNV6MHcS.js","assets/archiveDiscovery-j5XrV9Uf.js","assets/browser-DVTTPdyi.js","assets/clock-_antc8e_.js","assets/drills-iAZApHXO.js","assets/index-CHyqk3D2.js","assets/index-CMCYWNyM.css","assets/jsonDecode.worker-GvfOo3Q0.js","assets/literata-cyrillic-ext-wght-normal-CGKlZYBf.woff2","assets/literata-cyrillic-wght-normal-DLqwHbi6.woff2","assets/literata-greek-ext-wght-normal-e3e57Shi.woff2","assets/literata-greek-wght-normal-CO1l-giJ.woff2","assets/literata-latin-ext-wght-normal-BnEbWgdZ.woff2","assets/literata-latin-wght-normal-DLxlUchJ.woff2","assets/literata-vietnamese-wght-normal-LcSrhZ7T.woff2","assets/onest-cyrillic-wght-normal-DXI_y_WF.woff2","assets/onest-latin-ext-wght-normal-CnNj8hVb.woff2","assets/onest-latin-wght-normal-CUIqqgP9.woff2","assets/openLessonPosition-CiVuHXtg.js","assets/photos-98H-h2e3.js","assets/reviewedCommentIndex-qBf_BkPY.json","assets/settings-BDDZ14tg.js","assets/sound-S3d-b2zd.js","assets/squares-DNuNqKpP.js","assets/stockfish-dJJH8898.js","assets/strength-D-zbeDK2.js","assets/taxonomy-BRZgduuU.js"];
 const CACHE = PREFIX + (typeof BUILD_VERSION==='string' ? BUILD_VERSION : 'development')
 // Downloaded books/artwork outlive UI releases. Never prune this as an old shell.
 const RUNTIME = PREFIX + 'runtime'
@@ -71,10 +71,13 @@ self.addEventListener('fetch', (event) => {
   const pathname = new URL(request.url).pathname
   const documentPage = pathname.endsWith('.html') && pathname !== new URL(INDEX).pathname
     const key = navigation && !documentPage ? INDEX : request
-  const codeAsset = /\/assets\/[^/?]+\.(?:js|css|wasm)$/.test(request.url)
+  const shellAsset = SHELL.includes(request.url)
+  // JSON modules, bootstrap scripts, fonts and the loader mask are part of the
+  // installed UI too. Looking only in RUNTIME strands a fresh offline start.
+  const codeAsset = /\/assets\/[^/?]+\.(?:js|css|wasm|json)$/.test(request.url)
   const valid = response => !codeAsset || !response?.headers.get('content-type')?.includes('text/html')
   const task = (async () => {
-    const cache = await caches.open(navigation||documentPage||codeAsset ? CACHE : RUNTIME)
+    const cache = await caches.open(navigation||documentPage||codeAsset||shellAsset ? CACHE : RUNTIME)
     let cached = await cache.match(key)
     if(cached && !valid(cached))cached=undefined
     // Runtime data/artwork may have been downloaded before the last update.
@@ -92,7 +95,7 @@ self.addEventListener('fetch', (event) => {
     }
     // An open client always uses one complete UI version. Do not replace
     // its index with a newer index whose lazy modules may be unavailable.
-    if(cached && (navigation || SHELL.includes(request.url)))return {response:cached,network:Promise.resolve()}
+    if(cached && (navigation || shellAsset))return {response:cached,network:Promise.resolve()}
     const network = fetch(request).then(async response => {
       // A static host may serve the SPA HTML for a removed hash. Never cache
       // that as executable code: it would poison later offline starts.
