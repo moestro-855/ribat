@@ -87,8 +87,8 @@
    * оказывается за краем — со стороны это выглядит как «повисло». Просим
    * окно обратно и заставляем разметку пересчитаться.
    */
-  function wake() {
-    if (document.visibilityState !== 'visible') return
+  function wake(activated) {
+    if (activated !== true && document.visibilityState !== 'visible') return
     safely(function () {
       bridge.expand()
       if (bridge.disableVerticalSwipes) bridge.disableVerticalSwipes()
@@ -111,7 +111,7 @@
   safely(function () {
     bridge.onEvent('deactivated', function () { window.dispatchEvent(new Event('ribat:deactivated')) })
     bridge.onEvent('activated', function () {
-      wake()
+      wake(true)
       window.dispatchEvent(new Event('ribat:activated'))
     })
   })
