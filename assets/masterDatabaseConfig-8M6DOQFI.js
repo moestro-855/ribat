@@ -1,1 +1,0 @@
-var e={enabled:!0,directory:`data/games/master-classical-20261014-scope-v2/`,revision:`master-classical-20261014-scope-v2`};export{e as t};
