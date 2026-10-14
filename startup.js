@@ -4,10 +4,14 @@
   var waited = false
   function dismissSplash() {
     var splash=document.getElementById('boot-splash')
-    if(!splash)return
+    if(!splash||splash.classList.contains('boot-splash--closing'))return
     splash.setAttribute('aria-hidden','true')
     splash.classList.add('boot-splash--closing')
-    splash.addEventListener('transitionend',function(){splash.remove()},{once:true})
+    var finished=false
+    function remove(){if(!finished){finished=true;splash.remove()}}
+    splash.addEventListener('transitionend',function(event){if(event.target===splash)remove()})
+    // Reduced motion, backgrounding and old WebViews may omit transitionend.
+    setTimeout(remove,240)
   }
   document.addEventListener('ribat:mounted',dismissSplash,{once:true})
   function empty() { var root=document.getElementById('root');return root && !root.hasChildNodes() }
