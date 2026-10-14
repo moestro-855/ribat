@@ -1,1 +1,0 @@
-function e(){if(typeof document>`u`)return!0;if(typeof window<`u`){let e=window.Telegram?.WebApp;if(e?.platform&&e.platform!==`unknown`&&typeof e.isActive==`boolean`)return e.isActive}return document.visibilityState!==`hidden`}export{e as t};
