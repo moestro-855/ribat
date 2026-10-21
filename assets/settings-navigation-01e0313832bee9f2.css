@@ -1,0 +1,93 @@
+/* The category is a heading with one action, not another form field or tabbar.
+   Emitted independently so this small refinement leaves shared CSS URLs stable. */
+#root .app[data-route=profile] .settings-sections__picker.settings-section-trigger {
+ width:100%;min-height:64px;gap:16px;padding:6px 0 12px;margin:0;border:0;border-radius:0;
+ text-align:left;background:transparent;color:var(--text);cursor:pointer;
+}
+.settings-section-trigger__copy {display:grid;gap:5px;min-width:0;flex:1;}
+.settings-section-trigger__copy strong {font:600 19px/1.35 var(--font-ui);letter-spacing:-.025em;}
+.settings-section-trigger__copy small {font:400 11px/1.5 var(--font-ui);color:var(--muted);}
+.settings-section-trigger__action {display:flex;align-items:center;gap:5px;flex:none;color:var(--accent);font:500 11px/1.4 var(--font-ui);}
+.settings-section-trigger__action svg {transform:rotate(90deg);}
+#root .app[data-route=profile] .settings-section-trigger:focus-visible {outline:2px solid var(--accent);outline-offset:4px;border-radius:8px;}
+#root .app[data-route=profile] .settings-section-trigger:hover .settings-section-trigger__action {text-decoration:underline;text-underline-offset:4px;}
+.sheet-dialog--settings-sections .sheet__panel {height:auto;min-height:0;max-height:calc(100dvh - 24px);}
+.sheet-dialog--settings-sections .sheet__body {padding-top:6px;padding-bottom:20px;}
+.settings-category-list {display:grid;gap:8px;}
+.settings-category-list>button {display:grid;grid-template-columns:40px minmax(0,1fr) 20px;align-items:center;gap:12px;width:100%;min-height:80px;padding:12px;border:1px solid transparent;border-radius:16px;text-align:left;background:transparent;color:var(--text);cursor:pointer;}
+.settings-category-list>button[aria-pressed=true] {background:var(--accent-soft);}
+.settings-category-list>button:hover {background:color-mix(in srgb,var(--accent-soft) 70%,var(--surface));}
+.settings-category-list>button:focus-visible {outline:2px solid var(--accent);outline-offset:-2px;}
+.settings-category-list__icon {display:grid;place-items:center;width:40px;height:40px;border-radius:12px;background:var(--surface-2);color:var(--accent);}
+.settings-category-list__copy {display:grid;gap:5px;min-width:0;}
+.settings-category-list__copy strong {font:550 14px/1.4 var(--font-ui);}
+.settings-category-list__copy small {font:400 11px/1.5 var(--font-ui);color:var(--muted);}
+.settings-category-list__check {color:var(--accent);}
+@media(min-width:1100px) {
+ #root .app[data-route=profile] .settings-sections__picker.settings-section-trigger {display:none;}
+}
+@media(max-width:359px) {
+ .settings-category-list>button {grid-template-columns:34px minmax(0,1fr) 17px;gap:9px;padding:10px;}
+ .settings-category-list__icon {width:34px;height:34px;}
+}
+
+/* One settings control language: readable samples, quiet surfaces, a clear
+   selected state and short feedback without moving the layout or the buttons. */
+#root .app[data-route=profile] .profile-screen.profile-quiet[data-profile-tab=setup] {gap:22px;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content {gap:20px;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content>.panel {
+ padding:22px;border:1px solid color-mix(in srgb,var(--line) 65%,transparent);border-radius:22px;background:var(--surface);
+}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .panel__title {font:600 17px/1.4 var(--font-ui);margin-bottom:18px;gap:9px;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .skins {grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .skin {
+ min-height:132px;gap:12px;padding:8px 8px 12px;border:1px solid transparent;border-radius:16px;background:var(--surface-2);text-align:left;
+}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .skin__name {min-height:20px;padding-inline:4px 26px;font:500 12px/1.4 var(--font-ui);}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .skin__selected {top:auto;bottom:12px;right:12px;width:18px;height:18px;min-width:18px;border-radius:50%;color:var(--on-accent,var(--bg));}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .profile-palette {position:relative;display:block;height:80px;border-radius:10px;isolation:isolate;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .profile-palette i {position:absolute;display:block;border-radius:5px;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .profile-palette i:nth-child(1) {inset:0;border-radius:10px;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .profile-palette i:nth-child(2) {inset:10px auto 10px 10px;width:19px;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .profile-palette i:nth-child(3) {inset:10px 10px auto 36px;height:20px;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .profile-palette::after {content:'';position:absolute;inset:38px 10px 10px 36px;border-radius:5px;background:linear-gradient(180deg,#ffffff21 0 12px,transparent 12px 17px,#ffffff12 17px);}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content :is(.skin,.swatch,.sound-choice) {transition:background-color 140ms ease,border-color 140ms ease,box-shadow 140ms ease;animation:none;transform:none;scale:1;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content :is(.skin,.swatch,.sound-choice)[aria-pressed=true] {border-color:color-mix(in srgb,var(--accent) 75%,var(--line));background:var(--accent-soft);box-shadow:0 0 0 1px color-mix(in srgb,var(--accent) 50%,transparent);}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content :is(.skin,.swatch,.sound-choice):not([aria-pressed=true]):hover {background:color-mix(in srgb,var(--accent-soft) 35%,var(--surface-2));border-color:var(--line);}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content :is(.skin,.swatch,.sound-choice):active {background:var(--accent-soft);}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .chips {display:flex;flex-wrap:wrap;gap:6px;padding:4px;background:var(--surface-2);border-radius:14px;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .chip {flex:1;min-width:44px;min-height:44px;padding:9px 12px;border:0;border-radius:10px;background:transparent;font:500 13px/1.4 var(--font-ui);transition:background-color 140ms ease,color 140ms ease;animation:none;transform:none;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .chip[aria-pressed=true] {background:var(--surface);color:var(--accent);box-shadow:0 1px 3px #0000000a;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .seg {gap:4px;height:auto;padding:4px;border:0;border-radius:14px;background:var(--surface-2);}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .seg__item {min-height:44px;height:auto;padding:10px 8px;border:0;border-radius:10px;font-size:12px;background:transparent;transition:background-color 140ms ease,color 140ms ease;transform:none;animation:none;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .seg__item[aria-selected=true] {background:var(--surface);color:var(--accent);box-shadow:0 1px 3px #0000000a;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .seg__item::after {display:none;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .toggle {width:100%;gap:18px;padding:16px 0;min-height:76px;border:0;border-bottom:1px solid var(--line);border-radius:0;background:transparent;text-align:left;animation:none;transform:none;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .toggle:last-child {border-bottom:0;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .toggle__title {font:500 14px/1.4 var(--font-ui);}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .toggle__hint {font:400 11px/1.55 var(--font-ui);margin-top:5px;color:var(--muted);}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .toggle__switch {flex:none;width:44px;height:26px;background:var(--surface-2);box-shadow:inset 0 0 0 1px var(--line);transition:background-color 160ms ease;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .toggle__switch::after {width:20px;height:20px;top:3px;left:3px;background:var(--muted);transition:transform 160ms ease,background-color 160ms ease;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .toggle[aria-pressed=true] .toggle__switch {background:var(--accent);box-shadow:none;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .toggle[aria-pressed=true] .toggle__switch::after {transform:translateX(18px);background:var(--on-accent,var(--bg));}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .swatches {gap:10px;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .swatch {padding:10px;min-height:104px;border:1px solid transparent;border-radius:14px;background:var(--surface-2);}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .swatch__grid {width:48px;height:48px;border-radius:7px;overflow:hidden;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .swatch__label {font:500 11px/1.4 var(--font-ui);margin-top:8px;}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .sound-choice {min-height:96px;padding:16px;border:1px solid transparent;border-radius:16px;background:var(--surface-2);}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .sound-choice b {font:500 13px/1.4 var(--font-ui);}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .sound-wave {height:26px;color:var(--accent);}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content :is(.chip,.seg__item,.profile-more):hover {color:var(--accent);}
+#root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content :is(button,input):focus-visible {outline:2px solid var(--accent);outline-offset:3px;}
+@media(min-width:1100px) {
+ #root .app[data-route=profile] .profile-screen.profile-quiet[data-profile-tab=setup] {max-width:1200px;}
+ #root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-layout {grid-template-columns:192px minmax(0,1fr);gap:40px;}
+ #root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .skins {grid-template-columns:repeat(3,minmax(0,1fr));}
+ #root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content>.panel {padding:28px;}
+ #root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .board-workbench {grid-template-columns:minmax(240px,.9fr) minmax(0,1fr);gap:24px;}
+ #root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .board-workbench>.lookview {grid-column:1;grid-row:1/4;max-width:360px;}
+ #root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .board-workbench>:is(.seg,.swatches,.profile-style-more) {grid-column:2;}
+ #root .app[data-route=profile] .profile-screen.profile-quiet .profile-settings-content .board-workbench>.swatches {grid-template-columns:repeat(3,minmax(0,1fr));}
+}
+html[data-motion=reduced] .profile-settings-content *,html[data-motion=reduced] .profile-settings-content *::after {transition:none!important;animation:none!important;}
+@media(prefers-reduced-motion:reduce) {.profile-settings-content *,.profile-settings-content *::after {transition:none!important;animation:none!important;}}
