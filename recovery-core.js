@@ -3,7 +3,7 @@ export function readDeviceBackup(storage,source,createdAt=new Date().toISOString
  const entries=Object.create(null)
  for(let i=0;i<storage.length;i++){
   const key=storage.key(i)
-  if(key?.startsWith('trainer.')){
+  if(key?.startsWith('trainer.')&&!key.startsWith('trainer.index.')){
    const raw=storage.getItem(key)
    if(raw!==null)entries[key]=raw
   }

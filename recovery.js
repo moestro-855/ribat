@@ -1,4 +1,6 @@
 import {readDeviceBackup} from './recovery-core.js'
+import {recoverySession,sendRecovery,receiveRecovery} from './recovery-transfer.js'
+import {planDeviceRestore,applyDeviceRestore} from './recovery-restore.js'
 
 let backup=null,objectUrl=null
 const status=document.querySelector('#recovery-status'),save=document.querySelector('#recovery-save'),show=document.querySelector('#recovery-show'),copy=document.querySelector('#recovery-copy'),text=document.querySelector('#recovery-text')
@@ -37,3 +39,51 @@ copy?.addEventListener('click',async()=>{
  }
 })
 refresh()
+
+const bridge=window.Telegram?.WebApp,secret=new URLSearchParams(location.hash.slice(1)).get('restoreKey'),receive=new URLSearchParams(location.search).get('transfer')==='receive'
+const transfer=document.querySelector('#recovery-transfer'),sendButton=document.querySelector('#recovery-send'),receiveButton=document.querySelector('#recovery-receive'),applyButton=document.querySelector('#recovery-apply'),cloudStatus=document.querySelector('#recovery-cloud-status'),openApp=document.querySelector('#recovery-open')
+let restorePlan=null
+if(transfer&&secret&&bridge?.initData&&bridge.CloudStorage&&bridge.isVersionAtLeast?.('6.9')){
+ transfer.hidden=false;sendButton.hidden=receive;receiveButton.hidden=!receive
+ document.querySelector('#recovery-export').hidden=receive
+ document.querySelectorAll('[data-file-control]').forEach(element=>{element.hidden=true})
+ status.hidden=true
+ cloudStatus.textContent=receive?'Нажмите «Проверить копию». Восстановление начнётся только после вашего подтверждения.':'Нажмите «Передать копию». Ничего копировать в сообщения не потребуется.'
+ if(receive){document.querySelector('h1').textContent='Восстановим ваши записи';document.querySelector('#recovery-intro').textContent='Проверим копию и сохраним её на этом устройстве. Новые записи останутся на месте.'}
+ try{bridge.ready();bridge.expand()}catch{/* The data controls do not depend on expansion. */}
+ sendButton.addEventListener('click',async()=>{
+  sendButton.disabled=true
+  try{
+   refresh()
+   if(!backup)throw Error('Не удалось прочитать записи.')
+   if(!(backup.counts.groups>0||backup.counts.students>0))throw Error('Здесь нет групп и учеников. Откройте эту кнопку на прежнем телефоне, где вы их создавали.')
+   await sendRecovery(bridge.CloudStorage,secret,backup,(at,total)=>{cloudStatus.textContent=`Передаём копию: ${at} из ${total}`})
+   cloudStatus.textContent=`Копия готова: групп ${backup.counts.groups}, учеников ${backup.counts.students}. Вернитесь к помощнику и сообщите «Копия готова». Ничего копировать не нужно.`
+  }catch(error){cloudStatus.textContent=error.message}
+  finally{sendButton.disabled=false}
+ })
+ receiveButton.addEventListener('click',async()=>{
+  receiveButton.disabled=true;applyButton.disabled=true;restorePlan=null
+  try{
+   cloudStatus.textContent='Проверяем личную копию в Telegram…'
+   const incoming=await receiveRecovery(bridge.CloudStorage,secret)
+   restorePlan=planDeviceRestore(localStorage,incoming)
+   const counts=restorePlan.incomingCounts
+   if(!(counts?.groups>0||counts?.students>0))throw Error('В копии нет групп и учеников. Пустые списки не будут восстанавливаться.')
+   cloudStatus.textContent=`В копии: групп ${counts.groups}, учеников ${counts.students}. Новые записи будут сохранены. Перед переносом автоматически сохраним прежнее состояние этого устройства.`
+   applyButton.hidden=false;applyButton.disabled=false
+  }catch(error){cloudStatus.textContent=error.message}
+  finally{receiveButton.disabled=false}
+ })
+ applyButton.addEventListener('click',async()=>{
+  if(!restorePlan)return
+  applyButton.disabled=true;receiveButton.disabled=true
+  try{
+   const session=await recoverySession(secret)
+   applyDeviceRestore(localStorage,restorePlan,session.prefix.slice('fikr_restore_'.length))
+   const result=readDeviceBackup(localStorage,location.origin)
+   cloudStatus.textContent=`Записи восстановлены: групп ${result.counts.groups}, учеников ${result.counts.students}. Откройте Фикр и проверьте их.`
+   openApp.hidden=false
+  }catch(error){cloudStatus.textContent=error.message;receiveButton.disabled=false}
+ })
+}
