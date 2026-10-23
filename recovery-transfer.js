@@ -15,7 +15,8 @@ function call(cloud,method,...args){return new Promise((resolve,reject)=>{
  try{cloud[method](...args,done)}catch{done(true)}
 })}
 export async function sendRecovery(cloud,secret,backup,onProgress=()=>{}){
- const session=await recoverySession(secret),raw=new TextEncoder().encode(JSON.stringify(backup))
+ const clean={...backup,entries:Object.fromEntries(Object.entries(backup.entries).filter(([key])=>!key.startsWith('trainer.index.')))}
+ const session=await recoverySession(secret),raw=new TextEncoder().encode(JSON.stringify(clean))
  if(raw.length>MAX_BYTES)throw Error('Копия слишком велика для переноса.')
  let packed=raw,compressed=false
  if(typeof CompressionStream!=='undefined'){packed=new Uint8Array(await new Response(new Blob([raw]).stream().pipeThrough(new CompressionStream('gzip'))).arrayBuffer());compressed=true}

@@ -1,6 +1,6 @@
-import {readDeviceBackup} from './recovery-core.js'
-import {recoverySession,sendRecovery,receiveRecovery} from './recovery-transfer.js'
-import {planDeviceRestore,applyDeviceRestore} from './recovery-restore.js'
+import {readDeviceBackup} from './recovery-core.js?v=20261023-cloud2'
+import {recoverySession,sendRecovery,receiveRecovery} from './recovery-transfer.js?v=20261023-cloud2'
+import {planDeviceRestore,applyDeviceRestore} from './recovery-restore.js?v=20261023-cloud2'
 
 let backup=null,objectUrl=null
 const status=document.querySelector('#recovery-status'),save=document.querySelector('#recovery-save'),show=document.querySelector('#recovery-show'),copy=document.querySelector('#recovery-copy'),text=document.querySelector('#recovery-text')
